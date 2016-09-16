@@ -1,0 +1,2 @@
+[~]: /api/v1.0.18/docstrap
+[DependencyRule]: ~/bo.commonRules.DependencyRule.html

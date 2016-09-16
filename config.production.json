@@ -1,0 +1,14 @@
+{
+  "locale": {
+    "default": "en",
+    "en": "English",
+    "hu": "magyar"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "pass": "I-do-not-tell-it-to-anybody",
+    "ttl": 3600,
+    "db": 3
+  }
+}
