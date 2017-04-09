@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Életrajz
+keywords:       életrajz, Shakespeare
+description:    William Shakespeare életrajza.
 --- Menu system
-order:          100
-text:           About
+order:          10
+text:           Életrajz
 hidden:         false
 umbel:          false
 --- Page properties
@@ -15,6 +15,6 @@ layout:
 ---$-left:         
 ======================================================================= -->
 
-# About
+# Életrajz
 
-Description
+Leírás...

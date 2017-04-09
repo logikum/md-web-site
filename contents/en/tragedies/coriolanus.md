@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Coriolanus
+keywords:       Coriolanus, Shakespeare, tragedy
+description:    Coriolanus by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          20
+text:           Coriolanus
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Coriolanus
 
-Description
+Description...

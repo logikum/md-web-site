@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Much Ado About Nothing
+keywords:       Much Ado About Nothing, Shakespeare, comedy
+description:    Much Ado About Nothing by William Shakespeare.
 --- Menu system
 order:          100
-text:           About
+text:           Much Ado About Nothing
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Much Ado About Nothing
 
-Description
+Description...

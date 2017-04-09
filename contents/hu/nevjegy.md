@@ -10,4 +10,4 @@ text:         Névjegy
 
 # Névjegy
 
-Description
+Leírás...

@@ -1,0 +1,45 @@
+#### Tragedies
+
+* [Antony and Cleopatra]
+* [Coriolanus]
+* [Hamlet]
+* [Julius Caesar]
+* [King Lear]
+* [Macbeth]
+* [Othello]
+* [Romeo and Juliet]
+* [Timon of Athens]
+* [Titus Andronicus]
+
+#### Histories
+
+* [Henry IV, Part I]
+* [Henry IV, Part II]
+* [Henry V]
+* [Henry VI, Part I]
+* [Henry VI, Part II]
+* [Henry VI, Part III]
+* [Henry VIII]
+* [King John]
+* [Richard II]
+* [Richard III]
+
+#### Comedies
+
+* [All's Well That Ends Well]
+* [As You Like It]
+* [The Comedy of Errors]
+* [Cymbeline]
+* [Love's Labour's Lost]
+* [Measure for Measure]
+* [The Merchant of Venice]
+* [The Merry Wives of Windsor]
+* [A Midsummer Night's Dream]
+* [Much Ado About Nothing]
+* [Pericles, Prince of Tyre]
+* [The Taming of the Shrew]
+* [The Tempest]
+* [Troilus and Cressida]
+* [Twelfth Night]
+* [The Two Gentlemen of Verona]
+* [The Winter's Tale]

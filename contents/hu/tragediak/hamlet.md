@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Hamlet
+keywords:       Hamlet, Shakespeare, tragédia
+description:    William Shakespeare: Hamlet.
 --- Menu system
-order:          100
-text:           About
+order:          40
+text:           Hamlet
 hidden:         false
 umbel:          false
 --- Page properties
-id:             
+id:             /tragedies/hamlet
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Hamlet
 
-Description
+Leírás...

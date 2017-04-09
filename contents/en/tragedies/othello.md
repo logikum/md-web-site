@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Othello
+keywords:       Othello, Shakespeare, tragedy
+description:    Othello by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          70
+text:           Othello
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Othello
 
-Description
+Description...

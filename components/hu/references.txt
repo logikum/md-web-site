@@ -1,0 +1,39 @@
+[Antonius és Kleopátra]: /tragediak/antonius-es-kleopatra
+[Athéni Timon]: /tragediak/atheni-timon
+[Coriolanus]: /tragediak/coriolanus
+[Hamlet]: /tragediak/hamlet
+[Julius Caesar]: /tragediak/julius-caesar
+[Lear király]: /tragediak/lear-kiraly
+[Macbeth]: /tragediak/macbeth
+[Othello]: /tragediak/othello
+[Rómeó és Júlia]: /tragediak/romeo-es-julia
+[Titus Andronicus]: /tragediak/titus-andronicus
+
+[II. Richárd]: /kiralydramak/ii-richard
+[III. Richárd]: /kiralydramak/iii-richard
+[IV. Henrik, I. rész]: /kiralydramak/iv-henrik-i-resz
+[IV. Henrik, II. rész]: /kiralydramak/iv-henrik-ii-resz
+[V. Henrik]: /kiralydramak/v-henrik
+[VI. Henrik, I. rész]: /kiralydramak/vi-henrik-i-resz
+[VI. Henrik, II. rész]: /kiralydramak/vi-henrik-ii-resz
+[VI. Henrik, III. rész]: /kiralydramak/vi-henrik-iii-resz
+[VIII. Henrik]: /kiralydramak/viii-henrik
+[János király]: /kiralydramak/janos-kiraly
+
+[A két veronai nemes]: /vigjatekok/a-ket-veronai-nemes
+[A lóvá tett lovagok]: /vigjatekok/a-lova-tett-lovagok
+[A makrancos hölgy]: /vigjatekok/a-makrancos-holgy
+[A velencei kalmár]: /vigjatekok/a-velencei-kalmar
+[A vihar]: /vigjatekok/a-vihar
+[A windsori víg nők]: /vigjatekok/a-windsori-vig-nok
+[Ahogy tetszik]: /vigjatekok/ahogy-tetszik
+[Cymbeline]: /vigjatekok/cymbeline
+[Minden jó, ha vége jó]: /vigjatekok/minden-jo-ha-vege-jo
+[Pericles]: /vigjatekok/pericles
+[Sok hűhó semmiért]: /vigjatekok/sok-huho-semmiert
+[Szeget szeggel]: /vigjatekok/szeget-szeggel
+[Szentivánéji álom]: /vigjatekok/szentivaneji-alom
+[Téli rege]: /vigjatekok/teli-rege
+[Tévedések vígjátéka]: /vigjatekok/tevedesek-vigjateka
+[Troilus és Cressida]: /vigjatekok/troilus-es-cressida
+[Vízkereszt, vagy amit akartok]: /vigjatekok/vizkereszt-vagy-amit-akartok

@@ -1,0 +1,45 @@
+#### Tragedies
+
+* [Antonius és Kleopátra]
+* [Athéni Timon]
+* [Coriolanus]
+* [Hamlet]
+* [Julius Caesar]
+* [Lear király]
+* [Macbeth]
+* [Othello]
+* [Rómeó és Júlia]
+* [Titus Andronicus]
+
+#### Histories
+
+* [II. Richárd]
+* [III. Richárd]
+* [IV. Henrik, I. rész]
+* [IV. Henrik, II. rész]
+* [V. Henrik]
+* [VI. Henrik, I. rész]
+* [VI. Henrik, II. rész]
+* [VI. Henrik, III. rész]
+* [VIII. Henrik]
+* [János király]
+
+#### Comedies
+
+* [A két veronai nemes]
+* [A lóvá tett lovagok]
+* [A makrancos hölgy]
+* [A velencei kalmár]
+* [A vihar]
+* [A windsori víg nők]
+* [Ahogy tetszik]
+* [Cymbeline]
+* [Minden jó, ha vége jó]
+* [Pericles]
+* [Sok hűhó semmiért]
+* [Szeget szeggel]
+* [Szentivánéji álom]
+* [Téli rege]
+* [Tévedések vígjátéka]
+* [Troilus és Cressida]
+* [Vízkereszt, vagy amit akartok]

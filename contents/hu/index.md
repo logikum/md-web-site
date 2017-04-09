@@ -7,4 +7,4 @@ keywords:     business-objects, JavaScript, node.js
 
 # Honlap
 
-Leírás
+Leírás...

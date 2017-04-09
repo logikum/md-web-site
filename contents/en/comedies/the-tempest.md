@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          The Tempest
+keywords:       The Tempest, Shakespeare, comedy
+description:    The Tempest by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          130
+text:           The Tempest
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# The Tempest
 
-Description
+Description...

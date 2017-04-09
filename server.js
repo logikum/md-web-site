@@ -10,16 +10,22 @@ var session = require( 'express-session' );
 var RedisStore = require( 'connect-redis' )( session );
 var engine = require( 'md-site-engine' );
 
+// Determine run mode.
+var mode = process.env.PORT || 'development';
+
+// Get configuration.
+var configPath = 'config/' + mode + '.json';
+var config = engine.getConfiguration( configPath );
+
 // Set up content manager.
-var configPath = 'config.' + (process.env.PORT ? 'production' : 'development') + '.json';
-var config = engine.getConfig( configPath );
 var contents = engine.getContents( config );
 
 // Create application.
 var app = module.exports = express();
 
 // Serve favicon.
-app.use( favicon( path.join( __dirname, config.content.public, 'favicon.ico' ) ) );
+var pub = path.join( __dirname, config.public, 'favicon.ico' );
+app.use( favicon( path.join( __dirname, config.public, 'favicon.ico' ) ) );
 
 // Secure the application.
 app.use( helmet() );
@@ -36,11 +42,12 @@ app.use( session( {
 app.use( compression() );
 
 // Serve static files.
-app.use( serveStatic( config.content.public, { index: false } ) );
+app.use( serveStatic( config.public, { index: false } ) );
 
-// Set language and markdown routes.
-contents.setRoutes( app );
+// Set site routes.
+contents.setRoutes( app, mode === 'development' );
 
+// Start web server.
 var host = process.env.HOST || '127.0.0.1';
 var port = process.env.PORT || 3000;
 var server = app.listen( port, host, function () {

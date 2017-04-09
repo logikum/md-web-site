@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Biography
+keywords:       biography, Shakespeare
+description:    Biography by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          10
+text:           Biography
 hidden:         false
 umbel:          false
 --- Page properties
@@ -15,6 +15,6 @@ layout:
 ---$-left:         
 ======================================================================= -->
 
-# About
+# Biography
 
-Description
+Description...

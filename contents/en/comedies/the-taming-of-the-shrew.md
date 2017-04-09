@@ -1,0 +1,20 @@
+<!-- ======================================================================
+--- Search engine
+title:          The Taming of the Shrew
+keywords:       The Taming of the Shrew, Shakespeare, comedy
+description:    The Taming of the Shrew by William Shakespeare.
+--- Menu system
+order:          120
+text:           The Taming of the Shrew
+hidden:         false
+umbel:          false
+--- Page properties
+id:             
+document:       
+layout:         layout-2-left
+$-left:         play-list
+======================================================================= -->
+
+# The Taming of the Shrew
+
+Description...

@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Richard II
+keywords:       Richard II, Shakespeare, history
+description:    Richard II by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          90
+text:           Richard II
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Richard II
 
-Description
+Description...

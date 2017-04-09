@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          As You Like It
+keywords:       As You Like It, Shakespeare, comedy
+description:    As You Like It by William Shakespeare.
 --- Menu system
-order:          100
-text:           About
+order:          20
+text:           As You Like It
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# As You Like It
 
-Description
+Description...

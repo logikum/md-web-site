@@ -1,0 +1,28 @@
+{
+  "locale": {
+    "default": "en",
+    "en": "English",
+    "hu": "magyar"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 3
+  },
+  "session": {
+      "secret": "business-objects",
+      "resave": false,
+      "saveUninitialized": true
+  },
+  "path": {
+    "components": "/components",
+    "contents": "/contents",
+    "controls": "/controls",
+    "public": "/public"
+  },
+  "file": {
+    "document": "document.htm",
+    "layout": "layout.html",
+    "reference": "references.txt"
+  }
+}

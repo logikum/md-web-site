@@ -1,20 +1,20 @@
 <!-- ======================================================================
 --- Search engine
-title:          About
-keywords:       md-site-engine
-description:    About of the site.
+title:          Cymbeline
+keywords:       Cymbeline, Shakespeare, vígjáték
+description:    William Shakespeare: Cymbeline.
 --- Menu system
-order:          100
-text:           About
+order:          40
+text:           Cymbeline
 hidden:         false
 umbel:          false
 --- Page properties
 id:             
 document:       
-layout:         
----$-left:         
+layout:         layout-2-left
+$-left:         play-list
 ======================================================================= -->
 
-# About
+# Cymbeline
 
-Description
+Leírás...
