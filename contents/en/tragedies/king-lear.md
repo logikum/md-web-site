@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          King Lear
-keywords:       King Lear, Shakespeare, tragedy
+keywords:       king, Lear, tragedy
 description:    King Lear by William Shakespeare.
 --- Menu system
 order:          50

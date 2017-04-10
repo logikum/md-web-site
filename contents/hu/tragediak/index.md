@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Tragédiák
-keywords:       William Shakespeare, tragédiák
+keywords:       tragédiák
 description:    William Shakespeare tragédiái.
 --- Menu system
 order:          0

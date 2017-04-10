@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Richard III
-keywords:       Richard III, Shakespeare, history
+keywords:       Richard III, history
 description:    Richard III by William Shakespeare.
 --- Menu system
 order:          100

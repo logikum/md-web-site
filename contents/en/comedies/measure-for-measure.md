@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Measure for Measure
-keywords:       Measure for Measure, Shakespeare, comedy
+keywords:       measure, comedy
 description:    Measure for Measure by William Shakespeare.
 --- Menu system
 order:          60

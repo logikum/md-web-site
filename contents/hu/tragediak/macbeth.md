@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Macbeth
-keywords:       Macbeth, Shakespeare, tragédia
+keywords:       Macbeth, tragédia
 description:    William Shakespeare: Macbeth.
 --- Menu system
 order:          70

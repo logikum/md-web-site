@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Szentivánéji álom
-keywords:       szentivánéji álom, Shakespeare, vígjáték
+keywords:       szentivánéj, álom, vígjáték
 description:    William Shakespeare: Szentivánéji álom.
 --- Menu system
 order:          90

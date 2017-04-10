@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A két veronai nemes
-keywords:       a két veronai nemes, Shakespeare, vígjáték
+keywords:       kettő, Verona, nemes, vígjáték
 description:    William Shakespeare: A két veronai nemes.
 --- Menu system
 order:          160

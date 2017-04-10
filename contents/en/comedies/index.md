@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Comedies
-keywords:       William Shakespeare, comedies
+keywords:       comedies
 description:    Comedies of William Shakespeare.
 --- Menu system
 order:          0

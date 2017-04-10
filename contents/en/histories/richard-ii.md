@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Richard II
-keywords:       Richard II, Shakespeare, history
+keywords:       Richard II, history
 description:    Richard II by William Shakespeare.
 --- Menu system
 order:          90

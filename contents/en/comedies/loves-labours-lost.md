@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Love's Labour's Lost
-keywords:       Love's Labour's Lost, Shakespeare, comedy
+keywords:       love, labour, lost, comedy
 description:    Love's Labour's Lost by William Shakespeare.
 --- Menu system
 order:          50

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Macbeth
-keywords:       Macbeth, Shakespeare, tragedy
+keywords:       Macbeth, tragedy
 description:    Macbeth by William Shakespeare.
 --- Menu system
 order:          60

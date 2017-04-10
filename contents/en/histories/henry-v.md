@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Henry V
-keywords:       Henry V, Shakespeare, history
+keywords:       Henry V, history
 description:    Henry V by William Shakespeare.
 --- Menu system
 order:          30

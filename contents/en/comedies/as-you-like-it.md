@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          As You Like It
-keywords:       As You Like It, Shakespeare, comedy
+keywords:       you, yike, comedy
 description:    As You Like It by William Shakespeare.
 --- Menu system
 order:          20

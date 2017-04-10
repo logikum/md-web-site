@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Much Ado About Nothing
-keywords:       Much Ado About Nothing, Shakespeare, comedy
+keywords:       much, ado, nothing, comedy
 description:    Much Ado About Nothing by William Shakespeare.
 --- Menu system
 order:          100

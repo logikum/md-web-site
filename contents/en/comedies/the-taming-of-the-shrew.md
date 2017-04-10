@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Taming of the Shrew
-keywords:       The Taming of the Shrew, Shakespeare, comedy
+keywords:       taming, shrew, comedy
 description:    The Taming of the Shrew by William Shakespeare.
 --- Menu system
 order:          120

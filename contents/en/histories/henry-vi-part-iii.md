@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Henry VI, Part III
-keywords:       Henry VI Part III, Shakespeare, history
+keywords:       Henry VI, part, history
 description:    Henry VI, Part III by William Shakespeare.
 --- Menu system
 order:          60

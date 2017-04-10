@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Tempest
-keywords:       The Tempest, Shakespeare, comedy
+keywords:       tempest, comedy
 description:    The Tempest by William Shakespeare.
 --- Menu system
 order:          130

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Merry Wives of Windsor
-keywords:       The Merry Wives of Windsor, Shakespeare, comedy
+keywords:       merry, wives, Windsor, comedy
 description:    The Merry Wives of Windsor by William Shakespeare.
 --- Menu system
 order:          80

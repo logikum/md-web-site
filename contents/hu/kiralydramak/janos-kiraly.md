@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          János király
-keywords:       János király, Shakespeare, királydráma
+keywords:       János, király, királydráma
 description:    William Shakespeare: János király.
 --- Menu system
 order:          100

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Merchant of Venice
-keywords:       The Merchant of Venice, Shakespeare, comedy
+keywords:       merchant, Venice, comedy
 description:    The Merchant of Venice by William Shakespeare.
 --- Menu system
 order:          70

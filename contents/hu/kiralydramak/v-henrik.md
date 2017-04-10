@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          V. Henrik
-keywords:       V. Henrik, Shakespeare, királydráma
+keywords:       V. Henrik, királydráma
 description:    William Shakespeare: V. Henrik.
 --- Menu system
 order:          50

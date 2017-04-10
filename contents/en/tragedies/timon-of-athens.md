@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Timon of Athens
-keywords:       Timon, Athens, Shakespeare, tragedy
+keywords:       Timon, Athens, tragedy
 description:    Timon of Athens by William Shakespeare.
 --- Menu system
 order:          90

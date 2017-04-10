@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          VI. Henrik, III. rész
-keywords:       VI. Henrik, III. rész, Shakespeare, királydráma
+keywords:       VI. Henrik, rész, királydráma
 description:    William Shakespeare: VI. Henrik, III. rész.
 --- Menu system
 order:          80

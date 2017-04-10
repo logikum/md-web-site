@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Coriolanus
-keywords:       Coriolanus, Shakespeare, tragedy
+keywords:       Coriolanus, tragedy
 description:    Coriolanus by William Shakespeare.
 --- Menu system
 order:          20

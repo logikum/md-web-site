@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Királydrámák
-keywords:       William Shakespeare, királydrámák
+keywords:       királydrámák
 description:    William Shakespeare királydrámái.
 --- Menu system
 order:          0

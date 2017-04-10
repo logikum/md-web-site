@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Romeo and Juliet
-keywords:       Romeo, Juliet, Shakespeare, tragedy
+keywords:       Romeo, Juliet, tragedy
 description:    Romeo and Juliet by William Shakespeare.
 --- Menu system
 order:          80

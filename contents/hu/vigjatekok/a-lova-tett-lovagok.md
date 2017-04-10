@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A lóvá tett lovagok
-keywords:       a lóvá tett lovagok, Shakespeare, vígjáték
+keywords:       ló, tesz, lovag, vígjáték
 description:    William Shakespeare: A lóvá tett lovagok.
 --- Menu system
 order:          50

@@ -17,157 +17,157 @@ layout:
 
 # Shakespeare szonettjei
 
-Sonnet 1	-	From fairest creatures we desire increase  
-Sonnet 2	-	When forty winters shall beseige thy brow  
-Sonnet 3	-	Look in thy glass, and tell the face thou viewest  
-Sonnet 4	-	Unthrifty loveliness, why dost thou spend  
-Sonnet 5	-	Those hours, that with gentle work did frame  
-Sonnet 6	-	Then let not winter's ragged hand deface  
-Sonnet 7	-	Lo! in the orient when the gracious light  
-Sonnet 8	-	Music to hear, why hear'st thou music sadly?  
-Sonnet 9	-	Is it for fear to wet a widow's eye  
-Sonnet 10	-	For shame! deny that thou bear'st love to any,  
-Sonnet 11	-	As fast as thou shalt wane, so fast thou growest  
-Sonnet 12	-	When I do count the clock that tells the time,  
-Sonnet 13	-	O, that you were yourself! but, love, you are  
-Sonnet 14	-	Not from the stars do I my judgment pluck  
-Sonnet 15	-	When I consider every thing that grows  
-Sonnet 16	-	But wherefore do not you a mightier way  
-Sonnet 17	-	Who will believe my verse in time to come,  
-Sonnet 18	-	Shall I compare thee to a summer's day?  
-Sonnet 19	-	Devouring Time, blunt thou the lion's paws  
-Sonnet 20	-	A woman's face with Nature's own hand painted  
-Sonnet 21	-	So is it not with me as with that Muse  
-Sonnet 22	-	My glass shall not persuade me I am old,  
-Sonnet 23	-	As an unperfect actor on the stage  
-Sonnet 24	-	Mine eye hath play'd the painter and hath stell'd  
-Sonnet 25	-	Let those who are in favour with their stars  
-Sonnet 26	-	Lord of my love, to whom in vassalage  
-Sonnet 27	-	Weary with toil, I haste me to my bed,  
-Sonnet 28	-	How can I then return in happy plight,  
-Sonnet 29	-	When, in disgrace with fortune and men's eyes  
-Sonnet 30	-	When to the sessions of sweet silent thought  
-Sonnet 31	-	Thy bosom is endeared with all hearts,  
-Sonnet 32	-	If thou survive my well-contented day,  
-Sonnet 33	-	Full many a glorious morning have I seen  
-Sonnet 34	-	Why didst thou promise such a beauteous day,  
-Sonnet 35	-	No more be grieved at that which thou hast done  
-Sonnet 36	-	Let me confess that we two must be twain,  
-Sonnet 37	-	As a decrepit father takes delight  
-Sonnet 38	-	How can my Muse want subject to invent,  
-Sonnet 39	-	O, how thy worth with manners may I sing  
-Sonnet 40	-	Take all my loves, my love, yea, take them all;  
-Sonnet 41	-	Those petty wrongs that liberty commits,  
-Sonnet 42	-	That thou hast her, it is not all my grief,  
-Sonnet 43	-	When most I wink, then do mine eyes best see,  
-Sonnet 44	-	If the dull substance of my flesh were thought  
-Sonnet 45	-	The other two, slight air and purging fire,  
-Sonnet 46	-	Mine eye and heart are at a mortal war  
-Sonnet 47	-	Betwixt mine eye and heart a league is took  
-Sonnet 48	-	How careful was I, when I took my way,  
-Sonnet 49	-	Against that time, if ever that time come,  
-Sonnet 50	-	How heavy do I journey on the way,  
-Sonnet 51	-	Thus can my love excuse the slow offence  
-Sonnet 52	-	So am I as the rich, whose blessed key  
-Sonnet 53	-	What is your substance, whereof are you made,  
-Sonnet 54	-	O, how much more doth beauty beauteous seem  
-Sonnet 55	-	Not marble, nor the gilded monuments  
-Sonnet 56	-	Sweet love, renew thy force; be it not said  
-Sonnet 57	-	Being your slave, what should I do but tend  
-Sonnet 58	-	That god forbid that made me first your slave  
-Sonnet 59	-	If there be nothing new, but that which is  
-Sonnet 60	-	Like as the waves make towards the pebbled shore,  
-Sonnet 61	-	Is it thy will thy image should keep open  
-Sonnet 62	-	Sin of self-love possesseth all mine eye  
-Sonnet 63	-	Against my love shall be, as I am now,  
-Sonnet 64	-	When I have seen by Time's fell hand defaced  
-Sonnet 65	-	Since brass, nor stone, nor earth, nor boundless sea  
-Sonnet 66	-	Tired with all these, for restful death I cry,  
-Sonnet 67	-	Ah! wherefore with infection should he live,  
-Sonnet 68	-	Thus is his cheek the map of days outworn,  
-Sonnet 69	-	Those parts of thee that the world's eye doth view  
-Sonnet 70	-	That thou art blamed shall not be thy defect,  
-Sonnet 71	-	No longer mourn for me when I am dead  
-Sonnet 72	-	O, lest the world should task you to recite  
-Sonnet 73	-	That time of year thou mayst in me behold  
-Sonnet 74	-	But be contented: when that fell arrest  
-Sonnet 75	-	So are you to my thoughts as food to life  
-Sonnet 76	-	Why is my verse so barren of new pride,  
-Sonnet 77	-	Thy glass will show thee how thy beauties wear,  
-Sonnet 78	-	So oft have I invoked thee for my Muse  
-Sonnet 79	-	Whilst I alone did call upon thy aid,  
-Sonnet 80	-	O, how I faint when I of you do write  
-Sonnet 81	-	Or I shall live your epitaph to make,  
-Sonnet 82	-	I grant thou wert not married to my Muse  
-Sonnet 83	-	I never saw that you did painting need  
-Sonnet 84	-	Who is it that says most? which can say more  
-Sonnet 85	-	My tongue -tied Muse in manners holds her still,  
-Sonnet 86	-	Was it the proud full sail of his great verse,  
-Sonnet 87	-	Farewell! thou art too dear for my possessing,  
-Sonnet 88	-	When thou shalt be disposed to set me light,  
-Sonnet 89	-	Say that thou didst forsake me for some fault,  
-Sonnet 90	-	Then hate me when thou wilt; if ever, now;  
-Sonnet 91	-	Some glory in their birth, some in their skill,  
-Sonnet 92	-	But do thy worst to steal thyself away,  
-Sonnet 93	-	So shall I live, supposing thou art true,  
-Sonnet 94	-	They that have power to hurt and will do none,  
-Sonnet 95	-	How sweet and lovely dost thou make the shame  
-Sonnet 96	-	Some say thy fault is youth, some wantonness;  
-Sonnet 97	-	How like a winter hath my absence been  
-Sonnet 98	-	From you have I been absent in the spring,  
-Sonnet 99	-	The forward violet thus did I chide  
-Sonnet 100	-	Where art thou, Muse, that thou forget'st so long  
-Sonnet 101	-	O truant Muse, what shall be thy amends  
-Sonnet 102	-	My love is strengthen'd, though more weak in seeming;  
-Sonnet 103	-	Alack, what poverty my Muse brings forth,  
-Sonnet 104	-	To me, fair friend, you never can be old  
-Sonnet 105	-	Let not my love be call'd idolatry,  
-Sonnet 106	-	When in the chronicle of wasted time  
-Sonnet 107	-	Not mine own fears, nor the prophetic soul  
-Sonnet 108	-	What's in the brain that ink may character  
-Sonnet 109	-	O, never say that I was false of heart  
-Sonnet 110	-	Alas, 'tis true I have gone here and there  
-Sonnet 111	-	O, for my sake do you with Fortune chide,  
-Sonnet 112	-	Your love and pity doth the impression fill  
-Sonnet 113	-	Since I left you, mine eye is in my mind;  
-Sonnet 114	-	Or whether doth my mind, being crown'd with you,  
-Sonnet 115	-	Those lines that I before have writ do lie,  
-Sonnet 116	-	Let me not to the marriage of true minds  
-Sonnet 117	-	Accuse me thus: that I have scanted all  
-Sonnet 118	-	Like as, to make our appetites more keen,  
-Sonnet 119	-	What potions have I drunk of Siren tears,  
-Sonnet 120	-	That you were once unkind befriends me now,  
-Sonnet 121	-	'Tis better to be vile than vile esteem'd,  
-Sonnet 122	-	Thy gift, thy tables, are within my brain  
-Sonnet 123	-	No, Time, thou shalt not boast that I do change:  
-Sonnet 124	-	If my dear love were but the child of state,  
-Sonnet 125	-	Were 't aught to me I bore the canopy,  
-Sonnet 126	-	O thou, my lovely boy, who in thy power  
-Sonnet 127	-	if it were, it bore not beauty's name;  
-Sonnet 128	-	oft, when thou, my music, music play'st,  
-Sonnet 129	-	The expense of spirit in a waste of shame  
-Sonnet 130	-	My mistress' eyes are nothing like the sun  
-Sonnet 131	-	Thou art as tyrannous, so as thou art,  
-Sonnet 132	-	Thine eyes I love, and they, as pitying me,  
-Sonnet 133	-	Beshrew that heart that makes my heart to groan  
-Sonnet 134	-	So, now I have confess'd that he is thine,  
-Sonnet 135	-	Whoever hath her wish, thou hast thy 'Will,'  
-Sonnet 136	-	If thy soul cheque thee that I come so near,  
-Sonnet 137	-	Thou blind fool, Love, what dost thou to mine eyes,  
-Sonnet 138	-	When my love swears that she is made of truth  
-Sonnet 139	-	O, call not me to justify the wrong  
-Sonnet 140	-	Be wise as thou art cruel; do not press  
-Sonnet 141	-	In faith, I do not love thee with mine eyes  
-Sonnet 142	-	Love is my sin and thy dear virtue hate  
-Sonnet 143	-	Lo! as a careful housewife runs to catch  
-Sonnet 144	-	Two loves I have of comfort and despair  
-Sonnet 145	-	Those lips that Love's own hand did make  
-Sonnet 146	-	Poor soul, the centre of my sinful earth,  
-Sonnet 147	-	My love is as a fever, longing still  
-Sonnet 148	-	O me, what eyes hath Love put in my head,  
-Sonnet 149	-	Canst thou, O cruel! say I love thee not,  
-Sonnet 150	-	O, from what power hast thou this powerful might  
-Sonnet 151	-	Love is too young to know what conscience is;  
-Sonnet 152	-	In loving thee thou know'st I am forsworn,  
-Sonnet 153	-	Cupid laid by his brand, and fell asleep:  
-Sonnet 154	-	The little Love-god lying once asleep  
+Sonnet 1	-	A gyönyörűt szaporítani vágyunk,  
+Sonnet 2	-	Ha homlokod negyven tél ostroma  
+Sonnet 3	-	Nézz tükrödbe, s mondd az arcnak, melyet látsz,  
+Sonnet 4	-	Tékozló báj, mért pazarlod saját  
+Sonnet 5	-	Az órák, melyek halk remekbe fogták  
+Sonnet 6	-	Ne hagyd hát, hogy törölje nyarad a  
+Sonnet 7	-	Nézd, mikor emeli égő fejét  
+Sonnet 8	-	Ki Zene vagy, mért bús a zene néked?  
+Sonnet 9	-	Könnytől félted tán egy özvegy szemét,  
+Sonnet 10	-	Szégyen! Mondd, hogy nincs nő, akit szeretnél,  
+Sonnet 11	-	Ahogy romlasz, úgy nőssz a tieid  
+Sonnet 12	-	Számolva az óramondó időt  
+Sonnet 13	-	Bár magadé volnál! de az, szerelmem,  
+Sonnet 14	-	Nem fejtem a csillagok titkait,  
+Sonnet 15	-	Ha meggondolom, hogy csak egy rövid  
+Sonnet 16	-	De mért nem várja különb fegyvered  
+Sonnet 17	-	Hogy lesz egykor versemnek hitele,  
+Sonnet 18	-	Mondjam: társad, másod a nyári nap?  
+Sonnet 19	-	Falánk idő, nyűdd az oroszlán körmét,  
+Sonnet 20	-	Lánynak festette maga a Teremtés  
+Sonnet 21	-	Az enyém nem olyan, mint az a Múzsa,  
+Sonnet 22	-	Tükröm hiába mondja, hogy öregszem,  
+Sonnet 23	-	Mint tökéletlen színész a színen,  
+Sonnet 24	-	Szemem a festőt játszotta, s szívem  
+Sonnet 25	-	Fitogtasson, kit csillaga kegyel,  
+Sonnet 26	-	Szerelmem lordja, kihez érdemed  
+Sonnet 27	-	Kimerült utas, esem édes ágyba,  
+Sonnet 28	-	Hogy legyek hát megint derűs kedély,  
+Sonnet 29	-	Ha, vesztve nép és Szerencse kegyét,  
+Sonnet 30	-	Ha a merengés édes ünnepén  
+Sonnet 31	-	Szívedbe gyűlt, kincstárba, mind a szív,  
+Sonnet 32	-	Ha túléled ama boldog napot,  
+Sonnet 33	-	Dicső hajnalok csókos úr-szemét  
+Sonnet 34	-	Mért bíztattál, hogy szép lesz, derű, fény  
+Sonnet 35	-	Bármit tettél, ne bánkódj; tüske van  
+Sonnet 36	-	Bizony, jobb, ha utunk most elszakad,  
+Sonnet 37	-	Ahogy rokkant apának öröm ifjú  
+Sonnet 38	-	Hogy fogyhatna ki múzsám tárgya, míg  
+Sonnet 39	-	Hogy hirdessem illendőn érdemed,  
+Sonnet 40	-	Vedd kedveseim, kedves, vedd, igen, mind:  
+Sonnet 41	-	Kecses bűneid, mikre a szabadság,  
+Sonnet 42	-	Hogy ő tied, nemcsak azt fájlalom,  
+Sonnet 43	-	Lecsukva lát legjobban a szemem,  
+Sonnet 44	-	Ne volna testem nehéz hús, de szellem,  
+Sonnet 45	-	Két társuk, tisztító tűz s lenge lég,  
+Sonnet 46	-	Gyilkos csatát vív szemem és szívem:  
+Sonnet 47	-	Frigy köti szememet-szívemet,  
+Sonnet 48	-	Mily gonddal zárta, útra kelve, hű  
+Sonnet 49	-	A jövő ellen, ha jön oly jövő,  
+Sonnet 50	-	De nehezen haladok utamon,  
+Sonnet 51	-	Így mentheti szívem rossz lovamat  
+Sonnet 52	-	Úgy vagyok, mint a gazdag, aki, bár  
+Sonnet 53	-	Mily lényeg formált, hogy oly árnytömeg,  
+Sonnet 54	-	Ó, mennyire megszépíti a szépet  
+Sonnet 55	-	Márvány s királyi arany oszlopok  
+Sonnet 56	-	Újítsd erődet, édes szerelem;  
+Sonnet 57	-	Rabod lévén, más dolgom mi legyen,  
+Sonnet 58	-	Ments isten, ki raboddá tett, hogy én  
+Sonnet 59	-	Ha nincsen új s mind volt már, ami van  
+Sonnet 60	-	Mint a kavicsos part felé a hullám,  
+Sonnet 61	-	Te akarod, hogy képed nyitva tartsa  
+Sonnet 62	-	Az önzés bűne szállta meg szemem,  
+Sonnet 63	-	Az lesz majd szerelmem, ami ma én,  
+Sonnet 64	-	Látván az Idő, zord kéz, hogy töröl  
+Sonnet 65	-	Ha bronz, kő s a föld s a nagy tengerek  
+Sonnet 66	-	Fáradt vagyok, ringass el, ó, halál:  
+Sonnet 67	-	Ah, mért most él ő, e ragályban, itt,  
+Sonnet 68	-	Így arca tűnt napok rajza, mikor  
+Sonnet 69	-	Azon, mit rajtad földi szem elér,  
+Sonnet 70	-	Hogy ócsárolnak, ne bántson soha,  
+Sonnet 71	-	Hogyha meghalok, ne tovább, ne gyászolj,  
+Sonnet 72	-	Hogy a világ ne kérdje szüntelen:  
+Sonnet 73	-	Nézd, életem az az évszak, amelyben  
+Sonnet 74	-	De légy nyugodt: ha az a zord parancs  
+Sonnet 75	-	Az vagy nekem, mint testnek a kenyér  
+Sonnet 76	-	Új dísztől dalom mért oly tar? Dicső  
+Sonnet 77	-	TA tükör int: szépséged színe vesz,  
+Sonnet 78	-	Múzsámul annyit invokáltalak  
+Sonnet 79	-	Míg más, hogy segítsd, nem fordult feléd,  
+Sonnet 80	-	Hogy lankaszt tudni, ha rólad írok,  
+Sonnet 81	-	Akár én írom fejfádat, akár  
+Sonnet 82	-	Úgy van, nem vagy Múzsám arája: olvasd  
+Sonnet 83	-	Sohase láttam, hogy festékre van  
+Sonnet 84	-	Mondjon legtöbbet, ki mond többet annál  
+Sonnet 85	-	Múzsám némultan vonul vissza, míg  
+Sonnet 86	-	Az ő vitorlaröptű dala tette,  
+Sonnet 87	-	Ég veled, te, túldrága, hogy enyém légy,  
+Sonnet 88	-	Ha kedved jön lenézni, s megvetés  
+Sonnet 89	-	Mondd, hogy azért hagytál el, mert hibáztam,  
+Sonnet 90	-	Gyűlölj, ha akarsz, ha valaha most;  
+Sonnet 91	-	Ennek gőgje a rang, annak az ész,  
+Sonnet 92	-	De csak tedd, ami kínok kínja, hagyj itt:  
+Sonnet 93	-	Úgy fogok élni, hűnek tartva téged,  
+Sonnet 94	-	Ki nem árt, bár van benne rá erő,  
+Sonnet 95	-	Mily édes báj a szégyen, ha tiéd,  
+Sonnet 96	-	Ez szid: Kár, hogy ifjú s könnyelmű vagy!  
+Sonnet 97	-	De komor tél volt tőled távol élnem,  
+Sonnet 98	-	Távol telt tőled tavaszom, midőn  
+Sonnet 99	-	Így szidtam a túlbuzgó ibolyát:  
+Sonnet 100	-	Hol vagy, Múzsám, hogy dalod oly soká  
+Sonnet 101	-	Renyhe Múzsa, hogy pótlod a mulasztást,  
+Sonnet 102	-	Szerelmem, bár gyengült látszatra, nőtt;  
+Sonnet 103	-	Ah! be hitvány, amit Múzsám elér,  
+Sonnet 104	-	Nem öregedsz szememben, szép barátom:  
+Sonnet 105	-	Ne mondd, hogy szerelmem bálványozás  
+Sonnet 106	-	Ha nézem a múlt krónikáiban  
+Sonnet 107	-	Se saját rémem, sem a nagy világ  
+Sonnet 108	-	Van új az agyban, amit toll leírhat  
+Sonnet 109	-	Ó, ne mondd szívem hamisnak, barátom,  
+Sonnet 110	-	Ó, jaj, igaz: sokfele kóboroltam,  
+Sonnet 111	-	Ó, pörlekedj a Szerencsével értem,  
+Sonnet 112	-	Szerelmed és szánalmad leveszi  
+Sonnet 113	-	Elhagytalak, s szemem lelkembe néz;  
+Sonnet 114	-	Lelkem, hogy te vagy koronája, tán  
+Sonnet 115	-	Hazugság, amit tollam egykor írt,  
+Sonnet 116	-	Nem igaz: - hű lelkek násza nem ismer  
+Sonnet 117	-	Vádolj azzal, hogy fukaron fizettem  
+Sonnet 118	-	Mint ha étvágyát fokozni keres  
+Sonnet 119	-	Szirén könnyek mily italait ittam,  
+Sonnet 120	-	Örülök, hogy bántottál valaha,  
+Sonnet 121	-	Jobb rossznak lenni, mint rossz hírűnek.  
+Sonnet 122	-	Agyam rejti ajándékod, a naplót,  
+Sonnet 123	-	Csak ne kérkedj, Idő, hogy más leszek;  
+Sonnet 124	-	Ha szerelmem érdek gyermeke volna,  
+Sonnet 125	-	Mit érne baldachint tárnom föléd,  
+Sonnet 126	-	Kedves fiú, ma a te birtokod  
+Sonnet 127	-	Valaha nem tetszett a fekete, 
+Sonnet 128	-	Hányszor, Zeném, ha játszol a  
+Sonnet 129	-	A szellemet mocsokban tékozolni  
+Sonnet 130	-	Úrnőm szeme nem nap, sehogyse; rőt  
+Sonnet 131	-	Oly zsarnok vagy, így is, mint akiket  
+Sonnet 132	-	Szemeid szeretem, s ők, szánakozva,  
+Sonnet 133	-	Jaj a szívnek, mely miatt oly sebet  
+Sonnet 134	-	Most hát bevallottam, hogy ő tied,  
+Sonnet 135	-	Villik rajzanak körül, száz lidérc,  
+Sonnet 136	-	Ha sok-sok villid, vágy, álom, szeszély,  
+Sonnet 137	-	Te, vak bolond, Szerelem, mit csinálsz  
+Sonnet 138	-	Ha esküszik a nő, hogy hű s igaz,  
+Sonnet 139	-	Ó, ne kívánd, hogy védjem is a rosszat,  
+Sonnet 140	-	Okosan légy kegyetlen, s túlgoromba  
+Sonnet 141	-	Esküszöm, nem a szememmel szeretlek,  
+Sonnet 142	-	Bűnöm: szerelmem; s hogy gyűlölsz: erényed;  
+Sonnet 143	-	Ni, hogy kergeti tollas szökevényét  
+Sonnet 144	-	Két szerelmem van, az gyötör s vigasztal;  
+Sonnet 145	-	Ámor-mintázta ajka azt  
+Sonnet 146	-	Sár s bűn központja, lelkem, te, szegény,  
+Sonnet 147	-	Lázragyúlt szívem folyton arra vágyik  
+Sonnet 148	-	Mily szemet rakott fejembe szerelmem,  
+Sonnet 149	-	Azt mondod, kegyetlen, hogy nem szeretlek?  
+Sonnet 150	-	Mily erő adja iszonyú erőd,  
+Sonnet 151	-	Bűnét tudni gyermek a szerelem,  
+Sonnet 152	-	Tudod, mint hitszegő szerettelek,  
+Sonnet 153	-	Tüzét letéve aludt Cupido.  
+Sonnet 154	-	Aludt a szerelem kis istene,  

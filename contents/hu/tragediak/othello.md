@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Othello
-keywords:       Othello, Shakespeare, tragédia
+keywords:       Othello, tragédia
 description:    William Shakespeare: Othello.
 --- Menu system
 order:          80

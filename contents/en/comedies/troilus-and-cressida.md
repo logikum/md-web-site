@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Troilus and Cressida
-keywords:       Troilus and Cressida, Shakespeare, comedy
+keywords:       Troilus, Cressida, comedy
 description:    Troilus and Cressida by William Shakespeare.
 --- Menu system
 order:          140

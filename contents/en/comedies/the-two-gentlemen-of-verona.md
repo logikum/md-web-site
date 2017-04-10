@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Two Gentlemen of Verona
-keywords:       The Two Gentlemen of Verona, Shakespeare, comedy
+keywords:       two, gentleman, Verona, comedy
 description:    The Two Gentlemen of Verona by William Shakespeare.
 --- Menu system
 order:          160

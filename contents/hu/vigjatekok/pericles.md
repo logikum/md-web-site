@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Pericles
-keywords:       Pericles, Shakespeare, vígjáték
+keywords:       Pericles, vígjáték
 description:    William Shakespeare: Pericles.
 --- Menu system
 order:          110

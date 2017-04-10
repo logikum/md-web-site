@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          All's Well That Ends Well
-keywords:       All's Well That Ends Well, Shakespeare, comedy
+keywords:       all, well, end, comedy
 description:    All's Well That Ends Well by William Shakespeare.
 --- Menu system
 order:          10

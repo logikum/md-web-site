@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          IV. Henrik, I. rész
-keywords:       IV. Henrik, I. rész, Shakespeare, királydráma
+keywords:       IV. Henrik, rész, királydráma
 description:    William Shakespeare: IV. Henrik, I. rész.
 --- Menu system
 order:          30

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Henry VIII
-keywords:       Henry VIII, Shakespeare, history
+keywords:       Henry VIII, history
 description:    Henry VIII by William Shakespeare.
 --- Menu system
 order:          70

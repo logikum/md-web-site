@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Vízkereszt, vagy amit akartok
-keywords:       Vízkereszt, vagy amit akartok, Shakespeare, vígjáték
+keywords:       vízkereszt, akar, vígjáték
 description:    William Shakespeare: Vízkereszt, vagy amit akartok.
 --- Menu system
 order:          150

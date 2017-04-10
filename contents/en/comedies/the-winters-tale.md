@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Winter's Tale
-keywords:       The Winter's Tale, Shakespeare, comedy
+keywords:       winter, tale, comedy
 description:    The Winter's Tale by William Shakespeare.
 --- Menu system
 order:          170

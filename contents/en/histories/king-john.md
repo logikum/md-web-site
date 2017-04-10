@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          King John
-keywords:       King John, Shakespeare, history
+keywords:       king, John, history
 description:    King John by William Shakespeare.
 --- Menu system
 order:          80

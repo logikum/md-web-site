@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Lear király
-keywords:       Lear király, Shakespeare, tragédia
+keywords:       Lear, király, tragédia
 description:    William Shakespeare: Lear király.
 --- Menu system
 order:          60

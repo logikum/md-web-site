@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          The Comedy of Errors
-keywords:       The Comedy of Errors, Shakespeare, comedy
+keywords:       error, comedy
 description:    The Comedy of Errors by William Shakespeare.
 --- Menu system
 order:          30

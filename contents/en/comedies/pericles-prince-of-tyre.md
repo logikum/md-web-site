@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Pericles, Prince of Tyre
-keywords:       Pericles, Prince of Tyre, Shakespeare, comedy
+keywords:       Pericles, prince, Tyre, comedy
 description:    Pericles, Prince of Tyre by William Shakespeare.
 --- Menu system
 order:          110

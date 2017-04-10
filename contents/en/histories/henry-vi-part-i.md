@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Henry VI, Part I
-keywords:       Henry VI Part I, Shakespeare, history
+keywords:       Henry VI, part, history
 description:    Henry VI, Part I by William Shakespeare.
 --- Menu system
 order:          40

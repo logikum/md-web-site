@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Szeget szeggel
-keywords:       szeget szeggel, Shakespeare, vígjáték
+keywords:       szeg, vígjáték
 description:    William Shakespeare: Szeget szeggel.
 --- Menu system
 order:          60

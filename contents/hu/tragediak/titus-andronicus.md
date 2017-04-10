@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Titus Andronicus
-keywords:       Titus Andronicus, Shakespeare, tragédia
+keywords:       Titus Andronicus, tragédia
 description:    William Shakespeare: Titus Andronicus.
 --- Menu system
 order:          100

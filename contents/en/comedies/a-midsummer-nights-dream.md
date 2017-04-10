@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A Midsummer Night's Dream
-keywords:       A Midsummer Night's Dream, Shakespeare, comedy
+keywords:       midsummer, night, dream, comedy
 description:    A Midsummer Night's Dream by William Shakespeare.
 --- Menu system
 order:          90

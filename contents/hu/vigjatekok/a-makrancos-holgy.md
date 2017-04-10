@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A makrancos hölgy
-keywords:       a makrancos hölgy, Shakespeare, vígjáték
+keywords:       makrancos, hölgy, vígjáték
 description:    William Shakespeare: A makrancos hölgy.
 --- Menu system
 order:          120

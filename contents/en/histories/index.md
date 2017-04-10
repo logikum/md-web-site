@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Histories
-keywords:       William Shakespeare, histories
+keywords:       histories
 description:    Histories of William Shakespeare.
 --- Menu system
 order:          0

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Athéni Timon
-keywords:       Timon, Athén, Shakespeare, tragédia
+keywords:       Timon, Athén, tragédia
 description:    William Shakespeare: Athéni Timon.
 --- Menu system
 order:          20

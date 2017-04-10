@@ -1,8 +1,18 @@
 <!-- ======================================================================
 --- Search engine
-title:        business-objects
-description:  Documentation of business-objects library.
-keywords:     business-objects, JavaScript, node.js
+title:          Honlap
+keywords:       honlap
+description:    A William Shakespeare hely honlapja.
+--- Menu system
+order:          
+text:           
+hidden:         false
+umbel:          false
+--- Page properties
+id:             
+document:       
+layout:         
+---$-left:         
 ======================================================================= -->
 
 # Honlap

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Julius Caesar
-keywords:       Julius Caesar, Shakespeare, tragedy
+keywords:       Julius, Caesar, tragedy
 description:    Julius Caesar by William Shakespeare.
 --- Menu system
 order:          40

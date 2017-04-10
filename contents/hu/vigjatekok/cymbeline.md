@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Cymbeline
-keywords:       Cymbeline, Shakespeare, vígjáték
+keywords:       Cymbeline, vígjáték
 description:    William Shakespeare: Cymbeline.
 --- Menu system
 order:          40

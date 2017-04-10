@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Minden jó, ha vége jó
-keywords:       minden jó, ha vége jó, Shakespeare, vígjáték
+keywords:       minden, jó, vég, vígjáték
 description:    William Shakespeare: Minden jó, ha vége jó.
 --- Menu system
 order:          10

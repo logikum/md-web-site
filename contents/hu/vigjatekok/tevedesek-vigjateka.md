@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Tévedések vígjátéka
-keywords:       tévedések vígjátéka, Shakespeare, vígjáték
+keywords:       tévedés, vígjáték
 description:    William Shakespeare: Tévedések vígjátéka.
 --- Menu system
 order:          30

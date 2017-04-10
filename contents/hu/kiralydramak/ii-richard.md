@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          II. Richárd
-keywords:       II. Richárd, Shakespeare, királydráma
+keywords:       II. Richárd, királydráma
 description:    William Shakespeare: II. Richárd.
 --- Menu system
 order:          10

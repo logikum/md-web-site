@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A velencei kalmár
-keywords:       a velencei kalmár, Shakespeare, vígjáték
+keywords:       Velence, kalmár, vígjáték
 description:    William Shakespeare: A velencei kalmár.
 --- Menu system
 order:          70

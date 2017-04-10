@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Rómeó és Júlia
-keywords:       Rómeó, Júlia, Shakespeare, tragédia
+keywords:       Rómeó, Júlia, tragédia
 description:    William Shakespeare: Rómeó és Júlia.
 --- Menu system
 order:          90

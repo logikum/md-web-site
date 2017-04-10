@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Twelfth Night
-keywords:       Twelfth Night, Shakespeare, comedy
+keywords:       twelfth. night, comedy
 description:    Twelfth Night by William Shakespeare.
 --- Menu system
 order:          150

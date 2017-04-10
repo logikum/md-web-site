@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Troilus és Cressida
-keywords:       Troilus, Cressida, Shakespeare, vígjáték
+keywords:       Troilus, Cressida, vígjáték
 description:    William Shakespeare: Troilus és Cressida.
 --- Menu system
 order:          140

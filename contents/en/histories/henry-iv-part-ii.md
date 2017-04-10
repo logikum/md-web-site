@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Henry IV, Part II
-keywords:       Henry IV Part II, Shakespeare, history
+keywords:       Henry IV, part, history
 description:    Henry IV, Part II by William Shakespeare.
 --- Menu system
 order:          20

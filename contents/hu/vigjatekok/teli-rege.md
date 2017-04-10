@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Téli rege
-keywords:       téli rege, Shakespeare, vígjáték
+keywords:       tél, rege, vígjáték
 description:    William Shakespeare: Téli rege.
 --- Menu system
 order:          170

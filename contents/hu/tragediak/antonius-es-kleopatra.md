@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Antonius és Kleopátra
-keywords:       Antonius, Kleopátra, Shakespeare, tragédia
+keywords:       Antonius, Kleopátra, tragédia
 description:    William Shakespeare: Antonius és Kleopátra.
 --- Menu system
 order:          10

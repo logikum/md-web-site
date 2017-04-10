@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          VI. Henrik, I. rész
-keywords:       VI. Henrik, I. rész, Shakespeare, királydráma
+keywords:       VI. Henrik, rész, királydráma
 description:    William Shakespeare: VI. Henrik, I. rész.
 --- Menu system
 order:          60

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Antony and Cleopatra
-keywords:       Antony, Cleopatra, Shakespeare, tragedy
+keywords:       Antony, Cleopatra, tragedy
 description:    Antony and Cleopatra by William Shakespeare.
 --- Menu system
 order:          10

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A windsori víg nők
-keywords:       a windsori víg nők, Shakespeare, vígjáték
+keywords:       Windsor, víg, nő, vígjáték
 description:    William Shakespeare: A windsori víg nők.
 --- Menu system
 order:          80

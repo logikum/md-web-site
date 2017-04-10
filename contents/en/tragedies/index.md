@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Tragedies
-keywords:       William Shakespeare, tragedies
+keywords:       tragedies
 description:    Tragedies of William Shakespeare.
 --- Menu system
 order:          0

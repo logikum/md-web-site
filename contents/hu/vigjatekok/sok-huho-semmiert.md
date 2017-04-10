@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Sok hűhó semmiért
-keywords:       sok hűhó semmiért, Shakespeare, vígjáték
+keywords:       sok, hűhó, semmi, vígjáték
 description:    William Shakespeare: Sok hűhó semmiért.
 --- Menu system
 order:          100

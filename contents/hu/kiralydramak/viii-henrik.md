@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          VIII. Henrik
-keywords:       VIII. Henrik, Shakespeare, királydráma
+keywords:       VIII. Henrik, királydráma
 description:    William Shakespeare: VIII. Henrik.
 --- Menu system
 order:          90

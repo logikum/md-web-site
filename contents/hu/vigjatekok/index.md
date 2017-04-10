@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Komédiák
-keywords:       William Shakespeare, vígjátékok
+keywords:       vígjátékok
 description:    William Shakespeare vígjátékai.
 --- Menu system
 order:          0

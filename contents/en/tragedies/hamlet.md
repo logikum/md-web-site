@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Hamlet
-keywords:       Hamlet, Shakespeare, tragedy
+keywords:       Hamlet, tragedy
 description:    Hamlet by William Shakespeare.
 --- Menu system
 order:          30

@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          A vihar
-keywords:       a vihar, Shakespeare, vígjáték
+keywords:       vihar, vígjáték
 description:    William Shakespeare: A vihar.
 --- Menu system
 order:          130

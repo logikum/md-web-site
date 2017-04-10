@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Cymbeline
-keywords:       Cymbeline, Shakespeare, comedy
+keywords:       Cymbeline, comedy
 description:    Cymbeline by William Shakespeare.
 --- Menu system
 order:          40
