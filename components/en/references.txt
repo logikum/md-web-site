@@ -1,3 +1,4 @@
+[Tragedies]: /tragedies
 [Antony and Cleopatra]: /tragedies/antony-and-cleopatra
 [Coriolanus]: /tragedies/coriolanus
 [Hamlet]: /tragedies/hamlet
@@ -9,6 +10,7 @@
 [Timon of Athens]: /tragedies/timon-of-athens
 [Titus Andronicus]: /tragedies/titus-andronicus
 
+[Histories]: /histories
 [Henry IV, Part I]: /histories/henry-iv-part-i
 [Henry IV, Part II]: /histories/henry-iv-part-ii
 [Henry V]: /histories/henry-v
@@ -20,6 +22,7 @@
 [Richard II]: /histories/richard-ii
 [Richard III]: /histories/richard-iii
 
+[Comedies]: /comedies
 [All's Well That Ends Well]: /comedies/alls-well-that-ends-well
 [As You Like It]: /comedies/as-you-like-it
 [The Comedy of Errors]: /comedies/the-comedy-of-errors

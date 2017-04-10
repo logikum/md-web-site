@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Biography
-keywords:       biography, Shakespeare
+keywords:       biography
 description:    Biography by William Shakespeare.
 --- Menu system
 order:          10

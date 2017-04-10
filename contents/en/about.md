@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          About
-keywords:       md-site-engine
-description:    About of the site.
+keywords:       about this site
+description:    About this site.
 --- Menu system
 order:          100
 text:           About
@@ -16,5 +16,11 @@ layout:
 ======================================================================= -->
 
 # About
+
+<div class="text-center">
+![About this site](/images/theatre-masks.png)
+</div>
+
+<p>&nbsp;</p>
 
 Description

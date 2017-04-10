@@ -9,7 +9,7 @@ text:           Cymbeline
 hidden:         false
 umbel:          false
 --- Page properties
-id:             
+id:             /comedies/cymbeline
 document:       
 layout:         layout-2-left
 $-left:         play-list

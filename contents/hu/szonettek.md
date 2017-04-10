@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Shakespeare szonettjei
-keywords:       szonettek, Shakespeare
+keywords:       szonettek
 description:    William Shakespeare szonettjei.
 --- Menu system
 order:          60
@@ -9,7 +9,7 @@ text:           Szonettek
 hidden:         false
 umbel:          false
 --- Page properties
-id:             
+id:             /sonnets
 document:       
 layout:         
 ---$-left:         

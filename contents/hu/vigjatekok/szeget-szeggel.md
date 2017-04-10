@@ -5,7 +5,7 @@ keywords:       szeget szeggel, Shakespeare, vígjáték
 description:    William Shakespeare: Szeget szeggel.
 --- Menu system
 order:          60
-text:           Measure for Measure
+text:           Szeget szeggel
 hidden:         false
 umbel:          false
 --- Page properties

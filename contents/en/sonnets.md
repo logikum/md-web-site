@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Shakespeare's Sonnets
-keywords:       sonnets, Shakespeare
+keywords:       sonnets
 description:    Sonnets of William Shakespeare.
 --- Menu system
 order:          60

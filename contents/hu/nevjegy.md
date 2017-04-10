@@ -1,13 +1,26 @@
 <!-- ======================================================================
 --- Search engine
-title:        business-objects
-description:  Error handling in business objects.
-keywords:     business-objects, JavaScript, node.js
+title:          Névjegy
+keywords:       névjegy
+description:    A honlap névjegye.
 --- Menu system
-order:        100
-text:         Névjegy
+order:          100
+text:           Névjegy
+hidden:         false
+umbel:          false
+--- Page properties
+id:             /about
+document:       
+layout:         
+---$-left:         
 ======================================================================= -->
 
 # Névjegy
+
+<div class="text-center">
+![About this site](/images/theatre-masks.png)
+</div>
+
+<p>&nbsp;</p>
 
 Leírás...

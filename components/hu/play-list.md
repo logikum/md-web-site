@@ -1,4 +1,4 @@
-#### Tragedies
+#### [Tragédiák]
 
 * [Antonius és Kleopátra]
 * [Athéni Timon]
@@ -11,7 +11,7 @@
 * [Rómeó és Júlia]
 * [Titus Andronicus]
 
-#### Histories
+#### [Királydrámák]
 
 * [II. Richárd]
 * [III. Richárd]
@@ -24,7 +24,7 @@
 * [VIII. Henrik]
 * [János király]
 
-#### Comedies
+#### [Vígjátékok]
 
 * [A két veronai nemes]
 * [A lóvá tett lovagok]

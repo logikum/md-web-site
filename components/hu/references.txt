@@ -1,3 +1,4 @@
+[Tragédiák]: /tragediak
 [Antonius és Kleopátra]: /tragediak/antonius-es-kleopatra
 [Athéni Timon]: /tragediak/atheni-timon
 [Coriolanus]: /tragediak/coriolanus
@@ -9,6 +10,7 @@
 [Rómeó és Júlia]: /tragediak/romeo-es-julia
 [Titus Andronicus]: /tragediak/titus-andronicus
 
+[Királydrámák]: /kiralydramak
 [II. Richárd]: /kiralydramak/ii-richard
 [III. Richárd]: /kiralydramak/iii-richard
 [IV. Henrik, I. rész]: /kiralydramak/iv-henrik-i-resz
@@ -20,6 +22,7 @@
 [VIII. Henrik]: /kiralydramak/viii-henrik
 [János király]: /kiralydramak/janos-kiraly
 
+[Vígjátékok]: /vigjatekok
 [A két veronai nemes]: /vigjatekok/a-ket-veronai-nemes
 [A lóvá tett lovagok]: /vigjatekok/a-lova-tett-lovagok
 [A makrancos hölgy]: /vigjatekok/a-makrancos-holgy

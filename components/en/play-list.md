@@ -1,4 +1,4 @@
-#### Tragedies
+#### [Tragedies]
 
 * [Antony and Cleopatra]
 * [Coriolanus]
@@ -11,7 +11,7 @@
 * [Timon of Athens]
 * [Titus Andronicus]
 
-#### Histories
+#### [Histories]
 
 * [Henry IV, Part I]
 * [Henry IV, Part II]
@@ -24,7 +24,7 @@
 * [Richard II]
 * [Richard III]
 
-#### Comedies
+#### [Comedies]
 
 * [All's Well That Ends Well]
 * [As You Like It]
