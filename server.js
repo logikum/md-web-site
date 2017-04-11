@@ -51,5 +51,5 @@ contents.setRoutes( app, mode === 'development' );
 var host = process.env.HOST || '127.0.0.1';
 var port = process.env.PORT || 3000;
 var server = app.listen( port, host, function () {
-  console.log( 'Business objects documentation listening at http://%s:%s', host, port );
+  console.log( 'Markdown demonstration site listening at http://%s:%s', host, port );
 } );
