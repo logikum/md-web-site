@@ -10,6 +10,10 @@ body {
 }
 .content {
 }
+.content-left {
+    background: url("../images/bg-left.png") repeat-y;
+    /*background-color: #FFF3FE;*/
+}
 .paper {
     min-height: 600px;
     background-color: #fff;
@@ -25,9 +29,6 @@ h1 {
 }
 a, a:visited {
     color: #5076bd;
-}
-.left-bar {
-    background-color: #FFF3FE;
 }
 .left-bar h4 a {
     color: #3c588e;
