@@ -24,8 +24,7 @@ var contents = engine.getContents( config );
 var app = module.exports = express();
 
 // Serve favicon.
-var pub = path.join( __dirname, config.public, 'favicon.ico' );
-app.use( favicon( path.join( __dirname, config.public, 'favicon.ico' ) ) );
+app.use( favicon( path.join( __dirname, 'public/favicon.ico' ) ) );
 
 // Secure the application.
 app.use( helmet() );
@@ -42,7 +41,7 @@ app.use( session( {
 app.use( compression() );
 
 // Serve static files.
-app.use( serveStatic( config.public, { index: false } ) );
+app.use( serveStatic( 'public', { index: false } ) );
 
 // Set site routes.
 contents.setRoutes( app, mode === 'development' );
