@@ -1,6 +1,7 @@
 'use strict';
 
 var express = require( 'express' );
+var bodyParser = require('body-parser');
 var path = require( 'path' );
 var favicon = require( 'serve-favicon' );
 var helmet = require( 'helmet' );
@@ -42,6 +43,9 @@ app.use( compression() );
 
 // Serve static files.
 app.use( serveStatic( 'public', { index: false } ) );
+
+// Get posted data for search.
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // Set site routes.
 contents.setRoutes( app, mode === 'development' );

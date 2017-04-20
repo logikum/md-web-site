@@ -13,6 +13,7 @@ id:             /sonnets
 document:       
 layout:         
 ---$-left:         
+searchable:     true
 ======================================================================= -->
 
 # Shakespeare szonettjei

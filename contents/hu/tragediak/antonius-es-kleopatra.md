@@ -13,6 +13,7 @@ id:             /tragedies/antony-and-cleopatra
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Antonius és Kleopátra

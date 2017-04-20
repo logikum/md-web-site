@@ -13,6 +13,7 @@ id:             /tragedies/timon-of-athens
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Athéni Timon

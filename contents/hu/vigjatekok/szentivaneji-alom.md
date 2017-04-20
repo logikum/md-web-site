@@ -13,6 +13,7 @@ id:             /comedies/a-midsummer-nights-dream
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Szentivánéji álom

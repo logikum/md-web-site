@@ -13,6 +13,7 @@ id:
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A Midsummer Night's Dream

@@ -13,6 +13,7 @@ id:             /tragedies/king-lear
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Lear király

@@ -13,6 +13,7 @@ id:             /comedies/much-ado-about-nothing
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Sok hűhó semmiért

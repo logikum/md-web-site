@@ -13,6 +13,7 @@ id:             /comedies/alls-well-that-ends-well
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Minden jó, ha vége jó

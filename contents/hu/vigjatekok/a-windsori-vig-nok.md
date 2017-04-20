@@ -13,6 +13,7 @@ id:             /comedies/the-merry-wives-of-windsor
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A windsori víg nők

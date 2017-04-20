@@ -13,6 +13,7 @@ id:             /comedies/the-winters-tale
 document:
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Téli rege

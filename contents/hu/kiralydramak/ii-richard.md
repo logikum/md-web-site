@@ -13,6 +13,7 @@ id:             /histories/richard-ii
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # II. Richárd király

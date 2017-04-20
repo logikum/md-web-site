@@ -13,6 +13,7 @@ id:             /tragedies/titus-andronicus
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Titus Andronicus

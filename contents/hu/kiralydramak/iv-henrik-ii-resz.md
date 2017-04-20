@@ -13,6 +13,7 @@ id:             /histories/henry-iv-part-ii
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # IV. Henrik, II. rész

@@ -13,6 +13,7 @@ id:             /comedies/index
 document:       
 layout:         
 ---$-segment:
+searchable:     true
 ======================================================================= -->
 
 # Vígjátékok

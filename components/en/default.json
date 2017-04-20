@@ -1,4 +1,6 @@
 {
   "title": "Shakespeare",
-  "keywords": "William Shakespeare"
+  "keywords": "William Shakespeare",
+  "search": "Search for...",
+  "noSearchResult": "Search has not found matching content."
 }

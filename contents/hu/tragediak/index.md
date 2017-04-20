@@ -13,6 +13,7 @@ id:             /tragedies/index
 document:       
 layout:         
 ---$-segment:
+searchable:     true
 ======================================================================= -->
 
 # Tragédiák

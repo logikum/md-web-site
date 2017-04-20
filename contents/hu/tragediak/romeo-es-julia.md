@@ -13,6 +13,7 @@ id:             /tragedies/romeo-and-juliet
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Rómeó és Júlia

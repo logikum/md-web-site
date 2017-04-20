@@ -13,6 +13,7 @@ id:             /tragedies/hamlet
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Hamlet

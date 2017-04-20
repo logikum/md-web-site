@@ -13,6 +13,7 @@ id:
 document:       
 layout:         
 ---$-segment:
+searchable:     true
 ======================================================================= -->
 
 # Comedies

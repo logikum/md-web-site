@@ -13,6 +13,7 @@ id:             /comedies/troilus-and-cressida
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Troilus és Cressida

@@ -13,6 +13,7 @@ id:             /comedies/the-taming-of-the-shrew
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A makrancos hölgy

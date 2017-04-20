@@ -13,6 +13,7 @@ id:             /histories/henry-vi-part-iii
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # VI. Henrik, III. rész

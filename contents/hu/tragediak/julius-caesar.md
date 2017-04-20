@@ -13,6 +13,7 @@ id:             /tragedies/julius-caesar
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Julius Caesar

@@ -13,6 +13,7 @@ id:             /comedies/as-you-like-it
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Ahogy tetszik

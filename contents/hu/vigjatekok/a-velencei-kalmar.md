@@ -13,6 +13,7 @@ id:             /comedies/the-merchant-of-venice
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A velencei kalmár

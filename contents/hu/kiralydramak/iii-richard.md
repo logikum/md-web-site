@@ -13,6 +13,7 @@ id:             /histories/richard-iii
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # III. Richárd

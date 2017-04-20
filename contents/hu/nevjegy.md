@@ -13,6 +13,7 @@ id:             /about
 document:       
 layout:         
 ---$-left:         
+searchable:     true
 ======================================================================= -->
 
 # Névjegy

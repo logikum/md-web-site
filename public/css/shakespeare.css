@@ -1,3 +1,4 @@
+/* Layout */
 body {
     min-height: 100%;
     padding-top: 50px;
@@ -24,12 +25,6 @@ body {
     padding: 10px;
     background-color: #ddebff;
 }
-h1 {
-    color: #8a0017;
-}
-a, a:visited {
-    color: #5076bd;
-}
 .left-bar h4 a {
     color: #3c588e;
 }
@@ -37,7 +32,28 @@ a, a:visited {
     list-style-type: none;
     padding-left: 0;
 }
-
+/* General */
+h1 {
+    color: #8a0017;
+}
+a, a:visited {
+    color: #5076bd;
+}
+/* Search page */
+.search-phrase {
+    margin-bottom: 20px;
+    padding: 1em;
+    background-color: #f2eeb3;
+}
+.search-result {
+    margin-bottom: 5px;
+    padding: 0 1em 5px 1em;
+    border-bottom: solid 2px #f2eeb3;
+}
+.search-result h4 {
+    margin-bottom: 0;
+}
+/* Bootstrap navigation bar */
 .navbar-default {
     background-color: #3c588e;
     border-color: #283b5e;
@@ -128,4 +144,18 @@ a, a:visited {
         color: #b1c9f6;
         background-color: #283b5e;
     }
+}
+/* Input group in navigation bar */
+.navbar-input-group {
+    font-size: 0px; /* removes whitespace between button and input */
+}
+.navbar-input-group input {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 130px !important;
+}
+.navbar-input-group .btn {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left: 0px;
 }

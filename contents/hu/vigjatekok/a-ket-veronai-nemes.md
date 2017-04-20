@@ -13,6 +13,7 @@ id:             /comedies/the-two-gentlemen-of-verona
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A két veronai nemes

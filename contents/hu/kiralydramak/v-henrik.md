@@ -13,6 +13,7 @@ id:             /histories/henry-v
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # V. Henrik

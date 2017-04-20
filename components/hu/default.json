@@ -1,4 +1,6 @@
 {
   "title": "Shakespeare",
-  "keywords": "William Shakespeare"
+  "keywords": "William Shakespeare",
+  "search": "Keresés...",
+  "noSearchResult": "A keresett szöveg nem található az oldalakon."
 }

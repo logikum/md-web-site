@@ -13,6 +13,7 @@ id:             /comedies/loves-labours-lost
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # A lóvá tett lovagok

@@ -13,6 +13,7 @@ id:             /biography
 document:       
 layout:         
 ---$-left:         
+searchable:     true
 ======================================================================= -->
 
 # Életrajz

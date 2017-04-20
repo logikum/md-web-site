@@ -13,6 +13,7 @@ id:
 document:       
 layout:         
 ---$-left:         
+searchable:     true
 ======================================================================= -->
 
 # Shakespeare's Sonnets

@@ -13,6 +13,7 @@ id:             /comedies/measure-for-measure
 document:       
 layout:         layout-2-left
 $-left:         play-list
+searchable:     true
 ======================================================================= -->
 
 # Szeget szeggel

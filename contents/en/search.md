@@ -1,21 +1,23 @@
 <!-- ======================================================================
 --- Search engine
-title:          Honlap
-keywords:       honlap
-description:    A William Shakespeare hely honlapja.
+title:          Search results
+keywords:       search, results
+description:    The listed items of the search results.
 --- Menu system
 order:          
 text:           
-hidden:         false
+hidden:         true
 umbel:          false
 --- Page properties
 id:             
 document:       
 layout:         
 ---$-left:         
-searchable:     true
+searchable:     false
 ======================================================================= -->
 
-# Honlap
+# Search results
 
-Leírás...
+<div class="search-phrase">Text to search: {{ #search-phrase }}</div>
+
+{{ #search-results }}

@@ -13,6 +13,7 @@ id:             /histories/index
 document:       
 layout:         
 ---$-segment:
+searchable:     true
 ======================================================================= -->
 
 # Királydrámák
