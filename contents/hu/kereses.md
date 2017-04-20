@@ -9,7 +9,7 @@ text:
 hidden:         true
 umbel:          false
 --- Page properties
-id:             
+id:             /search
 document:       
 layout:         
 ---$-left:         

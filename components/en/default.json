@@ -2,5 +2,6 @@
   "title": "Shakespeare",
   "keywords": "William Shakespeare",
   "search": "Search for...",
+  "noSearchPhrase": "There is nothing to search.",
   "noSearchResult": "Search has not found matching content."
 }

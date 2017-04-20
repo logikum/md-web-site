@@ -2,5 +2,6 @@
   "title": "Shakespeare",
   "keywords": "William Shakespeare",
   "search": "Keresés...",
+  "noSearchPhrase": "Nincs keresendő szöveg.",
   "noSearchResult": "A keresett szöveg nem található az oldalakon."
 }
