@@ -16,6 +16,7 @@
     "express": "^4.12",
     "express-session": "^1.11",
     "helmet": "^0.12.0",
+    "locale": "^0.1.0",
     "md-site-engine": "^0.0.1",
     "serve-favicon": "^2.3.0",
     "serve-static": "^1.9"
