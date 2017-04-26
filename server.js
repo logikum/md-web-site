@@ -12,7 +12,7 @@ var bodyParser = require('body-parser');
 var engine = require( 'md-site-engine' );
 
 // Determine run mode.
-var mode = process.env.PORT || 'development';
+var mode = process.env.NODE_ENV || 'development';
 
 // Get configuration.
 var configPath = 'config/' + mode + '.json';

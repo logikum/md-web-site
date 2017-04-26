@@ -6,6 +6,7 @@
   "documentFile": "document.html",
   "layoutFile": "layout.html",
   "referenceFile": "references.txt",
+  "localeFile": "default.json",
   "submenuFile": "__submenu.txt",
   "layoutSegment": "layout",
   "contentSegment": "content",
