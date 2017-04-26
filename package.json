@@ -1,6 +1,6 @@
 {
   "name": "md-web-site",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "demo web site built from markdown pages",
   "keywords": [
     "markdown",
@@ -10,15 +10,15 @@
   "author": "Mármarosi József <marmarosi@logikum.hu>",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.12",
-    "compression": "^1.5.2",
-    "connect-redis": "^2.3",
-    "express": "^4.12",
-    "express-session": "^1.11",
-    "helmet": "^0.12.0",
-    "md-site-engine": "^0.0.1",
-    "serve-favicon": "^2.3.0",
-    "serve-static": "^1.9"
+    "body-parser": "^1.17",
+    "compression": "^1.6",
+    "connect-redis": "^3.2",
+    "express": "^4.15",
+    "express-session": "^1.15",
+    "helmet": "^3.5",
+    "md-site-engine": "^0.1",
+    "serve-favicon": "^2.4",
+    "serve-static": "^1.12"
   },
   "repository": {
     "type": "git",
