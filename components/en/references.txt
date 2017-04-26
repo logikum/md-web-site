@@ -1,0 +1,42 @@
+[Tragedies]: /tragedies
+[Antony and Cleopatra]: /tragedies/antony-and-cleopatra
+[Coriolanus]: /tragedies/coriolanus
+[Hamlet]: /tragedies/hamlet
+[Julius Caesar]: /tragedies/julius-caesar
+[King Lear]: /tragedies/king-lear
+[Macbeth]: /tragedies/macbeth
+[Othello]: /tragedies/othello
+[Romeo and Juliet]: /tragedies/romeo-and-juliet
+[Timon of Athens]: /tragedies/timon-of-athens
+[Titus Andronicus]: /tragedies/titus-andronicus
+
+[Histories]: /histories
+[Henry IV, Part I]: /histories/henry-iv-part-i
+[Henry IV, Part II]: /histories/henry-iv-part-ii
+[Henry V]: /histories/henry-v
+[Henry VI, Part I]: /histories/henry-vi-part-i
+[Henry VI, Part II]: /histories/henry-vi-part-ii
+[Henry VI, Part III]: /histories/henry-vi-part-iii
+[Henry VIII]: /histories/henry-viii
+[King John]: /histories/king-john
+[Richard II]: /histories/richard-ii
+[Richard III]: /histories/richard-iii
+
+[Comedies]: /comedies
+[All's Well That Ends Well]: /comedies/alls-well-that-ends-well
+[As You Like It]: /comedies/as-you-like-it
+[The Comedy of Errors]: /comedies/the-comedy-of-errors
+[Cymbeline]: /comedies/cymbeline
+[Love's Labour's Lost]: /comedies/loves-labours-lost
+[Measure for Measure]: /comedies/measure-for-measure
+[The Merchant of Venice]: /comedies/the-merchant-of-venice
+[The Merry Wives of Windsor]: /comedies/the-merry-wives-of-windsor
+[A Midsummer Night's Dream]: /comedies/a-midsummer-nights-dream
+[Much Ado About Nothing]: /comedies/much-ado-about-nothing
+[Pericles, Prince of Tyre]: /comedies/pericles-prince-of-tyre
+[The Taming of the Shrew]: /comedies/the-taming-of-the-shrew
+[The Tempest]: /comedies/the-tempest
+[Troilus and Cressida]: /comedies/troilus-and-cressida
+[Twelfth Night]: /comedies/twelfth-night
+[The Two Gentlemen of Verona]: /comedies/the-two-gentlemen-of-verona
+[The Winter's Tale]: /comedies/the-winters-tale

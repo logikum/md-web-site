@@ -1,0 +1,161 @@
+/* Layout */
+body {
+    min-height: 100%;
+    padding-top: 50px;
+    background-color: #d0def9;
+}
+.row {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content {
+}
+.content-left {
+    background: url("../images/bg-left.png") repeat-y;
+    /*background-color: #FFF3FE;*/
+}
+.paper {
+    min-height: 600px;
+    background-color: #fff;
+}
+.footer {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #ddebff;
+}
+.left-bar h4 a {
+    color: #3c588e;
+}
+.left-bar ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+/* General */
+h1 {
+    color: #8a0017;
+}
+a, a:visited {
+    color: #5076bd;
+}
+/* Search page */
+.search-phrase {
+    margin-bottom: 20px;
+    padding: 1em;
+    background-color: #f2eeb3;
+}
+.search-result {
+    margin-bottom: 5px;
+    padding: 0 1em 5px 1em;
+    border-bottom: solid 2px #f2eeb3;
+}
+.search-result h4 {
+    margin-bottom: 0;
+}
+/* Bootstrap navigation bar */
+.navbar-default {
+    background-color: #3c588e;
+    border-color: #283b5e;
+}
+.navbar-default .navbar-brand {
+    /*color: #ecf0f1;*/
+    color: #ffc0cb;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    /*color: #b1c9f6;*/
+    color: #ff69b4;
+}
+.navbar-default .navbar-text {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #b1c9f6;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+    background-color: #3c588e;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+    color: #b1c9f6;
+    background-color: #283b5e;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
+    background-color: #283b5e;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #b1c9f6;
+    background-color: #283b5e;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #b1c9f6;
+    background-color: #283b5e;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #b1c9f6;
+    background-color: #283b5e;
+}
+.navbar-default .navbar-toggle {
+    border-color: #283b5e;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #283b5e;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+    color: #b1c9f6;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ecf0f1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #b1c9f6;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #b1c9f6;
+        background-color: #283b5e;
+    }
+}
+/* Input group in navigation bar */
+.navbar-input-group {
+    font-size: 0px; /* removes whitespace between button and input */
+}
+.navbar-input-group input {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 130px !important;
+}
+.navbar-input-group .btn {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left: 0px;
+}

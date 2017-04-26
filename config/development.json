@@ -1,0 +1,28 @@
+{
+  "defaultLocale": "en",
+  "contents": "contents",
+  "components": "components",
+  "controls": "controls",
+  "documentFile": "document.html",
+  "layoutFile": "layout.html",
+  "referenceFile": "references.txt",
+  "submenuFile": "__submenu.txt",
+  "layoutSegment": "layout",
+  "contentSegment": "content",
+  "getRenderer": "",
+
+  "session": {
+    "secret": "william-shakespeare",
+    "resave": false,
+    "saveUninitialized": true
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0
+  },
+  "locale": {
+    "en": "English",
+    "hu": "magyar"
+  }
+}
