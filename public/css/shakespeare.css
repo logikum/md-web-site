@@ -39,6 +39,14 @@ h1 {
 a, a:visited {
     color: #5076bd;
 }
+.verse {
+    margin-left: 15em;
+}
+.notes {
+    margin: 0 5em;
+    font-style: italic;
+    font-size: small;
+}
 /* Search page */
 .search-phrase {
     margin-bottom: 20px;
