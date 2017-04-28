@@ -18,6 +18,27 @@ searchable:     true
 
 # King John
 
+King John has been betrayed by his nephew, Arthur who, backed by the French King,
+is conducting a rebellion. The King of France demands that he surrender his
+throne but, instead, John sends a force against the him under Philip Faulconbridge.
+The armies clash at Angiers but there is no decisive victory. John makes a peace
+settlement with the French King.
+
+John is, in the meantime, having a problem with the Pope. The Pope has
+excommunicated him, and his envoy, Pandulph, orders the French King to resume
+hostilities with John. During one of the battles John captures his nephew,
+Arthur. He gives orders for his execution but his chamberlain, Hubert, disobeys
+the order. While trying to escape, Arthur falls to his death. The nobles accuse
+John of murder and defect to the French side. John is forced to hand over his
+crown to Pandulph, although receives it back, but his kingdom is now under the
+Pope’s control.
+
+Pandulph now tries to stop the conflict but the French won’t co-operate and the
+armies meet at Edmundsbury. The nobles don’t trust the French King and they
+return to John. The French King comes to terms with John through Pandulph but
+John is not there to see that as he is poisoned by a monk while he is staying at
+Swinstead Abbey. He is succeeded by his son, King Henry III.
+
 #### Dramatis personae
 
 KING JOHN  
