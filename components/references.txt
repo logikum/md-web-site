@@ -1,1 +1,4 @@
-[~]: /
+[~]: https://github.com/logikum/md-web-site
+[md-web-site]: ~ "|_blank"
+[let us know]: ~/issues "|_blank"
+[tudassa velünk]: ~/issues "|_blank"

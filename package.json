@@ -4,7 +4,8 @@
   "description": "demo web site built from markdown pages",
   "keywords": [
     "markdown",
-    "web site"
+    "web site",
+    "ms-site-engine"
   ],
   "license": "MIT",
   "author": "Mármarosi József <marmarosi@logikum.hu>",
