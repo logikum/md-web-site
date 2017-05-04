@@ -47,10 +47,13 @@ a, a:visited {
     font-style: italic;
     font-size: small;
 }
+mark {
+    background-color: #B2FFFF;
+}
 /* Search page */
 .search-phrase {
     margin-bottom: 20px;
-    padding: 1em;
+    padding: 10px 20px;
     background-color: #f2eeb3;
 }
 .search-result {
