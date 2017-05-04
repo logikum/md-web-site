@@ -1,10 +1,12 @@
 {
   "name": "md-web-site",
-  "version": "0.1.1",
-  "description": "demo web site built from markdown pages",
+  "version": "0.2.0",
+  "description": "Demo web site built from markdown texts.",
   "keywords": [
     "markdown",
-    "web site"
+    "web site",
+    "node.js",
+    "ms-site-engine"
   ],
   "license": "MIT",
   "author": "Mármarosi József <marmarosi@logikum.hu>",
@@ -12,11 +14,11 @@
   "dependencies": {
     "body-parser": "^1.17",
     "compression": "^1.6",
-    "connect-redis": "^3.2",
+    "connect-redis": "^3.3",
     "express": "^4.15",
     "express-session": "^1.15",
     "helmet": "^3.5",
-    "md-site-engine": "^0.1",
+    "md-site-engine": "^0.3",
     "serve-favicon": "^2.4",
     "serve-static": "^1.12"
   },

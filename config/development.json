@@ -10,7 +10,7 @@
   "submenuFile": "__submenu.txt",
   "layoutSegment": "layout",
   "contentSegment": "content",
-  "getRenderer": "",
+  "getRenderer": "/config/marked-renderer.js",
 
   "session": {
     "secret": "william-shakespeare",

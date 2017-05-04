@@ -45,7 +45,10 @@ app.use( compression() );
 app.use( serveStatic( 'public', { index: false } ) );
 
 // Get posted data for search.
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use( bodyParser.urlencoded( { extended: true } ) );
+
+// Set site middlewares.
+contents.setMiddlewares( app );
 
 // Set site routes.
 contents.setRoutes( app, mode === 'development' );

@@ -18,6 +18,15 @@ searchable:     false
 
 # Search results
 
-<div class="search-phrase">Text to search: {{ #search-phrase }}</div>
+<form class="form-inline search-phrase" action="/search" method="post">
+  <div class="form-group">
+    <label for="text2search">Text to search:</label>
+    <input type="text" class="form-control" name="text2search"
+           maxlength="20" value="{{ .text2search }}">
+  </div>
+  <button type="submit" class="btn btn-primary">Find</button>
+</form>
 
-{{ #search-results }}
+{{ .results }}
+
+&nbsp;

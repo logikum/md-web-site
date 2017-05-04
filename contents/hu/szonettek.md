@@ -144,7 +144,7 @@ Sonnet 123	-	Csak ne kérkedj, Idő, hogy más leszek;
 Sonnet 124	-	Ha szerelmem érdek gyermeke volna,  
 Sonnet 125	-	Mit érne baldachint tárnom föléd,  
 Sonnet 126	-	Kedves fiú, ma a te birtokod  
-Sonnet 127	-	Valaha nem tetszett a fekete, 
+Sonnet 127	-	Valaha nem tetszett a fekete,  
 Sonnet 128	-	Hányszor, Zeném, ha játszol a  
 Sonnet 129	-	A szellemet mocsokban tékozolni  
 Sonnet 130	-	Úrnőm szeme nem nap, sehogyse; rőt  

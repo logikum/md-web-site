@@ -39,10 +39,21 @@ h1 {
 a, a:visited {
     color: #5076bd;
 }
+.verse {
+    margin-left: 15em;
+}
+.notes {
+    margin: 0 5em;
+    font-style: italic;
+    font-size: small;
+}
+mark {
+    background-color: #B2FFFF;
+}
 /* Search page */
 .search-phrase {
     margin-bottom: 20px;
-    padding: 1em;
+    padding: 10px 20px;
     background-color: #f2eeb3;
 }
 .search-result {
@@ -147,15 +158,15 @@ a, a:visited {
 }
 /* Input group in navigation bar */
 .navbar-input-group {
-    font-size: 0px; /* removes whitespace between button and input */
+    font-size: 0; /* removes whitespace between button and input */
 }
 .navbar-input-group input {
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
     width: 130px !important;
 }
 .navbar-input-group .btn {
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-    border-left: 0px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: 0;
 }

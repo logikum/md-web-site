@@ -18,6 +18,15 @@ searchable:     false
 
 # Keresés eredménye
 
-<div class="search-phrase">Keresett szöveg: {{ #search-phrase }}</div>
+<form class="form-inline search-phrase" action="/kereses" method="post">
+  <div class="form-group">
+    <label for="text2search">Keresett szöveg:</label>
+    <input type="text" class="form-control" name="text2search"
+           maxlength="20" value="{{ .text2search }}">
+  </div>
+  <button type="submit" class="btn btn-primary">Keresés</button>
+</form>
 
-{{ #search-results }}
+{{ .results }}
+
+&nbsp;
