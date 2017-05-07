@@ -19,7 +19,7 @@ var configPath = 'config/' + mode + '.json';
 var config = engine.getConfiguration( configPath );
 
 // Set up content manager.
-var contents = engine.getContents( config );
+engine.getContents( config );
 
 // Create application.
 var app = module.exports = express();
@@ -47,11 +47,8 @@ app.use( serveStatic( 'public', { index: false } ) );
 // Get posted data for search.
 app.use( bodyParser.urlencoded( { extended: true } ) );
 
-// Set site middlewares.
-contents.setMiddlewares( app );
-
 // Set site routes.
-contents.setRoutes( app, mode === 'development' );
+engine.setRoutes( app, { }, mode );
 
 // Start web server.
 var host = process.env.HOST || '127.0.0.1';
