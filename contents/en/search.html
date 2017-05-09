@@ -1,32 +1,32 @@
 <!-- ======================================================================
 --- Search engine
-title:          Keresés eredménye
-keywords:       keress, eredmény
-description:    A keresés eredményeinek a listja.
+title:          Search results
+keywords:       search, results
+description:    The listed items of the search results.
 --- Menu system
 order:          
 text:           
 hidden:         true
 umbel:          false
 --- Page properties
-id:             /search
+id:             
 document:       
 layout:         
 ---$-left:         
 searchable:     false
 ======================================================================= -->
 
-# Keresés eredménye
+<h1>Search results</h1>
 
-<form class="form-inline search-phrase" action="/kereses" method="post">
+<form class="form-inline search-phrase" action="/search" method="post">
   <div class="form-group">
-    <label for="text2search">Keresett szöveg:</label>
+    <label for="text2search">Text to search:</label>
     <input type="text" class="form-control" name="text2search"
            maxlength="20" value="{{ .text2search }}">
   </div>
-  <button type="submit" class="btn btn-primary">Keresés</button>
+  <button type="submit" class="btn btn-primary">Find</button>
 </form>
 
 {{ .results }}
 
-&nbsp;
+<div>&nbsp;</div>

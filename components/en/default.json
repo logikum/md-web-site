@@ -3,5 +3,8 @@
   "keywords": "William Shakespeare",
   "searchHint": "Search for...",
   "noSearchPhrase": "There is nothing to search.",
-  "noSearchResult": "Search has not found matching content."
+  "noSearchResult": "Search has not found matching content.",
+  "tragedies": "/tragedies/",
+  "histories": "/histories/",
+  "comedies": "/comedies/"
 }

@@ -1,20 +1,11 @@
 'use strict';
 
-var highlight = require( 'highlight.js' );
-
 /**
  * Provides a custom marked renderer.
  * @param {Marked} marked - The marked application.
  * @returns {Marked.Renderer} The customized marked renderer.
  */
 function markedRenderer( marked ) {
-
-  // Synchronous highlighting with highlight.js
-  marked.setOptions( {
-    highlight: function ( code, lang ) {
-      return highlight.highlightAuto( code, [ lang ] ).value;
-    }
-  } );
 
   // Get the original renderer.
   var renderer = new marked.Renderer();
