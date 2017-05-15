@@ -18,7 +18,7 @@
     "express": "^4.15",
     "express-session": "^1.15",
     "helmet": "^3.6",
-    "md-site-engine": "^0.4",
+    "md-site-engine": "^0.5",
     "serve-favicon": "^2.4",
     "serve-static": "^1.12"
   },
