@@ -3,5 +3,8 @@
   "keywords": "William Shakespeare",
   "searchHint": "Keresés...",
   "noSearchPhrase": "Nincs keresendő szöveg.",
-  "noSearchResult": "A keresett szöveg nem található az oldalakon."
+  "noSearchResult": "A keresett szöveg nem található az oldalakon.",
+  "tragedies": "/tragediak/",
+  "histories": "/kiralydramak/",
+  "comedies": "/vigjatekok/"
 }

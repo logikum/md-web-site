@@ -1,15 +1,5 @@
 {
   "defaultLocale": "en",
-  "contents": "contents",
-  "components": "components",
-  "controls": "controls",
-  "documentFile": "document.html",
-  "layoutFile": "layout.html",
-  "referenceFile": "references.txt",
-  "localeFile": "default.json",
-  "submenuFile": "__submenu.txt",
-  "layoutSegment": "layout",
-  "contentSegment": "content",
   "getRenderer": "/config/marked-renderer.js",
 
   "session": {

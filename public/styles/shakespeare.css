@@ -170,3 +170,9 @@ mark {
     border-bottom-left-radius: 0;
     border-left: 0;
 }
+/* Accordion */
+.panel-play-list {
+    border-width: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
