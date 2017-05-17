@@ -64,3 +64,54 @@ rapier, or from poisoned wine. The plans go wrong and both Laertes and Hamlet
 are wounded, while Gertrude unwittingly drinks from the poisoned cup. Hamlet, in
 his death throes, kills Claudius, and Horatio is left to explain the truth to
 the new king, Fortinbras, who returns, victorious, from the Polish wars.
+
+#### Dramatis personae
+
+CLAUDIUS, king of Denmark.
+
+HAMLET, son to the late, and nephew to the present king.
+
+POLONIUS, lord chamberlain.
+
+HORATIO, friend to Hamlet.
+
+LAERTES, son to Polonius.
+
+LUCIANUS, nephew to the king.
+
+VOLTIMAND  
+CORNELIUS  
+ROSENCRANTZ  
+GUILDENSTERN  
+OSRIC, courtiers.
+
+A gentleman,
+
+a priest.
+
+MARCELLUS  
+BERNARDO, officers.
+
+FRANCISCO, a soldier.
+
+REYNALDO, servant to Polonius.
+
+Players.
+
+Two clowns,
+
+grave-diggers.
+
+FORTINBRAS, prince of Norway.
+
+A captain.
+
+English ambassadors.
+
+GERTRUDE, queen of Denmark, and mother to Hamlet.
+
+OPHELIA, daughter to Polonius.
+
+Lords, ladies, officers, soldiers, sailors, messengers, and other attendants.
+
+Ghost of Hamlet’s Father.

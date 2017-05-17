@@ -59,7 +59,7 @@ And cheer his Grace with quick and merry eyes.
 _Queen Elizabeth_. If [the King] were dead, what would betide on me?  
 _Grey_. No other harm but loss of such a lord.  
 _Queen Elizabeth_. The loss of such a lord includes all  
-harms.<sup>2</sup> (1.3.1-8)</p>
+harms. <sup>2</sup> (1.3.1-8)</p>
 
 At a first glance, these characters seem only to be concerned about the poor
 health of their King. Yet each line reveals something about each character. Lord

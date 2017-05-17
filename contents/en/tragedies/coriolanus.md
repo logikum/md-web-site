@@ -45,3 +45,40 @@ and his young son, approach him. He is unable to resist their entreaties and
 agrees to make peace.
 
 Aufidius, filled with a sense of betrayal, kills Coriolanus.
+
+#### Dramatis personae
+
+CAIUS MARCIUS, afterwards CAIUS MARCIUS CORIOLANUS.
+
+TITUS LARTIUS,  
+COMINIUS, generals against the Volscians.
+
+MENENIUS AGRIPPA, friend to Coriolanus.
+
+SICINIUS VELUTUS,  
+JUNIUS BRUTUS, tribunes of the people.
+
+Young MARCUS, son to Coriolanus.
+
+A Roman Herald.
+
+TULLUS AUFIDIUS, general of the Volscians.
+
+Lieutenant to Aufidius.
+
+Conspirators with Aufidius.
+
+A citizen of Antium.
+
+Two Volscian guards.
+
+VOLUMNIA, mother to Coriolanus.
+
+VIRGILIA, wife to Coriolanus.
+
+VALERIA, friend to Virgilia.
+
+Gentlewoman, attending on Virgilia.
+
+Roman and Volscian senators, patricians, aediles, lictors, soldiers,
+citizens, messengers, servants to Aufidius, and other attendants.

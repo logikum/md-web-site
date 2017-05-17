@@ -47,3 +47,59 @@ Cleopatra’s life is in tatters. Having lost Antony and being at the mercy of
 Caesar, she resolves to commit suicide. She has someone bring her some poisonous
 snakes and incites them to bite her. Caesar arrives just after her death and
 orders that the twolovers be buried together.
+
+#### Dramatis personae
+
+MARK ANTONY  
+M. AEMILIUS LEPIDUS  
+OCTAVIUS CAESAR, triumvirs.
+
+SEXTUS POMPEIUS
+
+DOMITIUS ENOBARBUS  
+VENTIDIUS  
+EROS  
+SCARUS, friends to Antony.
+
+DERCETAS  
+DEMETRIUS  
+PHILO  
+MECAENAS  
+AGRIPPA  
+DOLABELLA  
+PROCULEIUS, friends to Caesar.
+
+THYREUS  
+GALLUS  
+MENAS  
+MENECRATES, friends to Pompey.
+
+VARRIUS
+
+TAURUS, lieutenant-general to Caesar.
+
+CANIDIUS, lieutenant-general to Antony.
+
+SILIUS, an officer in Ventidius’s army.
+
+EUPHRONIUS, an ambassador from Antony to Caesar.
+
+ALEXAS
+
+MARDIAN, a Eunuch.
+
+SELEUCUS  
+DIOMEDES, attendants on Cleopatra.
+
+A soothsayer.
+
+A clown.
+
+CLEOPATRA, queen of Egypt.
+
+OCTAVIA, sister to Caesar and wife to Antony.
+
+CHARMIAN  
+IRAS, attendants on Cleopatra.
+
+Officers, soldiers, messengers, and other attendants.

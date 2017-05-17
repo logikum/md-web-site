@@ -58,3 +58,55 @@ Cassius’s body, commits suicide as the only honourable action left to him.
 Antony, triumphant on the battlefield, praises Brutus as ‘the noblest Roman of
 them all’, and orders a formal funeral before he and Octavius return to rule in
 Rome.
+
+#### Dramatis personae
+
+JULIUS CAESAR
+
+OCTAVIUS CAESAR,  
+MARCUS ANTONIUS,  
+M. AEMILIUS LEPIDUS, triumvirs after death of Julius Caesar.
+
+CICERO  
+PUBLIUS  
+POPILIUS LENA, senators.
+
+MARCUS BRUTUS  
+CASSIUS  
+CASCA  
+TREBONIUS  
+LIGARIUS  
+DECIUS BRUTUS  
+METELLUS CIMBER, conspirators against Julius Caesar.
+
+FLAVIUS  
+MARULLUS, tribunes.
+
+ARTEMIDORUS of Cnidos, a teacher of rhetoric.
+
+A soothsayer
+
+CINNA, a poet.
+
+Another poet
+
+LUCILIUS  
+TITINIUS  
+MESSALA  
+Young CATO  
+VOLUMNIUS, friends to Brutus and Cassius.
+
+VARRO  
+CLITUS  
+CLAUDIUS  
+STRATO  
+LUCIUS  
+DARDANIUS, servants to Brutus.
+
+PINDARUS, servant to Cassius.
+
+CALPURNIA, wife to Caesar.
+
+PORTIA, wife to Brutus.
+
+Senators, citizens, guards, attendants, &c.

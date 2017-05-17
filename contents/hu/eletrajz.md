@@ -18,7 +18,7 @@ searchable:     true
 
 # William Shakespeare élete (1564-1616)
 
-1564. április 23-án született az Avon folyó melletti Stratfordban. Anyja
+<span>1564.</span> április 23-án született az Avon folyó melletti Stratfordban. Anyja
 földbirtokoslány volt, apja kesztyűkészítő, gabona- és vegyeskereskedő
 Stratfordban, ahol egyre fontosabb szerepet játszott a közügyekben. 1568-ban
 a városka polgármestere lett, de később elszegényedett, s csak híressé lett fia
