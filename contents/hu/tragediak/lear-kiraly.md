@@ -19,3 +19,29 @@ searchable:     true
 # Lear király
 
 Leírás...
+
+#### Személyek
+
+Lear, Britannia királya  
+A francia király  
+A burgundi fejedelem  
+Cornwall fejedelem  
+Alban fejedelem  
+Kent gróf  
+Gloster gróf  
+Edgar, Gloster fia  
+Edmund, Gloster törvénytelen fia  
+Curan, udvaronc  
+Oszvald, Goneril udvarnoka  
+Aggastyán, Gloster haszonbérlője  
+Orvos  
+Bolond  
+Tiszt Edmund szolgálatában  
+Nemes Cordelia kíséretében  
+Hírnök  
+Szolgák, Cornwallnál  
+Goneril,  
+Regan,  
+Cordelia, Lear leányai  
+Lovagok a király kíséretében.  
+Tisztek, követek, katonák és kísérők.

@@ -19,3 +19,37 @@ searchable:     true
 # Othello
 
 Leírás...
+
+#### Személyek
+
+Velencei Doge.
+
+Brabantio, tanácsos.
+
+Más két tanácsos.
+
+Gratiano, Brabantio öcscse.
+
+Lodovico, rokonuk.
+
+Othello, a mór.
+
+Cassio, hadnagy.
+
+Jago, zászlótartója.
+
+Rodrigo, velencei nemes.
+
+Montano, cyprusi kormányzó.
+
+Bolond, Othello szolgálatában.
+
+Hirnök.
+
+Desdemona, Brabantio leánya, Othello neje.
+
+Emilia, Jago neje.
+
+Bianca, Cassio kedvese.
+
+Tisztek, nemesek, hirnökök, zenészek, hajósok, kiséret.

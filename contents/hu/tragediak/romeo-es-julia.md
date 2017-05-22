@@ -19,3 +19,53 @@ searchable:     true
 # Rómeó és Júlia
 
 Description...
+
+#### Személyek
+
+Escalus, fejedelem Veronában.
+
+Paris, fiatal nemes, a fejedelem rokona.
+
+Montague,  
+Capulet, két ellenséges ház feje.
+
+Öreg Capulet, Capulet nagybátyja.
+
+Romeo, Montague fia.
+
+Mercutio, a fejedelem rokona, Romeo barátja.
+
+Benvolio, Montague rokona, Romeo barátja.
+
+Tybalt, Capuletné unoka-öcscse.
+
+Lőrincz,  
+János, ferenczrendiek.
+
+Boldizsár, Romeo szolgája.
+
+Sámson,  
+Gergely,  
+Péter, szolgák a Capulet-háznál.
+
+Ábrahám, szolga Montague-éknál
+
+Gyógyszerész, Mantuában.
+
+Három zenész.
+
+Őrtiszt.
+
+Paris apródja.
+
+Kar. (Prológ.)
+
+Montaguené.
+
+Capuletné.
+
+Julia, leánya.
+
+Julia dajkája.
+
+Őrök, kiséret, polgárok, álarczosok stb.

@@ -58,3 +58,52 @@ to a listening doctor. She kills herself as the final battle commences.
 Macduff challenges Macbeth who, on learning his adversary is the child of a
 Ceasarian birth, realises he is doomed. Macduff triumphs and brings the head of
 the traitor to Malcolm who declares peace and is crowned king.
+
+#### Dramatis personae
+
+DUNCAN, king of Scotland.
+
+MALCOLM,  
+DONALBAIN, his sons.
+
+MACBETH,  
+BANQUO, generals of the king’s army.
+
+MACDUFF,  
+LENNOX,  
+ROSS,  
+MENTEITH,  
+ANGUS,  
+CAITHNESS, noblemen of Scotland.
+
+FLEANCE, son to Banquo.
+
+SIWARD, Earl of Northumberland, general of the English forces.
+
+YOUNG SIWARD, his son.
+
+SEYTON, an officer attending on Macbeth.
+
+Boy, son to Macduff.
+
+An English doctor.
+
+A Scotch doctor.
+
+A soldier.
+
+A porter.
+
+An old man
+
+LADY MACBETH
+
+LADY MACDUFF, Gentlewoman attending on Lady Macbeth.
+
+HECATE
+
+Three Witches.
+
+Apparitions.
+
+Lords, gentlemen, officers, soldiers, murderers, attendants, and messengers.

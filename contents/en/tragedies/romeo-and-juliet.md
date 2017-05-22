@@ -59,3 +59,57 @@ drugged sleep. She learns what has happened from Friar Lawrence but she refuses
 to leave the tomb and stabs herself as the Friar returns with the Prince, the
 Capulets and Romeo’s father. The deaths of their children lead the families to
 make peace, promising to erect a monument in their memory.
+
+#### Dramatis personae
+
+ESCALUS, prince of Verona.
+
+PARIS, a young nobleman, kinsman to the prince.
+
+MONTAGUE,  
+CAPULET, heads of two houses at variance with each other.
+
+An old man, cousin to Capulet.
+
+ROMEO, son to Montague.
+
+MERCUTIO, kinsman to the prince, and friend to Romeo.
+
+BENVOLIO, nephew to Montague, and friend to Romeo.
+
+TYBALT, nephew to Lady Capulet.
+
+FRIAR LAURENCE,  
+FRIAR JOHN, Franciscans.
+
+BALTHASAR, servant to Romeo.
+
+SAMPSON,  
+GREGORY, servants to Capulet.
+
+PETER, servant to Juliet’s nurse.
+
+ABRAHAM, servant to Montague.
+
+An apothecary.
+
+Three musicians.
+
+Page to Paris;
+
+another page;
+
+an officer.
+
+LADY MONTAGUE, wife to Montague.
+
+LADY CAPULET, wife to Capulet.
+
+JULIET, daughter to Capulet.
+
+Nurse to Juliet.
+
+Citizens of Verona; several men and women, relations to both houses;  
+maskers, guards, watchmen, and attendants.
+
+Chorus.
