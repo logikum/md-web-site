@@ -36,3 +36,81 @@ French are defeated, with heavy losses, whereas the English losses are light.
 Henry returns to London in triumph before making peace with the French king.
 Henry woos the French Princess Katherine and their marriage links England and
 France.
+
+#### Dramatis personae
+
+KING HENRY, the Fifth.
+
+DUKE OF GLOUCESTER
+
+DUKE OF BEDFORD, brothers to the King.
+
+DUKE OF EXETER, uncle to the King.
+
+DUKE OF YORK, cousin to the King.
+
+EARL OF SALISBURY
+
+EARL OF WESTMORELAND
+
+EARL OF WARWICK
+
+BISHOP OF CANTERBURY
+
+BISHOP OF ELY
+
+EARL OF CAMBRIDGE
+
+LORD SCROOP
+
+SIR THOMAS GREY
+
+SIR THOMAS ERPINGHAM
+
+GOWER,  
+FLUELLEN,  
+MACMORRIS,  
+JAMY, officers in King Henry’s army.
+
+BATES,  
+COURT,  
+WILLIAMS, soldiers in the same.
+
+PISTOL
+
+NYM
+
+BARDOLPH
+
+Boy
+
+A herald.
+
+CHARLES the Sixth, King of France.
+
+LEWIS, the Dauphin.
+
+DUKE OF BURGUNDY  
+DUKE OF ORLEANS  
+DUKE OF BOURBON  
+
+The Constable of France.
+
+RAMBURES, 
+GRANDPRE, French Lords.
+
+GOVERNOR, of Harfleur.
+
+MONTJOY, a French herald.
+
+Ambassadors to the King of England.
+
+ISABEL, Queen of France.
+
+KATHARINE, daughter to Charles and Isabel.
+
+ALICE, a lady attending on her.
+
+Hostess of a tavern in Eastcheap formerly Mistress Quickly, and now married to Pistol.
+
+Lords, Ladies, officers, soldiers, citizens, messengers, and attendants. Chorus.

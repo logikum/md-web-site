@@ -44,3 +44,81 @@ The new Archbishop of Canterbury has a plot hatched against him by Wolsey’s
 secretary, Gardiner, who is tried and executed for treason. Henry has a daughter,
 Elizabeth, by Anne Bullen. Cranmer christens her and makes a speech foretelling
 a noble rule for Elizabeth and a glorious period of history during her reign.
+
+#### Dramatis personae
+
+KING HENRY the Eighth
+
+CARDINAL WOLSEY
+
+CARDINAL CAMPEIUS
+
+CAPUCIUS, Ambassador from the Emperor Charles V
+
+CRANMER, Archbishop of Canterbury.
+
+DUKE OF NORFOLK
+
+DUKE OF BUCKINGHAM
+
+DUKE OF SUFFOLK
+
+EARL OF SURREY
+
+Lord Chamberlain
+
+Lord Chancellor
+
+GARDINER, Bishop of Winchester.
+
+Bishop of Lincoln.
+
+LORD ABERGAVENNY
+
+LORD SANDS
+
+SIR HENRY GUILDFORD
+
+SIR THOMAS LOVELL
+
+SIR ANTHONY DENNY
+
+SIR NICHOLAS VAUX
+
+Secretaries to Wolsey.
+
+CROMWELL, Servant to Wolsey.
+
+GRIFFITH, Gentleman-usher to Queen Katharine.
+
+Three Gentlemen.
+
+DOCTOR BUTTS, Physician to the King.
+
+Garter King-at-Arms.
+
+Surveyor to the Duke of Buckingham.
+
+BRANDON
+
+A Sergeant-at-Arms.
+
+Door-keeper of the Council-chamber. Porter, and his Man
+
+Page to Gardiner.
+
+A Crier.
+
+QUEEN KATHARINE Wife to King Henry, afterwards divorced
+
+ANNE BULLEN her Maid of Honour, afterwards Queen.
+
+An old Lady, friend to Anne Bullen.
+
+PATIENCE, woman to Queen Katharine.
+
+Several Lords and Ladies in the dumb shows;  
+women attending upon the Queen; scribes,  
+officers, guards, and other attendants.
+
+Spirits.

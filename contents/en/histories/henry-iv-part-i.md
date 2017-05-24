@@ -51,3 +51,54 @@ injury, claims to have fought and killed Hotspur. The King’s army triumphs ove
 the rebels and Worcester is condemned to death. Hal frees Douglas while Henry
 takes his troops to continue the war against Mortimer and the Welsh, and the
 remnants of the Northumberland forces.
+
+#### Dramatis personae
+
+KING HENRY, the Fourth.
+
+HENRY, Prince of Wales, sons of the King
+
+JOHN of Lancaster
+
+WESTMORELAND
+
+SIR WALTER BLUNT
+
+THOMAS PERCY Earl of Worcester.
+
+HENRY PERCY, Earl of Northumberland.
+
+HENRY PERCY, surnamed HOTSPUR, his son.
+
+EDMUND MORTIMER, Earl of March.
+
+RICHARD SCROOP, Archbishop of York.
+
+ARCHIBALD, Earl of Douglas.
+
+OWEN GLENDOWER
+
+SIR RICHARD VERNON
+
+SIR JOHN FALSTAFF
+
+SIR MICHAEL, a friend to the Archbishop of York.
+
+POINS
+
+GADSHILL
+
+PETO
+
+BARDOLPH
+
+FRANCIS, a waiter.
+
+LADY PERCY, wife to Hotspur, and sister to Mortimer.
+
+LADY MORTIMER, daughter to Glendower, and wife to Mortimer.
+
+MISTRESS QUICKLY, hostess of a tavern in Eastcheap.
+
+Lords, officers, sheriff, vintner, chamberlain, drawers,
+two carriers, travellers, attendants, and an ostler.
