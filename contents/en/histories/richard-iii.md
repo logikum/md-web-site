@@ -41,3 +41,85 @@ makes war on Richard. They meet at Bosworth. On the eve of the battle Richard is
 haunted by the ghosts of his victims. He is killed in the battle and Henry Tudor
 succeeds him, becoming Henry VII of England. The play ends with him planning to
 marry Elizabeth of York and end the Wars of the Roses.
+
+#### Dramatis personae
+
+KING EDWARD The Fourth
+
+EDWARD, Prince of Wales, afterwards King Edward V.,  
+RICHARD, Duke of York, sons to the King.
+
+GEORGE, Duke of Clarence,  
+RICHARD, Duke of Gloucester, afterwards King Richard III., Brothers to the King.
+
+A young son of Clarence.
+
+HENRY, Earl of Richmond, afterwards King Henry VII.
+
+CARDINAL BOURCHIER, Archbishop of Canterbury.
+
+THOMAS ROTHERHAM, Archbishop of York.
+
+JOHN MORTON, Bishop of Ely.
+
+DUKE of BUCKINGHAM
+
+DUKE of NORFOLK
+
+EARL of SURREY, His son.
+
+EARL RIVERS, Brother to Elizabeth.
+
+MARQUIS OF DORSET
+
+LORD GREY, Sons to Elizabeth.
+
+EARL of OXFORD
+
+LORD HASTINGS
+
+LORD STANLEY, Called also EARL of DERBY.
+
+LORD LOVEL
+
+SIR THOMAS VAUGHAN
+
+SIR RICHARD RATCLIFF
+
+SIR WILLIAM CATESBY
+
+SIR JAMES TYRREL
+
+SIR JAMES BLOUNT
+
+SIR WALTER HERBERT
+
+SIR ROBERT BRAKENBURY, lieutenant of the Tower.
+
+CHRISTOPHER URSWICK,
+
+A priest.
+
+Another Priest.
+
+TRESSEL,  
+BERKELEY, gentlemen attending on the Lady Anne.
+
+Lord Mayor of London.
+
+Sheriff of Wiltshire.
+
+ELIZABETH, Queen to King Edward IV.
+
+MARGARET, Widow of King Henry VI.
+
+DUCHESS of YORK, Mother to King Edward IV.
+
+LADY ANNE, Widow of Edward Prince of Wales, son to King Henry VI.; afterwards married to Richard.
+
+A young Daughter of Clarence ()MARGARET PLANTAGENET)
+
+Ghosts of those murdered by Richard III.,
+
+Lords and other attendants; a pursuivant scrivener, citizens, murderers,
+messengers, soldiers, &c.
