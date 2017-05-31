@@ -57,3 +57,44 @@ father gives her to Orlando; Phoebe accepts Silvius; Orlando’s older brother
 returns from university with the news that Celia’s father, Frederick, has retired
 as Duke to become a hermit; Jaques goes to join him. There is a joyful dance to
 celebrate the four marriages and the happy ending.
+
+#### Characters
+
+DUKE SENIOR, living in banishment.
+
+DUKE FREDERICK, his brother, an usurper of his dominions.
+
+AMIENS,  
+JAQUES, lords attending on the banished duke.
+
+LE BEAU, a courtier attending upon Frederick.
+
+CHARLES, wrestler to Frederick.
+
+OLIVER,  
+JAQUES,  
+ORLANDO, sons of Sir Rowland de Boys.
+
+ADAM,  
+DENNIS, servants to Oliver.
+
+TOUCHSTONE, a clown.
+
+SIR OLIVER MARTEXT, a vicar.
+
+CORIN,  
+SILVIUS, shepherds.
+
+WILLIAM, a country fellow in love with Audrey.
+
+A person representing HYMEN.
+
+ROSALIND, daughter to the banished duke.
+
+CELIA, daughter to Frederick.
+
+PHEBE, a shepherdess.
+
+AUDREY, a country wench.
+
+Lords, pages, and attendants, &c.

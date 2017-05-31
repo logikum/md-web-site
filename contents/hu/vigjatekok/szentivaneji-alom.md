@@ -19,3 +19,52 @@ searchable:     true
 # Szentivánéji álom
 
 Leírás...
+
+#### Szereplők
+
+Theseus, Athéne ura.
+
+Egéus, Hermia atyja.
+
+Lysander,  
+Demetrius, szerelmesek Hermiába.
+
+Philostrat, ünnepély rendező Theseusnál.
+
+Vaczkor, ács.
+
+Gyalu, asztalos.
+
+Zuboly, takács.
+
+Dudás, fuvó-foldozó.
+
+Orrondi, üstfoldozó.
+
+Ösztövér, szabó.
+
+Hippolyta, amazon királynő.
+
+Hermia, szerelmes Lysanderbe.
+
+Heléna, szerelmes Demetriusba.
+
+Oberon, tündérkirály.
+
+Titania, tündérkirályné.
+
+Puck vagy Robin-Pajtás.
+
+Babvirág,  
+Pókháló,  
+Moly,  
+Mustármag, tündérek
+
+Pyramus,  
+Thisbe,  
+Fal,  
+Holdvirág,  
+Oroszlán, a közjáték személyei.
+
+Más tündérek, királyuk és királynéjok kiséretében.  
+Theseus és Hippolyta kisérői.

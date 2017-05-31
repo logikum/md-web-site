@@ -58,3 +58,46 @@ Happily reunited to each other, Lysander with Hermia, Demetrius with Helena,
 they agree to share the Duke’s wedding day. The rustics perform the play of
 Pyramus and Thisbe before the wedding guests. As the three couples retire Puck
 and the fairies return to bless the palace and its people.
+
+#### Characters
+
+THESEUS, Duke of Athens.
+
+EGEUS, father to Hermia.
+
+LYSANDER,  
+DEMETRIUS, in love with Hermia.
+
+PHILOSTRATE, master of the revels to Theseus.
+
+QUINCE, a carpenter.
+
+SNUG, a joiner.
+
+BOTTOM, a weaver.
+
+FLUTE, a bellows-mender.
+
+SNOUT, a tinker.
+
+STARVELING, a tailor.
+
+HIPPOLYTA, queen of the Amazons, betrothed to Theseus.
+
+HERMIA, daughter to Egeus, in love with Lysander.
+
+HELENA, in love with Demetrius.
+
+OBERON, king of the fairies.
+
+TITANIA, queen of the fairies.
+
+PUCK, or Robin Goodfellow.
+
+PEASEBLOSSOM,  
+COBWEB,  
+MOTH,  
+MUSTARDSEED, fairies.
+
+Other fairies attending their King and Queen.  
+Attendants on Theseus and Hippolyta.

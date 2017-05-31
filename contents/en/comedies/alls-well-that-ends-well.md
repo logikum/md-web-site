@@ -47,3 +47,33 @@ appears as a witness to the truth of Diana’s story. She is pregnant and her st
 soon comes out. Bertram accepts her as his wife. The king offers Diana a choice
 of husbands from among his courtiers, with a rich dowry. The play ends with
 everyone being more or less satisfied.
+
+#### Characters
+
+KING OF FRANCE
+
+DUKE OF FLORENCE
+
+BERTRAM, Count of Rousillon.
+
+LAFEU, an old lord.
+
+PAROLLES, a follower of Bertram.
+
+Steward,
+Clown, servants to the Countess of Rousillon.
+
+A Page.
+
+COUNTESS OF ROUSILLON, mother to Bertram.
+
+HELENA, a gentlewoman protected by the Countess.
+
+An old Widow of Florence.
+
+DIANA, daughter to the Widow.
+
+VIOLENTA,
+MARIANA, neighbours and friends to the Widow.
+
+Lords, officers, soldiers, &c., French and Florentine.

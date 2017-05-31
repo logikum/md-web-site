@@ -19,3 +19,36 @@ searchable:     true
 # Minden jó, ha vége jó
 
 Leírás...
+
+#### Szereplők
+
+Franciaország királya.
+
+Flórenc uralkodó hercege.
+
+Bertram, Rousillon grófja.
+
+Lafeu, agg főnemes.
+
+Parolles, a gróf kisérője.
+
+Több francia nemes ifjak, Bertrammal együtt hadiszolgálatban.
+
+Várnagy, Rousillon grófnénál.
+
+Bohóc, ugyanannak szolgálatában.
+
+Apród.
+
+Rousillon grófné, Bertram anyja.
+
+Heléna, gyámleánya.
+
+Egy flórenci özvegyasszony.
+
+Diana, ennek leánya.
+
+Violenta,
+Mariana, ez utóbbiak szomszéd- s barátnői.
+
+Főurak, a király kiséretéből; tisztek, katonák, franciák és flórenciek.

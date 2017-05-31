@@ -19,3 +19,46 @@ searchable:     true
 # Ahogy tetszik
 
 Leírás...
+
+#### Szereplők
+
+Az idősb Herceg, száműzött.
+
+Fridrik, testvére, bitorló bátyja tartományaiban.
+
+Amiens,  
+Jaques, a száműzött herceg kiséretéhez tartozó nemesek.
+
+Le Beau, udvaronc.
+
+Charles, bajvivó.
+
+Oliver,  
+Jaques,  
+Orlando, sir Roland de Bois gyermekei
+
+Ádám,  
+Dennis, Oliver szolgái.
+
+Próbakő, bohóc.
+
+Tiszt.
+
+Szövegronthó Oliver, lelkész.
+
+Korin,  
+Silvius, pásztorok.
+
+Vilmos, paraszt süsők, szerelmes Juciba.
+
+Hymen.
+
+Rozalinda, a száműzött herceg leánya.
+
+Chelia, Fridrik leánya.
+
+Phoebe, pásztorleány.
+
+Juci, pórleány.
+
+Urak, apródok, vadászok és kiséret.

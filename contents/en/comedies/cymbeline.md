@@ -33,3 +33,49 @@ of money against Postumus’ ring that he can seduce Imogen.
 The play has a traditional comic ending. Iachimo confesses to his misdemeanours,
 the characters reveal themselves, all the misunderstandings are resolved and the
 lovers are reunited.
+
+#### Characters
+
+CYMBELINE, King of Britain.
+
+CLOTEN, son to the Queen by a former husband.
+
+POSTHUMUS LEONATUS, a gentleman, husband to Imogen.
+
+BELARIUS, a banished lord, disguised under the name of Morgan.
+
+GUIDERIUS,  
+ARVIRAGUS, sons to Cymbeline, disguised under the names
+of Polydote and Cadwal, supposed sons to Morgan.
+
+PHILARIO friend to Posthumus,  
+IACHIMO, friend to Philario, Italians.
+
+CAIUS LUCIUS, general of the Roman forces.
+
+PISANIO, servant to Posthumus.
+
+CORNELIUS, a physician.
+
+A Roman Captain.
+
+Two British Captains.
+
+A Frenchman, friend to Philario.
+
+Two Lords of Cymbeline’s court.
+
+Two Gentlemen of the same.
+
+Two Gaolers.
+
+QUEEN, wife to Cymbeline.
+
+IMOGEN, daughter to Cymbeline by a former queen.
+
+HELEN, a lady attending on Imogen.
+
+Lords, Ladies, Roman senators, tribunes, a soothsayer, a Dutchman, a Spaniard,
+musicians, officers, captains, soldiers, messengers, and other attendants.
+
+Apparitions.
