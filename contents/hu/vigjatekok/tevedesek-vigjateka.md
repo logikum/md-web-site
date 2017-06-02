@@ -19,3 +19,35 @@ searchable:     true
 # Tévedések vígjátéka
 
 Leírás...
+
+#### Szereplők
+
+Solinus, Ephesus hercege.
+
+Aegeon, syracusi kalmár.
+
+Ephesusi Antipholus,  
+Syracusi Antipholus, ikrek, Aegeon és Emilia fiai.
+
+Ephesusi Dromio,  
+Syracusi Dromio, ikrek, a két Antipholus inasai.
+
+Boldizsár, kalmár.
+
+Angelo, ötvös.
+
+Egy kereskedő, syracusi Antipholus barátja.
+
+Csippencs, iskolamester.
+
+Emilia, Aegeon neje.
+
+Adriána, Ephesusi Antipholus neje.
+
+Luciána, húga.
+
+Lucza, Adriána szobalánya.
+
+Egy leány.
+
+Poroszló. tisztek. kísérők.

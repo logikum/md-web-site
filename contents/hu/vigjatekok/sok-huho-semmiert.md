@@ -19,3 +19,40 @@ searchable:     true
 # Sok hűhó semmiért
 
 Leírás...
+
+#### Szereplők
+
+Péter, Aragon hercege.
+
+János, öccse, fattyú-vér.
+
+Claudio, flórenci nemes ifjú
+
+Bence, páduai nemes ifjú
+
+Leonato, Messina kormányzója.
+
+Antonio, testvéröcscse.
+
+Boldizsár, Péter szolgája.
+
+Borachio,  
+Konrád, János emberei
+
+Galagonya,  
+Bunkós, őr-biztosok.
+
+Ferenc, barát.
+
+Egy jegyző.
+
+Egy fiú.
+
+Héro. Leonato lánya.
+
+Beátrisz, Leonato unoka-húga
+
+Margit,  
+Ursula, Héro társalgónői.
+
+Futárok, őrök, kísérők.

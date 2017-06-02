@@ -64,3 +64,37 @@ the home of Adriana and Antipholus of Ephesus. Dromio of Syracuse happily passes
 the attentions of Adriana’s servant girl, who has pursued him since the dinner
 at Adriana’s house, back to his brother and the two joyfully leave the stage
 hand in hand.
+
+#### Characters
+
+SOLINUS, Duke of Ephesus.
+
+AEGEON, a merchant of Syracuse.
+
+ANTIPHOLUS OF EPHESUS,  
+ANTIPHOLUS OF SYRACUSE, twin brothers, and sons to AEgeon and AEmilia.
+
+DROMIO OF EPHESUS,  
+DROMIO OF SYRACUSE, twin brothers, and attendants on the two Antipholuses.
+
+BALTHAZAR, a merchant
+
+ANGELO, a goldsmith.
+
+First Merchant, friend to Antipholus of Syracuse.
+
+Second Merchant, to whom Angelo is a debtor.
+
+PINCH, a schoolmaster.
+
+AEMILIA, wife to AEgeon, an abbess at Ephesus.
+
+ADRIANA, wife to Antipholus of Ephesus.
+
+LUCIANA, her sister.
+
+LUCE, servant to Adriana.
+
+A courtezan.
+
+Gaoler, officers, and other attendants

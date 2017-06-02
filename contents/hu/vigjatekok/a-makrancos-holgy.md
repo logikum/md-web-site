@@ -19,3 +19,49 @@ searchable:     true
 # A makrancos hölgy
 
 Leírás...
+
+#### Szereplők
+
+Gróf,
+
+Ravaszdi Kristóf,
+
+üstfoldozó,
+
+Csaplárné.
+
+Apród.
+
+Szinészek, vadászok, szolgák, az előjáték személyei.
+
+Baptista, páduai gazdag nemes.
+
+Vincentio, pisai agg nemes.
+
+Petruchio, veronai ifjú.
+
+Lucentio, Vincentio fia.
+
+Gremio,  
+Hortensio, Bianka kérői.
+
+Tranio,  
+Biondello, Lucentio szolgái.
+
+József.
+
+Grumio,  
+Kurta, Petruchio szolgái.
+
+Vándor.
+
+Katalin,  
+Bianka, Baptista leányai.
+
+Özvegy.
+
+Szabó.
+
+Divatárus.
+
+Baptista és Petruchio cselédei.
