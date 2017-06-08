@@ -19,3 +19,42 @@ searchable:     true
 # A vihar
 
 Leírás...
+
+#### Szereplők
+
+Alonzo, Nápoly királya.
+
+Sebastiano, a király öccse.
+
+Prospero, Milánó jogszerű hercege.
+
+Antonio, öcscse, Milánó bitorló hercege.
+
+Ferdinánd, a nápolyi király fia.
+
+Gonzalo, becsületes öreg tanácsos.
+
+Adrian,  
+Francisco, udvaroncok.
+
+Caliban, vad és idétlen rabszolga.
+
+Kurjancs, bohóc.
+
+Hörpencs, iszákos pincér.
+
+Hajóskapitány.
+
+Kormányos.
+
+Hajósok.
+
+Miranda, Prospero leánya.
+
+Ariel, légi szellem.
+
+Iris,  
+Ceres,  
+Juno, szellemek.
+
+Nymphák, aratók s más szellemek Prospero szolgálatában.

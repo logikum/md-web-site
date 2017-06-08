@@ -57,3 +57,45 @@ Everyone goes with Paulina to see a newly completed statue of Hermione and the
 statue moves. Hermione has lived in seclusion in the belief that her daughter
 will be found. Florizel and Perdita are united. Leontes and Hermione are also
 united and, as a reward, Paulina is given Camillo as her new husband.
+
+#### Characters
+
+LEONTES, king of Sicilia.
+
+MAMILLIUS, young prince of Sicilia.
+
+CAMILLO,  
+ANTIGONUS,  
+CLEOMENES,  
+DION, four lords of Sicilia.
+
+POLIXENES, king of Bohemia.
+
+FLORIZEL, prince of Bohemia.
+
+ARCHIDAMUS, a lord of Bohemia.
+
+Old Shepherd, reputed father of Perdita.
+
+Clown, his son.
+
+AUTOLYCUS, a rogue.
+
+A mariner.
+
+A gaoler.
+
+HERMIONE, queen to Leontes.
+
+PERDITA, daughter to Leontes and Hermione.
+
+PAULINA, wife to Antigonus.
+
+EMILIA, a lady attending on Hermione
+
+MOPSA,  
+DORCAS, shepherdesses.
+
+Other lords and gentlemen, ladies, officers, and servants, shepherds, and shepherdesses.
+
+Time, as chorus.

@@ -19,3 +19,21 @@ searchable:     true
 # A két veronai nemes
 
 Leírás...
+
+#### Szereplők
+
+A MILÁNÓI HERCEG, Szilvia apja  
+VALENTIN,  
+PROTEUS, a két nemes  
+ANTONIO, Proteus apja  
+THURIO, Valentin ostoba vetélytársa  
+EGLAMOUR, Szilvia szövetségese  
+FOGADÓS, akinél Júlia megszáll  
+RABLÓK, Valentin társai  
+FÜRGE, Valentin bolondos szolgája  
+DÁRDÁS, Proteus bolondos szolgája  
+PANTHINO, Antonio szolgája  
+JÚLIA, Proteus szerelmese  
+SZILVIA, Valentin szerelmese  
+LUCETTA, Júlia komornája  
+Szolgák, zenészek

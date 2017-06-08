@@ -19,3 +19,33 @@ searchable:     true
 # Vízkereszt, vagy amit akartok
 
 Leírás...
+
+#### Szereplők
+
+Orsino, Illyria hercege.
+
+Sebastián, Viola testvére.
+
+Antonio, hajóskapitány, Sebastián barátja
+
+Egy hajóskapitány, Viola barátja.
+
+Valentine,  
+Curio, a herceg környezetéből.
+
+Böffen Tóbiás, Olivia unokatestvére.
+
+Keszeg Andor.
+
+Malvólió, Olivia udvarmestere.
+
+Fábián,  
+Bohóc, Olivia szolgái.
+
+Olivia, dús grófnő.
+
+Viola, a herceg szerelmese.
+
+Mária, Olivia komornája.
+
+Urak, papok, matrózok, törvényszolgák, zenészek és egyéb kíséret.
