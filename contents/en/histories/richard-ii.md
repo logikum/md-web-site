@@ -53,33 +53,34 @@ Pierce of Exton, misinterpreting King Henry’s wishes, murders Richard and brin
 the body toLondon. The play ends with King Henry swearing to make reparation for
 his cousin’s death by going one day on a pilgrimage to Jerusalem.
 
-#### Dramatis personae
-
-KING RICHARD, the Second.  
-JOHN OF GAUNT, Duke of Lancaster, uncles to the King.  
-EDMUND OF LANGLEY, Duke of York  
-HENRY, surnamed BOLINGBROKE, Duke of Hereford, son to John of Gaunt; afterwards King Henry IV.  
-DUKE OF AUMERLE, son to the Duke of York.  
-THOMAS MOWBRAY, Duke of Norfolk.  
-DUKE OF SURREY  
-EARL OF SALISBURY  
-LORD BERKELEY  
-BUSHY  
-BAGOT  
-GREEN, servants to King Richard.  
-EARL OF NORTHUMBERLAND  
-HENRY PERCY, surnamed HOTSPUR, his son.  
-LORD ROSS  
-LORD WILLOUGHBY  
-LORD FITZWATER  
-BISHOP OF CARLISLE  
-Abbot Of Westminster  
-LORD MARSHAL  
-SIR STEPHEN SCROOP  
-SIR PIERCE OF EXTON, Captain of a band of Welshmen.  
-QUEEN to King Richard  
-DUCHESS OF YORK  
-DUCHESS OF GLOUCESTER  
-Lady attending on the Queen.
-
-Lords, heralds, officers, soldiers, two gardeners, keeper, messenger, groom, and other attendants.
+>   #### Characters
+    
+>   King Richard, _the Second_  
+    John of Gaunt, _Duke of Lancaster, uncles to the King_  
+    Edmund of Langley, _Duke of York_  
+    Henry, _surnamed_ Bolingbroke, _Duke of Hereford, son to John of Gaunt; afterwards King Henry IV_  
+    Duke of Aumerle, _son to the Duke of York_  
+    Thomas Mowbray, _Duke of Norfolk_  
+    Duke of Surrey  
+    Earl of Salisbury  
+    Lord Berkeley  
+    Bushy,  
+    Bagot,  
+    Green, _servants to King Richard_  
+    Earl of Northumberland  
+    Henry Percy, _surnamed_ Hotspur, _his son_  
+    Lord Ross  
+    Lord Willoughby  
+    Lord Fitzwater  
+    Bishop of Carlisle  
+    Abbot of Westminster  
+    Lord Marshal  
+    Sir Stephen Scroop  
+    SIR Pierce of Exton, _captain of a band of Welshmen_  
+    Queen to King Richard  
+    Duchess of York  
+    Duchess of Gloucester  
+    Lady attending on the Queen
+    
+>   _Lords, heralds, officers, soldiers, two gardeners, keeper,
+    messenger, groom, and other attendants._

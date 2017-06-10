@@ -52,53 +52,31 @@ the rebels and Worcester is condemned to death. Hal frees Douglas while Henry
 takes his troops to continue the war against Mortimer and the Welsh, and the
 remnants of the Northumberland forces.
 
-#### Dramatis personae
-
-KING HENRY, the Fourth.
-
-HENRY, Prince of Wales, sons of the King
-
-JOHN of Lancaster
-
-WESTMORELAND
-
-SIR WALTER BLUNT
-
-THOMAS PERCY Earl of Worcester.
-
-HENRY PERCY, Earl of Northumberland.
-
-HENRY PERCY, surnamed HOTSPUR, his son.
-
-EDMUND MORTIMER, Earl of March.
-
-RICHARD SCROOP, Archbishop of York.
-
-ARCHIBALD, Earl of Douglas.
-
-OWEN GLENDOWER
-
-SIR RICHARD VERNON
-
-SIR JOHN FALSTAFF
-
-SIR MICHAEL, a friend to the Archbishop of York.
-
-POINS
-
-GADSHILL
-
-PETO
-
-BARDOLPH
-
-FRANCIS, a waiter.
-
-LADY PERCY, wife to Hotspur, and sister to Mortimer.
-
-LADY MORTIMER, daughter to Glendower, and wife to Mortimer.
-
-MISTRESS QUICKLY, hostess of a tavern in Eastcheap.
-
-Lords, officers, sheriff, vintner, chamberlain, drawers,
-two carriers, travellers, attendants, and an ostler.
+>   #### Characters
+    
+>   King Henry, the Fourth  
+    Henry, _Prince of Wales, sons of the King_  
+    John of Lancaster  
+    Westmoreland  
+    Sir Walter Blunt  
+    Thomas Percy, _Earl of Worcester_  
+    Henry Percy, _Earl of Northumberland_  
+    Henry Percy, _surnamed_ Hotspur, _his son_  
+    Edmund Mortimer, _Earl of March_  
+    Richard Scroop, _archbishop of York_  
+    Archibald, _Earl of Douglas_  
+    Owen Glendower  
+    Sir Richard Vernon  
+    Sir John Falstaff  
+    Sir Michael, _a friend to the archbishop of York_  
+    Poins  
+    Gadshill  
+    Peto  
+    Bardolph  
+    Francis, _a waiter_  
+    Lady Percy, _wife to Hotspur, and sister to Mortimer_  
+    Lady Mortimer, _daughter to Glendower, and wife to Mortimer_  
+    Mistress Quickly, _hostess of a tavern in Eastcheap_
+    
+>   _Lords, officers, sheriff, vintner, chamberlain, drawers,
+    two carriers, travellers, attendants, and an ostler._

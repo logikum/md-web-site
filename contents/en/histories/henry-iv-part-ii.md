@@ -51,81 +51,50 @@ knowing him and banishes him, commanding him to come no nearer than ten miles of
 his court. The play ends with Falstaff left hurt and hoping that the king will
 change his mind, while the King Henry plans a war against France.
 
-#### Dramatis personae
-
-RUMOUR, the Presenter.
-
-KING HENRY, the Fourth.
-
-PRINCE HENRY OF WALES afterwards KING HENRY V.  
-THOMAS, DUKE OF CLARENCE  
-PRINCE HUMPHREY OF GLOUCESTER, sons of King Henry.
-
-EARL OF WARWICK
-
-EARL OF WESTMORELAND
-
-EARL OF SURREY
-
-GOWER
-
-HARCOURT
-
-BLUNT
-
-Lord Chief-Justice of the King’s Bench
-
-A Servant of the Chief-Justice.
-
-EARL OF NORTHUMBERLAND
-
-SCROOP, ARCHBISHOP OF YORK
-
-LORD MOWBRAY
-
-LORD HASTINGS
-
-LORD BARDOLPH
-
-SIR JOHN COLEVILE
-
-TRAVERS,  
-MORTON, retainers of Northumberland.
-
-SIR JOHN FALSTAFF
-
-His Page.
-
-BARDOLPH
-
-PISTOL
-
-POINS
-
-PETO
-
-SHALLOW,  
-SILENCE, country justices.
-
-DAVY, servant to Shallow.
-
-MOULDY,  
-SHADOW,  
-WART,  
-FEEBLE,  
-BULLCALF, recruits.
-
-FANG,  
-SNARE, sheriff’s officers.
-
-LADY NORTHUMBERLAND
-
-LADY PERCY
-
-MISTRESS QUICKLY, hostess of a tavern in Eastcheap.
-
-DOLL TEARSHEET
-
-Lords and attendants; porter, drawers, beadles, grooms, &c.
-
-A dancer, speaker of the epilogue. 
+>   #### Characters
+    
+>   Rumour, _the Presenter_  
+    King Henry, the Fourth  
+    Prince Henry of Wales, _afterwards King Henry V.,_  
+    Thomas, _Duke of Clarence,_  
+    Prince Humphrey of Gloucester, _sons of King Henry_  
+    Earl of Warwick  
+    Earl of Westmoreland  
+    Earl of Surrey  
+    Gower  
+    Harcourt  
+    Blunt  
+    Lord Chief-Justice of the King’s Bench  
+    A aervant of the Chief-Justice  
+    Earl of Northumberland  
+    Scroop, _archbishop of York  
+    Lord Mowbray  
+    Lord Hastings  
+    Lord Bardolph  
+    Sir John Colevile  
+    Travers,  
+    Morton, _retainers of Northumberland_  
+    Sir John Falstaff  
+    His page  
+    Bardolph  
+    Pistol  
+    Poins  
+    Peto  
+    Shallow,  
+    Silence, _country justices_  
+    Davy, _servant to Shallow_  
+    Mouldy,  
+    Shadow,  
+    Wart,  
+    Feeble,  
+    Bullcalf, _recruits_  
+    Fang,  
+    Snare, _sheriff’s officers_  
+    Lady Northumberland  
+    Lady Percy  
+    Mistress Quickly, _hostess of a tavern in Eastcheap_  
+    Doll Tearsheet  
+    
+>   _Lords and attendants; porter, drawers, beadles, grooms, &c._
+    
+>   _A dancer, speaker of the epilogue._

@@ -20,78 +20,45 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-IV-dik Edvárd király,
-
-Edvárd, walesi herceg,  
-Richard, yorki herceg, a király fiai.
-
-George, clarencei herceg,  
-Richard, glosteri herceg, a király öcscsei
-
-Clarence, kis fia.
-
-Henrik, Richmond gróf.
-
-Bourchier, bíbornok, canterburyi érsek.
-
-Rotherham Tamás, yorki érsek.
-
-Morton János, elyi püspök.
-
-Buckingham herceg.
-
-Norfolk herceg.
-
-Surrey gróf, fia.
-
-Rivers gróf, a királyné fivére.
-
-Dorset marquis és  
-Grey lord, a királyné fiai.
-
-Oxford gróf.
-
-Hastings lord.
-
-Stanley lord.
-
-Lovel lord.
-
-Sir Thomas Vaugham.
-
-Sir Richard Ratcliff.
-
-Sir William Catesby.
-
-Sir James Tyrrel.
-
-Sir James Blount.
-
-Sir Walter Herbert.
-
-Sir Robert Brakenbury, a Tower hadnagya.
-
-Urswick Kristóf,
-
-pap.
-
-Egy másik pap.
-
-A londoni Lord Mayor
-
-Wiltshirei sheriff.
-
-Erzsébet királyné, IV-dik Edvárd neje.
-
-Margit, VI-dik Henrik özvegye.
-
-York hercegné, IV-dik Edvárd, Clarence és Gloster anyja.
-
-Lady Anna, Edvárd walesi herceg özvegye.
-
-Clarence leánykája.
-
-Lordok és más kísérők; két nemes; hírnökszolga, írnok,
-polgárok, gyilkosok, követek, szellemek, katonák, stb.
+>   #### Szereplők
+    
+>   IV. Edvárd király  
+    Edvárd, _walesi herceg,_  
+    Richard, _yorki herceg, a király fiai_  
+    George, _clarencei herceg,_  
+    Richard, _glosteri herceg, a király öcscsei_  
+    Clarence, _kis fia_  
+    Henrik, _Richmond gróf_  
+    Bourchier, _bíbornok, canterburyi érsek_  
+    Rotherham Tamás, _yorki érsek_  
+    Morton János, _elyi püspök_  
+    Buckingham herceg  
+    Norfolk herceg  
+    Surrey gróf, _fia_  
+    Rivers gróf, _a királyné fivére_  
+    Dorset marquis _és_  
+    Grey lord, _a királyné fiai_  
+    Oxford gróf  
+    Hastings lord  
+    Stanley lord  
+    Lovel lord  
+    Sir Thomas Vaugham  
+    Sir Richard Ratcliff  
+    Sir William Catesby  
+    Sir James Tyrrel  
+    Sir James Blount  
+    Sir Walter Herbert  
+    Sir Robert Brakenbury, _a Tower hadnagya_  
+    Urswick Kristóf  
+    Pap  
+    Egy másik pap  
+    A londoni Lord Mayor  
+    Wiltshirei sheriff  
+    Erzsébet királyné, _IV. Edvárd neje_  
+    Margit, _VI. Henrik özvegye_  
+    York hercegné, _IV. Edvárd, Clarence és Gloster anyja_  
+    Lady Anna, _Edvárd walesi herceg özvegye_  
+    Clarence leánykája
+    
+>   _Lordok és más kísérők; két nemes; hírnökszolga, írnok,
+    polgárok, gyilkosok, követek, szellemek, katonák, stb._

@@ -20,50 +20,29 @@ searchable:     true
 
 Description...
 
-#### Személyek
-
-IV. Henrik király.
-
-Henrik, walesi herceg.
-
-Lancaster János, herceg.
-
-Westmoreland, gróf,
-
-Sir Walter Blunt.
-
-Percy Tamás, worcesteri gróf.
-
-Percy Henrik, northumberlandi gróf.
-
-Percy Henrik, más nevén Hővér, fia.
-
-Mortimer Edmund, markgróf.
-
-Scroop, yorki érsek.
-
-Archibald, douglasi gróf.
-
-Owen Glendower.
-
-Sir Richard Vernon.
-
-Sir John Falstaff.
-
-Sir Michael, a yorki érsek barátja.
-
-Poins.
-
-Gadshill.
-
-Peto.
-
-Bardolph.
-
-Lady Mortimer, Glendower leánya.
-
-Lady Percy, Hővér neje.
-
-Fürge, kocsmárosné az eastcheapi kocsmában.
-
-Lordok, tisztek, bíró, pincér, szolgák, fuvarosok, utasok és kiséret.
+>   #### Szereplők
+    
+>   IV. Henrik király  
+    Henrik, _walesi herceg_  
+    Lancaster János, _herceg_  
+    Westmoreland gróf  
+    Sir Walter Blunt  
+    Percy Tamás, _worcesteri gróf_  
+    Percy Henrik, _northumberlandi gróf_  
+    Percy Henrik, _más nevén Hővér, fia_  
+    Mortimer Edmund, _markgróf_  
+    Scroop, _yorki érsek_  
+    Archibald, _douglasi gróf_  
+    Owen Glendower  
+    Sir Richard Vernon  
+    Sir John Falstaff  
+    Sir Michael, _a yorki érsek barátja_  
+    Poins  
+    Gadshill  
+    Peto  
+    Bardolph  
+    Lady Mortimer, _Glendower leánya_  
+    Lady Percy, _Hővér neje_  
+    Fürge, _kocsmárosné az eastcheapi kocsmában_
+    
+>   _Lordok, tisztek, bíró, pincér, szolgák, fuvarosok, utasok és kiséret._

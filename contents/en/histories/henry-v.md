@@ -37,80 +37,49 @@ Henry returns to London in triumph before making peace with the French king.
 Henry woos the French Princess Katherine and their marriage links England and
 France.
 
-#### Dramatis personae
-
-KING HENRY, the Fifth.
-
-DUKE OF GLOUCESTER
-
-DUKE OF BEDFORD, brothers to the King.
-
-DUKE OF EXETER, uncle to the King.
-
-DUKE OF YORK, cousin to the King.
-
-EARL OF SALISBURY
-
-EARL OF WESTMORELAND
-
-EARL OF WARWICK
-
-BISHOP OF CANTERBURY
-
-BISHOP OF ELY
-
-EARL OF CAMBRIDGE
-
-LORD SCROOP
-
-SIR THOMAS GREY
-
-SIR THOMAS ERPINGHAM
-
-GOWER,  
-FLUELLEN,  
-MACMORRIS,  
-JAMY, officers in King Henry’s army.
-
-BATES,  
-COURT,  
-WILLIAMS, soldiers in the same.
-
-PISTOL
-
-NYM
-
-BARDOLPH
-
-Boy
-
-A herald.
-
-CHARLES the Sixth, King of France.
-
-LEWIS, the Dauphin.
-
-DUKE OF BURGUNDY  
-DUKE OF ORLEANS  
-DUKE OF BOURBON  
-
-The Constable of France.
-
-RAMBURES, 
-GRANDPRE, French Lords.
-
-GOVERNOR, of Harfleur.
-
-MONTJOY, a French herald.
-
-Ambassadors to the King of England.
-
-ISABEL, Queen of France.
-
-KATHARINE, daughter to Charles and Isabel.
-
-ALICE, a lady attending on her.
-
-Hostess of a tavern in Eastcheap formerly Mistress Quickly, and now married to Pistol.
-
-Lords, Ladies, officers, soldiers, citizens, messengers, and attendants. Chorus.
+>   #### Characters
+    
+>   King Henry, the Fifth  
+    Duke of Gloucester,  
+    Duke of Bedford, _brothers to the king_  
+    Duke of Exeter, _uncle to the king_  
+    Duke of York, _cousin to the king_  
+    Earl of Salisbury  
+    Earl of Westmoreland  
+    Earl of Warwick  
+    Bishop of Canterbury  
+    Bishop of Ely  
+    Earl of Cambridge  
+    Lord Scroop  
+    Sir Thomas Grey  
+    Sir Thomas Erpingham  
+    Gower,  
+    Fluellen,  
+    Macmorris,  
+    Jamy, _officers in King Henry’s army_  
+    Bates,  
+    Court,  
+    Williams, _soldiers in the same_  
+    Pistol  
+    Nym  
+    Bardolph  
+    Boy  
+    A herald  
+    Charles the Sixth, _king of France_  
+    Lewis, _the Dauphin_  
+    Duke of Burgundy  
+    Duke of Orleans  
+    Duke of Bourbon    
+    The Constable of France  
+    Rambures, 
+    Grandpre, _French lords_  
+    Governor of Harfleur  
+    Montjoy, _a French herald_  
+    Ambassadors to the king of England  
+    Isabel, _queen of France_  
+    Katharine, _daughter to Charles and Isabel_  
+    Alice, _a lady attending on her_
+    
+>   _Hostess of a tavern in Eastcheap formerly Mistress Quickly, and now married to Pistol._
+    
+>   _Lords, Ladies, officers, soldiers, citizens, messengers, and attendants. Chorus._

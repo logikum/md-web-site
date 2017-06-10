@@ -20,82 +20,46 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-VIII. Henrik király.
-
-Wolsey bibornok, yorki érsek.
-
-Campejus bibornok, pápai követ.
-
-Capucius, V. Károly császár követe.
-
-Cranmer, canterbury-i érsek.
-
-Norfolk herceg.
-
-Suffolk herceg.
-
-Buckingham herceg.
-
-Surrey gróf.
-
-Lord kamarás.
-
-Lord kancellár.
-
-Gardiner, kancellár, winchesteri püspök.
-
-A lincolni püspök.
-
-Lord Abergavenny.
-
-Lord Sands.
-
-Sir Henrik Guilford.
-
-Sir Thomas Lovell.
-
-Sir Antony Denny.
-
-Sir Nicolas Vaux.
-
-Sir William Sands.
-
-Cromwell, Wolsey titkára.
-
-Több Titkár, Wolsey mellett.
-
-Griffith, Katalin királyné udvarmestere.
-
-Három Nemes.
-
-Hirnökök.
-
-Doctor Butts, a király orvosa.
-
-Buckingham herceg sáfára.
-
-Brandon, őrtiszt.
-
-Fegyveres őr.
-
-Ajtónálló a tanács-teremnél.
-
-Kapus és Legénye.
-
-Gardiner apródja.
-
-Kikiáltó.
-
-Katalin királyné, Henrik király neje.
-
-Bullen Anna, udvarhölgye.
-
-Egy agg hölgy, Bullen Anna barátnéja.
-
-Patience, a királyné szolgáló hölgye.
-
-Különböző Lordok és Hölgyek, mint néma személyek.  
-A királyné kisérete. szellemek, álomlátásban.  
-Írnokok, tisztek, őrök s más kiséret.
+>   #### Szereplők
+    
+>   VIII. Henrik király  
+    Wolsey bibornok, _yorki érsek_  
+    Campejus bibornok, _pápai követ_  
+    Capucius, _V. Károly császár követe_  
+    Cranmer, _canterbury-i érsek_  
+    Norfolk herceg  
+    Suffolk herceg  
+    Buckingham herceg  
+    Surrey gróf  
+    Lord kamarás  
+    Lord kancellár  
+    Gardiner, _kancellár, winchesteri püspök_  
+    A lincolni püspök  
+    Lord Abergavenny  
+    Lord Sands  
+    Sir Henrik Guilford  
+    Sir Thomas Lovell  
+    Sir Antony Denny  
+    Sir Nicolas Vaux  
+    Sir William Sands  
+    Cromwell, _Wolsey titkára_  
+    Több Titkár, Wolsey mellett  
+    Griffith, _Katalin királyné udvarmestere_  
+    Három nemes  
+    Hirnökök  
+    Doctor Butts, _a király orvosa_  
+    Buckingham herceg sáfára  
+    Brandon, _őrtiszt_  
+    Fegyveres őr  
+    Ajtónálló a tanács-teremnél  
+    Kapus és legénye  
+    Gardiner apródja  
+    Kikiáltó  
+    Katalin királyné, _Henrik király neje_  
+    Bullen Anna, _udvarhölgye_  
+    Egy agg hölgy, _Bullen Anna barátnéja_  
+    Patience, _a királyné szolgáló hölgye_
+    
+>   _Különböző lordok és hölgyek, mint néma személyek.    
+    A királyné kisérete. szellemek, álomlátásban.  
+    Írnokok, tisztek, őrök s más kiséret._
