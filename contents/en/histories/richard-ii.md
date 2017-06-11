@@ -76,11 +76,11 @@ his cousin’s death by going one day on a pilgrimage to Jerusalem.
     Abbot of Westminster  
     Lord Marshal  
     Sir Stephen Scroop  
-    SIR Pierce of Exton, _captain of a band of Welshmen_  
+    Sir Pierce of Exton, _captain of a band of Welshmen_  
     Queen to King Richard  
     Duchess of York  
     Duchess of Gloucester  
-    Lady attending on the Queen
+    _Lady attending on the Queen_
     
 >   _Lords, heralds, officers, soldiers, two gardeners, keeper,
     messenger, groom, and other attendants._

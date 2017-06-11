@@ -43,21 +43,21 @@ Leírás...
     Sir Nicolas Vaux  
     Sir William Sands  
     Cromwell, _Wolsey titkára_  
-    Több Titkár, Wolsey mellett  
+    _Több Titkár, Wolsey mellett_  
     Griffith, _Katalin királyné udvarmestere_  
-    Három nemes  
-    Hirnökök  
+    _Három nemes_  
+    _Hirnökök_  
     Doctor Butts, _a király orvosa_  
-    Buckingham herceg sáfára  
+    _Buckingham herceg sáfára_  
     Brandon, _őrtiszt_  
-    Fegyveres őr  
-    Ajtónálló a tanács-teremnél  
-    Kapus és legénye  
-    Gardiner apródja  
-    Kikiáltó  
+    _Fegyveres őr_  
+    _Ajtónálló a tanács-teremnél_  
+    _Kapus és legénye_  
+    _Gardiner apródja_  
+    _Kikiáltó_  
     Katalin királyné, _Henrik király neje_  
     Bullen Anna, _udvarhölgye_  
-    Egy agg hölgy, _Bullen Anna barátnéja_  
+    _Egy agg hölgy, Bullen Anna barátnéja_  
     Patience, _a királyné szolgáló hölgye_
     
 >   _Különböző lordok és hölgyek, mint néma személyek.    

@@ -20,74 +20,44 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-VI. Henrik király.
-
-Gloster herceg, a király nagybátyja, protector.
-
-Bedford herceg, a király nagybátyja, Franciaország helytartója.
-
-Exeter herceg.
-
-Beaufort Henrik, winchesteri püspök.
-
-Beaufort János, Somerset gróf.
-
-Plantagenet Rikhárd, York herceg.
-
-Warwick,  
-Salisbury és  
-Suffolk grófok.
-
-Talbot, később Shrewsbury gróf.
-
-Talbot János, fia.
-
-Mortimer Edmund, March gróf.
-
-Mortimer börtönőre; törvénytudó.
-
-Sir John Fastolfe,
-
-Sir William Lucy.
-
-Sir William Glansdale.
-
-Sir Thomas Gergrave.
-
-Woodville, a Tower parancsnoka, London városnagya.
-
-Vernon, a fehér rózsa- vagyis York-párton.
-
-Basset, a piros rózsa- vagyis Lancaster-párton.
-
-Károly, dauphin, később Francziaország királya.
-
-Reignier, Anjou hercege és Nápoly királya.
-
-Burgund és  
-Alençon hercegek.
-
-Az orléansi fattyú.
-
-Párizs parancsnoka.
-
-Az orléansi főpattantyús és fia.
-
-A bordeauxi francia hadak vezére.
-
-Francia sergeant.
-
-Kapus.
-
-Egy öreg juhász, a Pucelle atyja.
-
-Margit, Reignier leánya.
-
-Auvergne grófnő.
-
-Jeanne d’Arc, Pucelle néven.
-
-Rosz szellemek, kik a Pucellenek megjelennek, lordok, a Tower őrei,
-heroldok, tisztek, katonák, hirnökök, kiséret francia és angol részen.
+>   #### Szereplők
+    
+>   VI. Henrik király  
+    Gloster herceg, _a király nagybátyja, protector_  
+    Bedford herceg, _a király nagybátyja, Franciaország helytartója_  
+    Exeter herceg  
+    Beaufort Henrik, _winchesteri püspök_  
+    Beaufort János, _Somerset gróf_  
+    Plantagenet Rikhárd, _York herceg_  
+    Warwick,  
+    Salisbury _és_  
+    Suffolk _grófok_  
+    Talbot, _később Shrewsbury gróf_  
+    Talbot János, _fia_  
+    Mortimer Edmund, _March gróf_  
+    Mortimer börtönőre  
+    Törvénytudó  
+    Sir John Fastolfe  
+    Sir William Lucy  
+    Sir William Glansdale  
+    Sir Thomas Gergrave  
+    Woodville, _a Tower parancsnoka, London városnagya_  
+    Vernon, _a fehér rózsa - vagyis York-párton_  
+    Basset, _a piros rózsa - vagyis Lancaster-párton_  
+    Károly, _dauphin, később Francziaország királya_  
+    Reignier, _Anjou hercege és Nápoly királya_  
+    Burgund _és_  
+    Alençon _hercegek_  
+    Az orléansi fattyú  
+    Párizs parancsnoka  
+    Az orléansi főpattantyús és fia  
+    A bordeauxi francia hadak vezére  
+    Francia sergeant  
+    Kapus  
+    Egy öreg juhász, _a Pucelle atyja_  
+    Margit, _Reignier leánya_  
+    Auvergne grófnő  
+    Jeanne d’Arc, _Pucelle néven_
+    
+>   _Rosz szellemek, kik a Pucellenek megjelennek, lordok, a Tower őrei,
+    heroldok, tisztek, katonák, hirnökök, kiséret francia és angol részen._

@@ -36,80 +36,45 @@ Duke of Gloucester continues to grow.
 
 <!--This play ends without a resolution, and is-->
 
-#### Dramatis personae
-
-KING HENRY THE SIXTH
-
-DUKE OF GLOUCESTER, uncle to the King, and Protector.
-
-DUKE OF BEDFORD, uncle to the King, and Regent of France.
-
-THOMAS BEAUFORT, Duke of Exeter, great-uncle to the King.
-
-HENRY BEAUFORT, great-uncle to the King, Bishop of Winchester, and afterwards Cardinal.
-
-JOHN BEAUFORT, Earl, afterwards Duke, of Somerset.
-
-RICHARD PLANTAGENET, son of Richard late Earl of Cambridge, afterwards Duke of York.
-
-EARL OF WARWICK
-
-EARL OF SALISBURY
-
-EARL OF SUFFOLK
-
-LORD TALBOT, afterwards Earl of Shrewsbury.
-
-JOHN TALBOT, Lord Talbot’s son.
-
-EDMUND MORTIMER, Earl of March.
-
-SIR JOHN FASTOLFE
-
-SIR WILLIAM LUCY
-
-SIR WILLIAM GLANSDALE
-
-SIR THOMAS GARGRAVE
-
-Mayor of London WOODVILE, lieutenant of the Tower.
-
-VERNON, of the White-Rose or York faction.
-
-BASSET, of the Red-Rose or Lancaster faction.
-
-A lawyer.
-
-Mortimer’s keepers.
-
-CHARLES, Dauphin, and afterwards King of France.
-
-REIGNIER, Duke of Anjou, and titular King of Naples.
-
-DUKE OF BURGUNDY
-
-DUKE OF ALENCON
-
-BASTARD OF ORLEANS
-
-Governor of Paris.
-
-Master-Gunner of Orleans, and his son.
-
-General of the French forces in Bourdeaux.
-
-A French sergeant.
-
-A porter.
-
-An old shepherd, father to Joan la Pucelle.
-
-MARGARET, daughter to Reignier, afterwards married to King Henry.
-
-COUNTESS OF AUVERGNE
-
-JOAN LA PUCELLE, commonly called Joan of Arc.
-
-Lords, warders of the Tower, heralds, officers, soldiers, messengers, and attendants.
-
-Fiends appearing to La Pucelle.
+>   #### Characters
+    
+>   King Henry, the Sixth  
+    Duke of Gloucester, _uncle to the king, and Protector_  
+    Duke of Bedford, _uncle to the king, and Regent of France_  
+    Thomas Beaufort, _Duke of Exeter, great-uncle to the king_  
+    Henry Beaufort, _great-uncle to the king, bishop of Winchester, and afterwards cardinal_  
+    John Beaufort, _Earl, afterwards Duke, of Somerset_  
+    Richard Plantagenet, _son of Richard late Earl of Cambridge, afterwards Duke of York_  
+    Earl of Warwick  
+    Earl of Salisbury  
+    Earl of Suffolk  
+    Lord Talbot, _afterwards Earl of Shrewsbury_  
+    John Talbot, _Lord Talbot’s son_  
+    Edmund Mortimer, _Earl of March_  
+    Sir John Fastolfe  
+    Sir William Lucy
+    Sir William Glansdale  
+    Sir Thomas Gargrave  
+    _Mayor of London_ Woodvile, _lieutenant of the Tower_  
+    Vernon, _of the White-Rose or York faction_  
+    Basset, _of the Red-Rose or Lancaster faction_  
+    A lawyer  
+    Mortimer’s keepers  
+    Charles, _Dauphin, and afterwards King of France_  
+    Reignier, _Duke of Anjou, and titular King of Naples_  
+    Duke of Burgundy  
+    Duke of Alencon  
+    Bastard of Orleans  
+    Governor of Paris  
+    Master-Gunner of Orleans, and his son  
+    General of the French forces in Bourdeaux  
+    A French sergeant  
+    A porter  
+    An old shepherd, _father to Joan la Pucelle_  
+    Margaret, _daughter to Reignier, afterwards married to King Henry_  
+    Countess of Auvergne  
+    Joan la Pucelle, _commonly called Joan of Arc_  
+    
+>   _Lords, warders of the Tower, heralds, officers, soldiers, messengers, and attendants._
+    
+>   _Fiends appearing to La Pucelle._

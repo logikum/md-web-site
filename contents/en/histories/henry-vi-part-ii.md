@@ -50,87 +50,52 @@ Duke of Somerset is killed by the future Richard III. Young Lord Clifford, whose
 father has been killed by the Duke of York, vows revenge on the Yorkists, and
 allies himself with King Henry’s other supporters.
 
-#### Dramatis personae
-
-KING HENRY the Sixth
-
-HUMPHREY, Duke of Gloucester, his uncle.
-
-CARDINAL BEAUFORT, Bishop of Winchester, great-uncle to the King.
-
-RICHARD PLANTAGENET, Duke of York.
-
-EDWARD,  
-RICHARD, his sons
-
-DUKE OF SOMERSET
-
-DUKE OF SUFFOLK
-
-DUKE OF BUCKINGHAM
-
-LORD CLIFFORD
-
-YOUNG CLIFFORD, his son.
-
-EARL OF SALISBURY
-
-EARL OF WARWICK
-
-LORD SCALES
-
-LORD SAY
-
-SIR HUMPHREY STAFFORD
-
-WILLIAM STAFFORD, Sir Humphrey Stafford’s brother.
-
-SIR JOHN STANLEY
-
-VAUX
-
-MATTHEW GOFFE
-
-A sea-captain, master, and master’s-mate.
-
-WALTER WHITMORE
-
-Two gentlemen, prisoners with Suffolk.
-
-JOHN HUME,  
-JOHN SOUTHWELL, priests.
-
-BOLINGBROKE, a conjurer.
-
-THOMAS HORNER, an armourer.
-
-PETER, Thomas Horner’s man.
-
-Clerk of Chatham.
-
-Mayor of Saint Alban’s.
-
-SIMPCOX, an impostor.
-
-ALEXANDER IDEN, a Kentish gentleman.
-
-JACK CADE, a rebel.
-
-GEORGE BEVIS,  
-JOHN HOLLAND,  
-DICK the butcher,  
-SMITH the weaver,  
-MICHAEL, followers of Cade.
-
-Two murderers
-
-QUEEN MARGARET, Queen to King Henry.
-
-ELEANOR, Duchess of Gloucester.
-
-MARGARET JOURDAIN, a witch. Wife to Simpcox
-
-Lords, Ladies, and attendants. Petitioners, aldermen, a herald, a beadle, sheriff,
-and officers, citizens, ’prentices, falconers, guards, soldiers, messengers, &c.
-
-A spirit.
+>   #### Characters
+    
+>   King Henry, the Sixth  
+    Humphrey, _Duke of Gloucester, his uncle_  
+    Cardinal Beaufort, _bishop of Winchester, great-uncle to the king_  
+    Richard Plantagenet, _Duke of York_  
+    Edward,  
+    Richard, _his sons_  
+    Duke of Somerset  
+    Duke of Suffolk  
+    Duke of Buckingham  
+    Lord Clifford  
+    Young Clifford, _his son  
+    Earl of Salisbury  
+    Earl of Warwick  
+    Lord Scales  
+    Lord Say  
+    Sir Humphrey Stafford  
+    William Stafford, _Sir Humphrey Stafford’s brother_  
+    Sir John Stanley  
+    Vaux  
+    Matthew Goffe  
+    _A sea-captain, master, and master’s-mate_  
+    Walter Whitmore  
+    _Two gentlemen, prisoners with Suffolk_  
+    John Hume,  
+    John Southwell, _priests_  
+    Bolingbroke, _a conjurer_  
+    Thomas Horner, _an armourer_  
+    Peter, _Thomas Horner’s man_  
+    _Clerk of Chatham_  
+    _Mayor of Saint Alban’s_  
+    Simpcox, _an impostor_  
+    Alexander Iden, _a Kentish gentleman_  
+    Jack Cade, _a rebel_
+    George Bevis,  
+    John Holland,  
+    Dick _the butcher_,  
+    Smith _the weaver_,  
+    Michael, _followers of Cade_  
+    _Two murderers_  
+    Queen Margaret, _queen to King Henry_  
+    Eleanor, _Duchess of Gloucester_  
+    Margaret Jourdain, _a witch, wife to Simpcox_ 
+    
+>   _Lords, Ladies, and attendants. Petitioners, aldermen, a herald, a beadle, sheriff,
+    and officers, citizens, ’prentices, falconers, guards, soldiers, messengers, &c._
+    
+>   _A spirit._

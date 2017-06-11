@@ -50,15 +50,15 @@ Leírás...
     Sir Walter Herbert  
     Sir Robert Brakenbury, _a Tower hadnagya_  
     Urswick Kristóf  
-    Pap  
-    Egy másik pap  
-    A londoni Lord Mayor  
-    Wiltshirei sheriff  
+    _Pap_  
+    _Egy másik pap_  
+    _A londoni Lord Mayor_  
+    _Wiltshirei sheriff_  
     Erzsébet királyné, _IV. Edvárd neje_  
     Margit, _VI. Henrik özvegye_  
     York hercegné, _IV. Edvárd, Clarence és Gloster anyja_  
     Lady Anna, _Edvárd walesi herceg özvegye_  
-    Clarence leánykája
+    _Clarence leánykája_
     
 >   _Lordok és más kísérők; két nemes; hírnökszolga, írnok,
     polgárok, gyilkosok, követek, szellemek, katonák, stb._

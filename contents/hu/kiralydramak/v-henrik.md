@@ -46,9 +46,9 @@ Leírás...
     Pistol  
     Nym  
     Bardolph  
-    Fiú, _szolgájok_  
-    Hírnök  
-    Kar  
+    _Fiú, szolgájok_  
+    _Hírnök_  
+    _Kar_  
     VI. Károly, _francia király_  
     Lajos, _koronaherceg_  
     Burgund,  
@@ -58,8 +58,8 @@ Leírás...
     Rambures _és_  
     Grandpré, _francia főurak_  
     Montjoy, _francia hírnök_  
-    Harfleur parancsnoka  
-    Angliába küldött követek  
+    _Harfleur parancsnoka_  
+    _Angliába küldött követek_  
     Izabella, _francia királyné_  
     Katalin, _Károly és Izabella leánya_  
     Alice, _a hercegnő udvarhölgye_  

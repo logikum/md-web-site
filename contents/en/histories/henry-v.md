@@ -63,9 +63,9 @@ France.
     Pistol  
     Nym  
     Bardolph  
-    Boy  
-    A herald  
-    Charles the Sixth, _king of France_  
+    _Boy_  
+    _A herald_  
+    Charles, the Sixth, _king of France_  
     Lewis, _the Dauphin_  
     Duke of Burgundy  
     Duke of Orleans  
@@ -73,9 +73,9 @@ France.
     The Constable of France  
     Rambures, 
     Grandpre, _French lords_  
-    Governor of Harfleur  
+    _Governor of Harfleur_  
     Montjoy, _a French herald_  
-    Ambassadors to the king of England  
+    _Ambassadors to the king of England_  
     Isabel, _queen of France_  
     Katharine, _daughter to Charles and Isabel_  
     Alice, _a lady attending on her_

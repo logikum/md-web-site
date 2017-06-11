@@ -69,19 +69,19 @@ a noble rule for Elizabeth and a glorious period of history during her reign.
     Secretaries to Wolsey  
     Cromwell, _servant to Wolsey_  
     Griffith, _gentleman-usher to Queen Katharine_  
-    Three gentlemen  
+    _Three gentlemen_  
     Doctor Butts, _physician to the King_  
-    Garter king-at-arms  
-    Surveyor to the Duke of Buckingham  
+    _Garter king-at-arms_  
+    _Surveyor to the Duke of Buckingham_  
     Brandon  
-    A sergeant-at-arms  
-    Door-keeper of the Council-chamber  
-    Porter, and his man  
-    Page to Gardiner  
-    A crier  
+    _A sergeant-at-arms_  
+    _Door-keeper of the Council-chamber_  
+    _Porter, and his man_  
+    _Page to Gardiner_  
+    _A crier_  
     Queen Katharine, _Wife to King Henry, afterwards divorced_  
     Anne Bullen, _her maid of Honour, afterwards queen_  
-    An old lady, _friend to Anne Bullen_  
+    _An old lady, friend to Anne Bullen_  
     Patience, _woman to Queen Katharine_  
     
 >   _Several lords and ladies in the dumb shows;  

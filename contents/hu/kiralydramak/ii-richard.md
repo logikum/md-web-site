@@ -47,7 +47,7 @@ searchable:     true
     Királyné, _Richard király neje_  
     Özv. Gloster hercegné  
     York hercegné  
-    Hölgyek, _a királyné kiséretében_
+    _Hölgyek, a királyné kiséretében_
     
 >   _Lordok, hírnökök, tisztek, katonák, kertészek, börtönőr,
     lovászlegény s más kíséret_. 

@@ -50,78 +50,45 @@ Henry prophesies Richard’s career of villainy and his future notoriety. Howeve
 King Edward’s wife has just given birth to a son, the future King, Edward V of
 England, and the play ends here.
 
-#### Dramatis personae
-
-KING HENRY, the Sixth.
-
-EDWARD, PRINCE OF WALES, his son.
-
-KING LEWIS XI, King of France.
-
-DUKE OF SOMERSET
-
-DUKE OF EXETER
-
-EARL OF OXFORD
-
-EARL OF NORTHUMBERLAND
-
-EARL OF WESTMORELAND
-
-LORD CLIFFORD
-
-RICHARD PLANTAGENET, Duke of York.
-
-EDWARD Earl of March, afterwards King Edward IV,  
-EDMUND, Earl of Rutland,  
-GEORGE, afterwards Duke of Clarence,  
-RICHARD, afterwards Duke of Gloucester, his sons.
-
-DUKE OF NORFOLK
-
-MARQUESS OF MONTAGUE
-
-EARL OF WARWICK
-
-EARL OF PEMBROKE
-
-LORD HASTINGS
-
-LORD STAFFORD
-
-SIR JOHN MORTIMER,  
-SIR HUGH MORTIMER, uncles to the Duke of York.
-
-HENRY, Earl of Richmond, a youth
-
-LORD RIVERS, brother to Lady Grey.
-
-SIR WILLIAM STANLEY
-
-SIR JOHN MONTGOMERY
-
-SIR JOHN SOMERVILLE
-
-Tutor to Rutland.
-
-Mayor of York.
-
-Lieutenant of the Tower.
-
-A nobleman.
-
-Two keepers.
-
-A huntsman.
-
-A son that has killed his father.
-
-A father that has killed his son.
-
-QUEEN MARGARET
-
-LADY GREY, afterwards Queen to Edward IV.
-
-BONA, sister to the French Queen.
-
-Soldiers, attendants, messengers, watchmen, &c.
+>    #### Characters
+    
+>   King Henry, the Sixth  
+    Edward, _Prince of Wales, his son_  
+    King Lewis XI, _King of France_  
+    Duke of Somerset  
+    Duke of Exeter  
+    Earl of Oxford  
+    Earl of Northumberland  
+    Earl of Westmoreland  
+    Lord Clifford  
+    Richard Plantagenet, _Duke of York_  
+    Edward, _Earl of March, afterwards King Edward IV,_  
+    Edmund, _Earl of Rutland,_  
+    George, _afterwards Duke of Clarence,_  
+    Richard, _afterwards Duke of Gloucester, his sons_  
+    Duke of Norfolk  
+    Marquess of Montague  
+    Earl of Warwick  
+    Earl of Pembroke  
+    Lord Hastings  
+    Lord Stafford  
+    Sir John Mortimer,  
+    Sir Hugh Mortimer, _uncles to the Duke of York_  
+    Henry, _Earl of Richmond, a youth_  
+    Lord Rivers, _brother to Lady Grey_  
+    Sir William Stanley  
+    Sir John Montgomery  
+    Sir John Somerville  
+    _Tutor to Rutland_  
+    _Mayor of York_  
+    _Lieutenant of the Tower_  
+    _A nobleman_  
+    _Two keepers_  
+    _A huntsman_  
+    _A son that has killed his father_  
+    _A father that has killed his son_  
+    Queen Margaret  
+    Lady Grey, _afterwards queen to Edward IV._  
+    Bona, _sister to the French queen_ 
+    
+>   _Soldiers, attendants, messengers, watchmen, &c._

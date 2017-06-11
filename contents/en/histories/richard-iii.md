@@ -72,18 +72,18 @@ marry Elizabeth of York and end the Wars of the Roses.
     Sir Walter Herbert  
     Sir Robert Brakenbury, _lieutenant of the Tower_  
     Christopher Urswick  
-    A priest  
-    Another priest  
+    _A priest_  
+    _Another priest_  
     Tressel,  
     Berkeley, _gentlemen attending on the Lady Anne_  
-    Lord Mayor of London  
-    Sheriff of Wiltshire  
+    _Lord Mayor of London_  
+    _Sheriff of Wiltshire_  
     Elizabeth, _queen to King Edward IV._  
     Margaret, _widow of King Henry VI._  
     Duchess of York, _mother to King Edward IV._  
     Lady Anne, _widow of Edward Prince of Wales, son to King Henry VI.; afterwards married to Richard_  
-    A young daughter of Clarence _(Margaret Plantagenet)_  
-    Ghosts of those murdered by Richard III.
+    _A young daughter of Clarence (Margaret Plantagenet)_  
+    _Ghosts of those murdered by Richard III._
     
 >   _Lords and other attendants; a pursuivant scrivener, citizens, murderers,
     messengers, soldiers, &c._
