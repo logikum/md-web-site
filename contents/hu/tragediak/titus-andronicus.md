@@ -20,50 +20,32 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-SATURNINUS, az előző római császár fia, később kikiáltott császár
-
-BASSIANUS, SATURNINUS testvére, szerelmes Laviniába
-
-TITUS ANDRONICUS, római nemes, hadvezér a gótok ellen
-
-MARCUS ANDRONICUS, néptribun, Titus testvére
-
-LUCIUS,  
-MUTIUS,  
-MARTIUS, Titus fiai
-
-ifjú LUCIUS, Lucius fia
-
-PUBLIUS, Marcus Andronicus fia
-
-SEMPRONIUS,  
-CAIUS,  
-VALENTINUS, Titus rokonai
-
-AEMILIUS, római nemes
-
-ALARBUS,  
-DEMETRIUS,  
-CHIRON, Tamora fiai
-
-AARON mór, Tamora szerelmese
-
-Egy kapitány
-
-Tribunus
-
-Hírnök
-
-Bohóc
-
-TAMORA, a gótok királynője
-
-LAVINIA, Titus Andronicus leánya
-
-Egy Dajka
-
-Egy mór gyermek
-
-Szenátorok, tribunusok, poroszlók, katonák és kíséret.
+>   #### Szereplők
+    
+>   Saturninus, _az előző római császár fia, később kikiáltott császár_  
+    Bassianus, _Saturninus testvére, szerelmes Laviniába_  
+    Titus Andronicus, _római nemes, hadvezér a gótok ellen_  
+    Marcus Andronicus, _néptribun, Titus testvére_  
+    Lucius,  
+    Mutius,  
+    Martius, _Titus fiai_  
+    Ifjú Lucius, _Lucius fia_  
+    Publius, _Marcus Andronicus fia_  
+    Sempronius,  
+    Caius,  
+    Valentinus, _Titus rokonai_  
+    Aemilius, _római nemes_  
+    Alarbus,  
+    Demetrius,  
+    Chiron, _Tamora fiai_  
+    Aaron mór, _Tamora szerelmese_  
+    _Egy kapitány_  
+    _Tribunus_  
+    _Hírnök_  
+    _Bohóc_  
+    Tamora, _a gótok királynője_  
+    Lavinia, _Titus Andronicus leánya_  
+    _Egy dajka_  
+    _Egy mór gyermek_
+    
+>   _Szenátorok, tribunusok, poroszlók, katonák és kíséret._

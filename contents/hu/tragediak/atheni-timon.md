@@ -20,52 +20,36 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-Timon, athéni nemes.
-
-Lucius,  
-Lucullus,  
-Sempronius, hízelgő urak.
-
-Ventidius, Timon egyik álbarátja.
-
-Apemantus, durva bölcsész.
-
-Alcibiades, athéni hadvezér.
-
-Flavius, Timon kulcsárja.
-
-Flaminius,  
-Lucilius,  
-Servilius, Timon inasai.
-
-Caphis,  
-Philotus,  
-Titus,  
-Lucius,  
-Hortensius, Timon hitelezőinek inasai.
-
-Timon két hitelezője, Varro és Izidor inasai.
-
-Cupido és
-
-Álczások.
-
-Három idegen.
-
-Költő,  
-Festész,  
-Ékszerész és  
-Kalmár.
-
-Athéni öreg.
-
-Apród.
-
-Bolond.
-
-Phrynia,  
-Timandra, Alcibiades szeretői.
-
-Urak, tanácsosok, tisztek, katonák, tolvajok és kisérők.
+>   #### Szereplők
+    
+>   Timon, _athéni nemes_  
+    Lucius,  
+    Lucullus,  
+    Sempronius, _hízelgő urak_  
+    Ventidius, _Timon egyik álbarátja_  
+    Apemantus, _durva bölcsész_  
+    Alcibiades, _athéni hadvezér_  
+    Flavius, _Timon kulcsárja_  
+    Flaminius,  
+    Lucilius,  
+    Servilius, _Timon inasai_  
+    Caphis,  
+    Philotus,  
+    Titus,  
+    Lucius,  
+    Hortensius, _Timon hitelezőinek inasai_  
+    _Timon két hitelezője, Varro és Izidor inasai_  
+    Cupido _és_  
+    _Álcások_
+    _Három idegen_  
+    _Költő,  
+    Festész,  
+    Ékszerész és  
+    Kalmár_  
+    _Athéni öreg_  
+    _Apród_  
+    _Bolond_  
+    Phrynia,  
+    Timandra, _Alcibiades szeretői_
+    
+>   _Urak, tanácsosok, tisztek, katonák, tolvajok és kisérők._
