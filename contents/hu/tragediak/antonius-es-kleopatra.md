@@ -48,55 +48,41 @@ Kleopátra élete rettenetes. Miután elvesztette Antonyt, és Caesar irgalmass�
 kígyót, és arra buzdítja őket, hogy harapják. Caesar közvetlenül a halála után
 érkezik, és megparancsolja, hogy a dömpingeket együtt temessék el.
 
-#### Személyek
-
-Marcus Antonius,  
-Octavius Caesar,  
-M. Aemil Lepidus, triumvirek.
-
-Sextus Pompeius.
-
-Domitius Enobarbus,  
-Ventidius,  
-Eros,  
-Scarus,  
-Dercetas,  
-Demetrius,  
-Philo, Antonius barátai.
-
-Mecaenas,  
-Agrippa,  
-Dolabella,  
-Proculeius,  
-Thyreus,  
-Gallus,  
-Menas, Caesar barátai.
-
-Varrius,  
-Menecratesv, Pompeius barátai.
-
-Taurus, Caesar alvezére.
-
-Canidius, Antonius alvezére.
-
-Silius, tiszt Ventidius alatt.
-
-Euphronius, Antonius követe Caesarhoz.
-
-Alexas,
-Mardin,
-Seleucus,
-Diomedes, Cleopatra szolgái.
-
-Jós.
-
-Paraszt.
-
-Cleopatra, Egyptom királynéja.
-
-Octavia, Caesar nővére, Antonius neje.
-
-Charmian,
-Iras, Cleopatra szolgáló asszonyai.
-
-Tisztek, katonák, követek s más szolgák.
+>   #### Szereplők
+    
+>   Marcus Antonius,  
+    Octavius Caesar,  
+    M. Aemil Lepidus, _triumvirek_  
+    Sextus Pompeius  
+    Domitius Enobarbus,  
+    Ventidius,  
+    Eros,  
+    Scarus,  
+    Dercetas,  
+    Demetrius,  
+    Philo, _Antonius barátai_  
+    Mecaenas,  
+    Agrippa,  
+    Dolabella,  
+    Proculeius,  
+    Thyreus,  
+    Gallus,  
+    Menas, _Caesar barátai_  
+    Varrius,  
+    Menecrates, _Pompeius barátai_  
+    Taurus, _Caesar alvezére_  
+    Canidius, _Antonius alvezére_  
+    Silius, _tiszt Ventidius alatt_  
+    Euphronius, _Antonius követe Caesarhoz_  
+    Alexas,  
+    Mardin,  
+    Seleucus,  
+    Diomedes, _Cleopatra szolgái_  
+    _Jós_  
+    _Paraszt_  
+    Cleopatra, _Egyptom királynéja_  
+    Octavia, _Caesar nővére, Antonius neje_  
+    Charmian,  
+    Iras, _Cleopatra szolgáló asszonyai_
+    
+>   _Tisztek, katonák, követek s más szolgák._

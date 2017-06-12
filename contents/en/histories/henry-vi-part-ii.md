@@ -27,9 +27,9 @@ into dabbling in necromancy, and then arrested, to the embarrassment of her
 husband, Gloucester. Nevertheless, the demon she has summoned delivers some
 accurate prophecies concerning the fates of several characters in the play.
 Gloucester is then accused of treason and imprisoned, and afterwards assassinated
-by agentsof Suffolk and the Queen.
+by agents of Suffolk and the Queen.
 
-Meanwhile, Richard, Duke of York, who has a tenuousclaim to the throne, schemes
+Meanwhile, Richard, Duke of York, who has a tenuous claim to the throne, schemes
 to make himself king.
 
 The Earl of Suffolk is banished for his role in Gloucester’s death and killed by

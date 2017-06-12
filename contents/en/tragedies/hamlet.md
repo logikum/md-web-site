@@ -65,53 +65,34 @@ are wounded, while Gertrude unwittingly drinks from the poisoned cup. Hamlet, in
 his death throes, kills Claudius, and Horatio is left to explain the truth to
 the new king, Fortinbras, who returns, victorious, from the Polish wars.
 
-#### Dramatis personae
+#### Characters
 
-CLAUDIUS, king of Denmark.
+Claudius, _king of Denmark_  
+Hamlet, _son to the late, and nephew to the present king_  
+Polonius, _lord chamberlain_  
+Horatio, _friend to Hamlet_  
+Laertes, _son to Polonius_  
+Lucianus, _nephew to the king_  
+Voltimand,  
+Cornelius,  
+Rosencrantz,  
+Guildenstern,  
+Osric, _courtiers_  
+_A gentleman_  
+_A priest_  
+Marcellus,  
+Bernardo, _officers_  
+Francisco, _a soldier_  
+Reynaldo, _servant to Polonius_  
+_Players_  
+_Two clowns_  
+_Grave-diggers_  
+Fortinbras, _prince of Norway_  
+_A captain_  
+_English ambassadors_  
+Gertrude, _queen of Denmark, and mother to Hamlet_  
+Ophelia, _daughter to Polonius_
 
-HAMLET, son to the late, and nephew to the present king.
+_Lords, ladies, officers, soldiers, sailors, messengers, and other attendants._
 
-POLONIUS, lord chamberlain.
-
-HORATIO, friend to Hamlet.
-
-LAERTES, son to Polonius.
-
-LUCIANUS, nephew to the king.
-
-VOLTIMAND  
-CORNELIUS  
-ROSENCRANTZ  
-GUILDENSTERN  
-OSRIC, courtiers.
-
-A gentleman,
-
-a priest.
-
-MARCELLUS  
-BERNARDO, officers.
-
-FRANCISCO, a soldier.
-
-REYNALDO, servant to Polonius.
-
-Players.
-
-Two clowns,
-
-grave-diggers.
-
-FORTINBRAS, prince of Norway.
-
-A captain.
-
-English ambassadors.
-
-GERTRUDE, queen of Denmark, and mother to Hamlet.
-
-OPHELIA, daughter to Polonius.
-
-Lords, ladies, officers, soldiers, sailors, messengers, and other attendants.
-
-Ghost of Hamlet’s Father.
+_Ghost of Hamlet’s Father._

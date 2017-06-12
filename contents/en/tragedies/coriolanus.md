@@ -46,39 +46,25 @@ agrees to make peace.
 
 Aufidius, filled with a sense of betrayal, kills Coriolanus.
 
-#### Dramatis personae
-
-CAIUS MARCIUS, afterwards CAIUS MARCIUS CORIOLANUS.
-
-TITUS LARTIUS,  
-COMINIUS, generals against the Volscians.
-
-MENENIUS AGRIPPA, friend to Coriolanus.
-
-SICINIUS VELUTUS,  
-JUNIUS BRUTUS, tribunes of the people.
-
-Young MARCUS, son to Coriolanus.
-
-A Roman Herald.
-
-TULLUS AUFIDIUS, general of the Volscians.
-
-Lieutenant to Aufidius.
-
-Conspirators with Aufidius.
-
-A citizen of Antium.
-
-Two Volscian guards.
-
-VOLUMNIA, mother to Coriolanus.
-
-VIRGILIA, wife to Coriolanus.
-
-VALERIA, friend to Virgilia.
-
-Gentlewoman, attending on Virgilia.
-
-Roman and Volscian senators, patricians, aediles, lictors, soldiers,
-citizens, messengers, servants to Aufidius, and other attendants.
+>   #### Characters
+    
+>   Caius Marcius, _afterwards_ Caius Marcius Coriolanus  
+    Titus Lartius,  
+    Cominius, _generals against the Volscians_  
+    Menenius Agrippa, _friend to Coriolanus_  
+    Sicinius Velutus,  
+    Junius Brutus, _tribunes of the people_  
+    Young Marcus, _son to Coriolanus_  
+    _A Roman Herald_  
+    Tullus Aufidius, _general of the Volscians_  
+    _Lieutenant to Aufidius_  
+    _Conspirators with Aufidius_  
+    _A citizen of Antium_  
+    _Two Volscian guards_  
+    Volumnia, _mother to Coriolanus_  
+    Virgilia, _wife to Coriolanus_  
+    Valeria, _friend to Virgilia_  
+    _Gentlewoman, attending on Virgilia_
+    
+>   _Roman and Volscian senators, patricians, aediles, lictors, soldiers,
+    citizens, messengers, servants to Aufidius, and other attendants._

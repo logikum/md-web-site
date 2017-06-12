@@ -20,52 +20,33 @@ searchable:     true
 
 Description...
 
-#### Személyek
-
-Escalus, fejedelem Veronában.
-
-Paris, fiatal nemes, a fejedelem rokona.
-
-Montague,  
-Capulet, két ellenséges ház feje.
-
-Öreg Capulet, Capulet nagybátyja.
-
-Romeo, Montague fia.
-
-Mercutio, a fejedelem rokona, Romeo barátja.
-
-Benvolio, Montague rokona, Romeo barátja.
-
-Tybalt, Capuletné unoka-öcscse.
-
-Lőrincz,  
-János, ferenczrendiek.
-
-Boldizsár, Romeo szolgája.
-
-Sámson,  
-Gergely,  
-Péter, szolgák a Capulet-háznál.
-
-Ábrahám, szolga Montague-éknál
-
-Gyógyszerész, Mantuában.
-
-Három zenész.
-
-Őrtiszt.
-
-Paris apródja.
-
-Kar. (Prológ.)
-
-Montaguené.
-
-Capuletné.
-
-Julia, leánya.
-
-Julia dajkája.
-
-Őrök, kiséret, polgárok, álarczosok stb.
+>   #### Szereplők
+    
+>   Escalus, _fejedelem Veronában_  
+    Paris, _fiatal nemes, a fejedelem rokona_  
+    Montague,  
+    Capulet, _két ellenséges ház feje_  
+    Öreg Capulet, _Capulet nagybátyja_  
+    Romeo, _Montague fia_  
+    Mercutio, _a fejedelem rokona, Romeo barátja_  
+    Benvolio, _Montague rokona, Romeo barátja_  
+    Tybalt, _Capuletné unoka-öcscse_  
+    Lőrinc,  
+    János, _ferencrendiek_  
+    Boldizsár, _Romeo szolgája_  
+    Sámson,  
+    Gergely,  
+    Péter, _szolgák a Capulet-háznál_  
+    Ábrahám, _szolga Montague-éknál_  
+    _Gyógyszerész, Mantuában_  
+    _Három zenész_  
+    _Őrtiszt_  
+    _Paris apródja_  
+    Montaguené  
+    Capuletné  
+    Julia, _leánya_  
+    _Julia dajkája_
+    
+>   _Őrök, kiséret, polgárok, álarczosok stb._
+    
+>   _Kar. (prológ)_

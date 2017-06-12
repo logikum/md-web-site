@@ -48,58 +48,41 @@ Caesar, she resolves to commit suicide. She has someone bring her some poisonous
 snakes and incites them to bite her. Caesar arrives just after her death and
 orders that the twolovers be buried together.
 
-#### Dramatis personae
-
-MARK ANTONY  
-M. AEMILIUS LEPIDUS  
-OCTAVIUS CAESAR, triumvirs.
-
-SEXTUS POMPEIUS
-
-DOMITIUS ENOBARBUS  
-VENTIDIUS  
-EROS  
-SCARUS, friends to Antony.
-
-DERCETAS  
-DEMETRIUS  
-PHILO  
-MECAENAS  
-AGRIPPA  
-DOLABELLA  
-PROCULEIUS, friends to Caesar.
-
-THYREUS  
-GALLUS  
-MENAS  
-MENECRATES, friends to Pompey.
-
-VARRIUS
-
-TAURUS, lieutenant-general to Caesar.
-
-CANIDIUS, lieutenant-general to Antony.
-
-SILIUS, an officer in Ventidius’s army.
-
-EUPHRONIUS, an ambassador from Antony to Caesar.
-
-ALEXAS
-
-MARDIAN, a Eunuch.
-
-SELEUCUS  
-DIOMEDES, attendants on Cleopatra.
-
-A soothsayer.
-
-A clown.
-
-CLEOPATRA, queen of Egypt.
-
-OCTAVIA, sister to Caesar and wife to Antony.
-
-CHARMIAN  
-IRAS, attendants on Cleopatra.
-
-Officers, soldiers, messengers, and other attendants.
+>   #### Characters
+    
+>   Mark Antony,  
+    M. Aemilius Lepidus,  
+    Octavius Caesar, _triumvirs_  
+    Sextus Pompeius  
+    Domitius Enobarbus,  
+    Ventidius,  
+    Eros,  
+    Scarus, _friends to Antony_  
+    Dercetas,  
+    Demetrius,  
+    Philo,  
+    Mecaenas,  
+    Agrippa,  
+    Dolabella,  
+    Proculeius, _friends to Caesar_  
+    Thyreus,  
+    Gallus,  
+    Menas,  
+    Menecrates, _friends to Pompey_  
+    Varrius
+    Taurus, _lieutenant-general to Caesar_  
+    Canidius, _lieutenant-general to Antony_  
+    Silius, _an officer in Ventidius’s army_  
+    Euphronius, _an ambassador from Antony to Caesar_  
+    Alexas  
+    Mardian, _a Eunuch_  
+    Seleucus,  
+    Diomedes, _attendants on Cleopatra_  
+    _A soothsayer_  
+    _A clown_  
+    Cleopatra, _queen of Egypt_  
+    Octavia, _sister to Caesar and wife to Antony_  
+    Charmian,  
+    Iras, _attendants on Cleopatra_
+    
+>   _Officers, soldiers, messengers, and other attendants._

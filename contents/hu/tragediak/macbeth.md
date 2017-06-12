@@ -20,54 +20,35 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-Duncan, skót király.
-
-Malcolm,  
-Donalbain, fiai.
-
-Macbeth,
-Banquo, hadvezérei.
-
-Macduff,  
-Lenox,  
-Rosse,  
-Menteth,  
-Angus,  
-Cathness, skót thánok.
-
-Fleance, Banquo fia.
-
-Siward, Northumberland grófja, az angol hadak vezére.
-
-Ifjú Siward, fia.
-
-Seyton, tiszt; Macbeth kiséretében.
-
-Macduff fiacskája.
-
-Egy skót és
-
-Egy angol orvos.
-
-Egy százados.
-
-Kapus.
-
-Öreg ember.
-
-Három gyilkos
-
-Lady Macbeth.
-
-Lady Macduff.
-
-Lady Macbeth komornája
-
-Hecate és
-
-három boszorkány.
-
-Lordok, urak, tisztek, katonák, szolgák, hírnökök és egyéb kiséret.  
-Banquo szelleme és egyéb látmányok.
+>   #### Szereplők
+    
+>   Duncan, _skót király_  
+    Malcolm,  
+    Donalbain, _fiai_  
+    Macbeth,  
+    Banquo, _hadvezérei_  
+    Macduff,  
+    Lenox,  
+    Rosse,  
+    Menteth,  
+    Angus,  
+    Cathness, _skót thánok_  
+    Fleance, _Banquo fia_  
+    Siward, _Northumberland grófja, az angol hadak vezére_  
+    Ifjú Siward, _fia_  
+    Seyton, _tiszt Macbeth kiséretében_  
+    _Macduff fiacskája_  
+    _Egy skót és_  
+    _Egy angol orvos._  
+    _Egy százados_  
+    _Kapus_  
+    _Öreg ember_  
+    _Három gyilkos_  
+    Lady Macbeth  
+    Lady Macduff  
+    _Lady Macbeth komornája_  
+    Hecate _és_  
+    _három boszorkány_
+    
+>   _Lordok, urak, tisztek, katonák, szolgák, hírnökök és egyéb kiséret.  
+    Banquo szelleme és egyéb látmányok._

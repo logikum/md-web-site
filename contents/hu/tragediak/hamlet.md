@@ -20,46 +20,29 @@ searchable:     true
 
 Leírás...
 
-#### Személyek
-
-Claudius, Dánia királya.
-
-Hamlet, az előbbi király fia, a mostaninak unokaöccse.
-
-Horatio, Hamlet barátja.
-
-Polonius, fő-kamarás.
-
-Leartes, fia.
-
-Voltimand,
-Cornelius,
-Rosencrantz,
-Guildenstern, udvarfiak.
-
-Ostrick, udvaronc.
-
-Más udvaronc.
-
-Marcellus,
-Bernardo, tisztek.
-
-Francisco, katona.
-
-Rajnáld, Polonius embere.
-
-Egy százados.
-
-Követek.
-
-Hamlet atyja szelleme.
-
-Fortinbras, norvég királyfi.
-
-Két sírásó.
-
-Gertrud, dán királyné, Hamlet anyja.
-
-Ophelia, Polonius leánya.
-
-Urak, úrnők, tisztek, katonák, szinészek, hajósok, híradók és kiséret.
+>   #### Szereplők
+    
+>   Claudius, _Dánia királya_  
+    Hamlet, _az előbbi király fia, a mostaninak unokaöccse_  
+    Horatio, _Hamlet barátja_  
+    Polonius, _fő-kamarás_  
+    Leartes, _fia_  
+    Voltimand,  
+    Cornelius,  
+    Rosencrantz,  
+    Guildenstern, _udvarfiak_  
+    Ostrick, _udvaronc_  
+    _Más udvaronc_  
+    Marcellus,  
+    Bernardo, _tisztek_  
+    Francisco, _katona_  
+    Rajnáld, _Polonius embere_  
+    _Egy százados_  
+    _Követek_  
+    _Hamlet atyja szelleme_  
+    Fortinbras, _norvég királyfi_  
+    _Két sírásó_  
+    Gertrud, _dán királyné, Hamlet anyja_  
+    Ophelia, _Polonius leánya_  
+    
+>   _Urak, úrnők, tisztek, katonák, szinészek, hajósok, híradók és kiséret._
