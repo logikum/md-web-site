@@ -58,43 +58,28 @@ returns from university with the news that Celia’s father, Frederick, has reti
 as Duke to become a hermit; Jaques goes to join him. There is a joyful dance to
 celebrate the four marriages and the happy ending.
 
-#### Characters
-
-DUKE SENIOR, living in banishment.
-
-DUKE FREDERICK, his brother, an usurper of his dominions.
-
-AMIENS,  
-JAQUES, lords attending on the banished duke.
-
-LE BEAU, a courtier attending upon Frederick.
-
-CHARLES, wrestler to Frederick.
-
-OLIVER,  
-JAQUES,  
-ORLANDO, sons of Sir Rowland de Boys.
-
-ADAM,  
-DENNIS, servants to Oliver.
-
-TOUCHSTONE, a clown.
-
-SIR OLIVER MARTEXT, a vicar.
-
-CORIN,  
-SILVIUS, shepherds.
-
-WILLIAM, a country fellow in love with Audrey.
-
-A person representing HYMEN.
-
-ROSALIND, daughter to the banished duke.
-
-CELIA, daughter to Frederick.
-
-PHEBE, a shepherdess.
-
-AUDREY, a country wench.
-
-Lords, pages, and attendants, &c.
+>   #### Characters
+    
+>   Duke Senior, _living in banishment_  
+    Duke Frederick, _his brother, an usurper of his dominions_  
+    Amiens,  
+    Jaques, _lords attending on the banished duke_  
+    Le Beau, _a courtier attending upon Frederick_  
+    Charles, _wrestler to Frederick_  
+    Oliver,  
+    Jaques,  
+    Orlando, _sons of Sir Rowland de Boys_  
+    Adam,  
+    Dennis, _servants to Oliver_  
+    Touchstone, _a clown_  
+    Sir Oliver Martext, _a vicar_  
+    Corin,  
+    Silvius, _shepherds_  
+    William, _a country fellow in love with Audrey_  
+    _A person representing_ Hymen  
+    Rosalind, _daughter to the banished duke_  
+    Celia, _daughter to Frederick_  
+    Phoebe, _a shepherdess_  
+    Audrey, _a country wench_
+    
+>   _Lords, pages, and attendants, &c._

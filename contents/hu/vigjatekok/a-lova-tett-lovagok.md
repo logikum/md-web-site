@@ -20,37 +20,25 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Ferdinand, Navarra királya.
-
-Biron,  
-Longaville,  
-Dumaine, a király kiséretéhez tartozó urak.
-
-Boyet,  
-Mercade, a frank hercegnő kiséretéhez tartozó urak.
-
-Don Adriano de Armando, spanyol.
-
-Sir Nathaniel, lelkész.
-
-Holofernes, iskolamester.
-
-Balga, rendőr.
-
-Kobak, suhanc.
-
-Moly, Armando apródja.
-
-Vadász.
-
-Frank hercegnő.
-
-Rózsa,  
-Mária,  
-Katinka, a hercegnő kiséretéhez tartozó hölgyek.
-
-Jutka, pórleány.
-
-Tisztek s mások a király s a hercegnő kiséretében.
+>   #### Szereplők
+    
+>   Ferdinand, _Navarra királya_  
+    Biron,  
+    Longaville,  
+    Dumaine, _a király kiséretéhez tartozó urak_  
+    Boyet,  
+    Mercade, _a frank hercegnő kiséretéhez tartozó urak_  
+    Don Adriano de Armando, _spanyol_  
+    Sir Nathaniel, _lelkész_  
+    Holofernes, _iskolamester_  
+    Balga, _rendőr_  
+    Kobak, _suhanc_  
+    Moly, _Armando apródja_  
+    _Vadász_  
+    Frank hercegnő  
+    Rózsa,  
+    Mária,  
+    Katinka, _a hercegnő kiséretéhez tartozó hölgyek_  
+    Jutka, _pórleány_
+    
+>   _Tisztek s mások a király s a hercegnő kiséretében._

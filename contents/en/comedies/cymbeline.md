@@ -34,48 +34,31 @@ The play has a traditional comic ending. Iachimo confesses to his misdemeanours,
 the characters reveal themselves, all the misunderstandings are resolved and the
 lovers are reunited.
 
-#### Characters
-
-CYMBELINE, King of Britain.
-
-CLOTEN, son to the Queen by a former husband.
-
-POSTHUMUS LEONATUS, a gentleman, husband to Imogen.
-
-BELARIUS, a banished lord, disguised under the name of Morgan.
-
-GUIDERIUS,  
-ARVIRAGUS, sons to Cymbeline, disguised under the names
-of Polydote and Cadwal, supposed sons to Morgan.
-
-PHILARIO friend to Posthumus,  
-IACHIMO, friend to Philario, Italians.
-
-CAIUS LUCIUS, general of the Roman forces.
-
-PISANIO, servant to Posthumus.
-
-CORNELIUS, a physician.
-
-A Roman Captain.
-
-Two British Captains.
-
-A Frenchman, friend to Philario.
-
-Two Lords of Cymbeline’s court.
-
-Two Gentlemen of the same.
-
-Two Gaolers.
-
-QUEEN, wife to Cymbeline.
-
-IMOGEN, daughter to Cymbeline by a former queen.
-
-HELEN, a lady attending on Imogen.
-
-Lords, Ladies, Roman senators, tribunes, a soothsayer, a Dutchman, a Spaniard,
-musicians, officers, captains, soldiers, messengers, and other attendants.
-
-Apparitions.
+>   #### Characters
+    
+>   Cymbeline, _King of Britain_  
+    Cloten, _son to the Queen by a former husband_  
+    Posthumus Leonatus, _a gentleman, husband to Imogen_  
+    Belarius, _a banished lord, disguised under the name of Morgan_  
+    Guiderius,  
+    Arviragus, _sons to Cymbeline, disguised under the names
+    of Polydote and Cadwal, supposed sons to Morgan_  
+    Philario, _friend to Posthumus,_    
+    Iachimo, _friend to Philario, Italians._  
+    Caius Lucius, _general of the Roman forces_  
+    Pisanio, _servant to Posthumus_  
+    Cornelius, _a physician_  
+    _A Roman captain_  
+    _Two British captains_  
+    A Frenchman, _friend to Philario_  
+    _Two Lords of Cymbeline’s court_  
+    _Two Gentlemen of the same_  
+    _Two Gaolers_  
+    Queen, _wife to Cymbeline_  
+    Imogen, _daughter to Cymbeline by a former queen_  
+    Helen, _a lady attending on Imogen_
+    
+>   _Lords, ladies, Roman senators, tribunes, a soothsayer, a Dutchman, a Spaniard,
+    musicians, officers, captains, soldiers, messengers, and other attendants._
+    
+>   _Apparitions._

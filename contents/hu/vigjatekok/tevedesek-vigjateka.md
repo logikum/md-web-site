@@ -20,34 +20,22 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Solinus, Ephesus hercege.
-
-Aegeon, syracusi kalmár.
-
-Ephesusi Antipholus,  
-Syracusi Antipholus, ikrek, Aegeon és Emilia fiai.
-
-Ephesusi Dromio,  
-Syracusi Dromio, ikrek, a két Antipholus inasai.
-
-Boldizsár, kalmár.
-
-Angelo, ötvös.
-
-Egy kereskedő, syracusi Antipholus barátja.
-
-Csippencs, iskolamester.
-
-Emilia, Aegeon neje.
-
-Adriána, Ephesusi Antipholus neje.
-
-Luciána, húga.
-
-Lucza, Adriána szobalánya.
-
-Egy leány.
-
-Poroszló. tisztek. kísérők.
+>   #### Szereplők
+    
+>   Solinus, _Ephesus hercege_  
+    Aegeon, _syracusi kalmár_  
+    Ephesusi Antipholus,  
+    Syracusi Antipholus, _ikrek, Aegeon és Emilia fiai_  
+    Ephesusi Dromio,  
+    Syracusi Dromio, _ikrek, a két Antipholus inasai_  
+    Boldizsár, _kalmár_  
+    Angelo, _ötvös_  
+    _Egy kereskedő, syracusi Antipholus barátja_  
+    Csippencs, _iskolamester_  
+    Emilia, _Aegeon neje_  
+    Adriána, _Ephesusi Antipholus neje_  
+    Luciána, _húga_  
+    Luca, _Adriána szobalánya_  
+    _Egy leány_
+    
+>   _Poroszló, tisztek, kísérők._

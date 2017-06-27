@@ -20,35 +20,22 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Franciaország királya.
-
-Flórenc uralkodó hercege.
-
-Bertram, Rousillon grófja.
-
-Lafeu, agg főnemes.
-
-Parolles, a gróf kisérője.
-
-Több francia nemes ifjak, Bertrammal együtt hadiszolgálatban.
-
-Várnagy, Rousillon grófnénál.
-
-Bohóc, ugyanannak szolgálatában.
-
-Apród.
-
-Rousillon grófné, Bertram anyja.
-
-Heléna, gyámleánya.
-
-Egy flórenci özvegyasszony.
-
-Diana, ennek leánya.
-
-Violenta,
-Mariana, ez utóbbiak szomszéd- s barátnői.
-
-Főurak, a király kiséretéből; tisztek, katonák, franciák és flórenciek.
+>   #### Szereplők
+    
+>   Franciaország királya  
+    Flórenc uralkodó hercege  
+    Bertram, _Rousillon grófja_  
+    Lafeu, _agg főnemes_  
+    Parolles, _a gróf kisérője_  
+    _Több francia nemes ifjak, Bertrammal együtt hadiszolgálatban_  
+    _Várnagy, Rousillon grófnénál_  
+    _Bohóc, ugyanannak szolgálatában_  
+    _Apród_  
+    Rousillon grófné, _Bertram anyja_  
+    Heléna, _gyámleánya_  
+    _Egy flórenci özvegyasszony_  
+    Diana, _ennek leánya_  
+    Violenta,  
+    Mariana, _ez utóbbiak szomszéd- s barátnői_
+    
+>   _Főurak, a király kiséretéből; tisztek, katonák, franciák és flórenciek._
