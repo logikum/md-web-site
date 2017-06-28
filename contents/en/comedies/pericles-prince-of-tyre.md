@@ -56,48 +56,29 @@ dream in which he is instructed to go to Ephesus. He takes Marina with him. When
 they arrive they meets Thaisa, who is now the head priestess of Diana, and the
 family is happily reunited.
 
-#### Characters
-
-ANTIOCHUS, king of Antioch.
-
-PERICLES, prince of Tyre.
-
-HELICANUS,  
-ESCANES, two lords of Tyre.
-
-SIMONIDES, king of Pentapolis.
-
-CLEON, governor of Tarsus.
-
-LYSIMACHUS, governor of Mytilene.
-
-CERIMON, a lord of Ephesus.
-
-THALIARD, a lord of Antioch.
-
-PHILEMON, servant to Cerimon.
-
-LEONINE, servant to Dionyza.
-
-Marshal.
-
-A Pandar.
-
-BOULT, his servant.
-
-The Daughter of Antiochus.
-
-DIONYZA, wife to Cleon.
-
-THAISA, daughter to Simonides.
-
-MARINA, daughter to Pericles and Thaisa.
-
-LYCHORIDA, nurse to Marina.
-
-A bawd.
-
-Lords, knights, gentlemen, sailors, pirates, fishermen, and messengers.
-
-DIANA,  
-GOWER, as Chorus.
+>   #### Characters
+    
+>   Antiochus, _king of Antioch_  
+    Pericles, _prince of Tyre_  
+    Helicanus,  
+    Escanes, _two lords of Tyre_  
+    Simonides, _king of Pentapolis_  
+    Cleon, _governor of Tarsus_  
+    Lysimachus, _governor of Mytilene_  
+    Cerimon, _a lord of Ephesus_  
+    Thaliard, _a lord of Antioch_  
+    Philemon, _servant to Cerimon_  
+    Leonine, _servant to Dionyza_  
+    _Marshal_  
+    _A pandar_    
+    Boult, _his servant_  
+    _The daughter of Antiochus_  
+    Dionyza, _wife to Cleon_  
+    Thaisa, _daughter to Simonides_  
+    Marina, _daughter to Pericles and Thaisa_  
+    Lychorida, _nurse to Marina_  
+    _A bawd_  
+    Diana,  
+    Gower, _as Chorus_
+    
+>   _Lords, knights, gentlemen, sailors, pirates, fishermen, and messengers._

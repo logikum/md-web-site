@@ -63,43 +63,27 @@ Fenton’s wife, while Cauius and Slender both find that they have eloped with
 boys. The play ends with the Pages giving their blessing to Anne’s marriage and
 everyone laughing at the evening’s antics and the humiliation of Falstaff.
 
-#### Characters
-
-SIR JOHN FALSTAFF
-
-FENTON, a gentleman.
-
-SHALLOW, a country justice.
-
-SLENDER, cousin to Shallow.
-
-FORD,  
-PAGE, two gentlemen dwelling at Windsor.
-
-WILLIAM PAGE, a boy, son to Page.
-
-SIR HUGH EVANS, a Welsh parson.
-
-DOCTOR CAIUS, a French physician.
-
-Host of the Garter Inn.
-
-BARDOLPH,  
-PISTOL,  
-NYM, sharpers attending on Falstaff.
-
-ROBIN, page to Falstaff.
-
-SIMPLE, servant to Slender.
-
-RUGBY, servant to Doctor Caius.
-
-MISTRESS FORD
-
-MISTRESS PAGE
-
-ANNE PAGE, her daughter.
-
-MISTRESS QUICKLY, servant to Doctor Caius.
-
-Servants to Page, Ford, &c.
+>   #### Characters
+    
+>   Sir John Falstaff  
+    Fenton, _a gentleman_  
+    Shallow, _a country justice_  
+    Slender, _cousin to Shallow_  
+    Ford,  
+    Page, _two gentlemen dwelling at Windsor_  
+    William Page, _a boy, son to Page_  
+    Sir Hugh Evans, _a Welsh parson_  
+    Doctor Caius, _a French physician_  
+    _Host of the Garter Inn_  
+    Bardolph,  
+    Pistol,  
+    Nym, _sharpers attending on Falstaff_  
+    Robin, _page to Falstaff_  
+    Simple, _servant to Slender_  
+    Rugby, _servant to Doctor Caius_  
+    Mistress Ford  
+    Mistress Page  
+    Anne Page, _her daughter_  
+    Mistress Quickly, _servant to Doctor Caius_
+    
+>   _Servants to Page, Ford, &c._

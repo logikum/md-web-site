@@ -20,47 +20,28 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Vincentio, Bécs hercege.
-
-Angelo, helytartója.
-
-Escalus, öreg tanácsúr.
-
-Claudio, úrfi.
-
-Két más Úrfi.
-
-Lucio, léha ember.
-
-Porkoláb.
-
-Tamás,  
-Péter, szerzetesek.
-
-Bíró.
-
-Könyök, együgyű biztos.
-
-Habarc, balga úri ember.
-
-Bohóc.
-
-Rémes, bakó.
-
-Bernát, korhely rab.
-
-Fiú.
-
-Izabella, Claudio testvérhúga.
-
-Mariána, Angelo jegyese.
-
-Julia, Claudio kedvese.
-
-Francisca, apáca.
-
-Nyüviné, kerítő asszony.
-
-Főurak, urak, őrök, tisztek, inasok s egyéb kisérők.
+>   #### Szereplők
+    
+>   Vincentio, _Bécs hercege_  
+    Angelo, _helytartója_  
+    Escalus, _öreg tanácsúr_  
+    Claudio, _úrfi_  
+    _Két más úrfi_  
+    Lucio, _léha ember_  
+    _Porkoláb_  
+    Tamás,  
+    Péter, _szerzetesek_  
+    _Bíró_ 
+    Könyök, _együgyű biztos_  
+    Habarc, _balga úri ember_  
+    _Bohóc_  
+    Rémes, _bakó_  
+    Bernát, _korhely rab_  
+    _Fiú_  
+    Izabella, _Claudio testvérhúga_  
+    Mariána, _Angelo jegyese_  
+    Julia, _Claudio kedvese_  
+    Francisca, _apáca_  
+    Nyüviné, _kerítő asszony_
+    
+>   _Főurak, urak, őrök, tisztek, inasok s egyéb kisérők._

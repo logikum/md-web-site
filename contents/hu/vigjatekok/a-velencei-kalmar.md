@@ -20,42 +20,27 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Velencei Doge.
-
-Marokkói herceg,  
-Aragoni herceg, Portia kérői.
-
-Antonio, velencei kalmár.
-
-Bassanio, barátja.
-
-Gratiano,  
-Solanio,  
-Salarino, Antonio s Bassanio barátai.
-
-Lorenzo, Jessica kedvese.
-
-Shylock, zsidó.
-
-Tubal, zsidó, barátja.
-
-Lancelot Gobbo, Shylock szolgája.
-
-Öreg Gobbo, Lancelot atyja.
-
-Salerio, velenczei hírnök.
-
-Leonardo, Bassanio szolgája.
-
-Balthazar,  
-Stephano, Portia szolgái.
-
-Portia, gazdag úrnő.
-
-Nerissa, kisérőnéje.
-
-Jessica, Shylock leánya.
-
-Velencei tanácstagok, törvényszéki tisztek, tömlöc-őr, szolgák s kíséret.
+>   #### Szereplők
+    
+>   Velencei Doge  
+    Marokkói herceg,    
+    Aragoni herceg, _Portia kérői_  
+    Antonio, _velencei kalmár_  
+    Bassanio, _barátja_  
+    Gratiano,  
+    Solanio,  
+    Salarino, _Antonio s Bassanio barátai_  
+    Lorenzo, _Jessica kedvese_  
+    Shylock, _zsidó_  
+    Tubal, _zsidó, barátja_  
+    Lancelot Gobbo, _Shylock szolgája_  
+    Öreg Gobbo, _Lancelot atyja_  
+    Salerio, _velencei hírnök_  
+    Leonardo, _Bassanio szolgája_  
+    Balthazar,  
+    Stephano, _Portia szolgái_  
+    Portia, _gazdag úrnő_  
+    Nerissa, _kisérőnéje_  
+    Jessica, _Shylock leánya_
+    
+>   _Velencei tanácstagok, törvényszéki tisztek, tömlöc-őr, szolgák s kíséret._

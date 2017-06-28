@@ -20,43 +20,27 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Falstaff János lovag.
-
-Fenton.
-
-Silány, kerületi biró.
-
-Nyurga, Silány unokaöccse.
-
-Hab,  
-Pázsi, windsori polgárok.
-
-Pázsi Vilmos, fiú, Pázsi fia.
-
-Evans Hugo, walesi pap.
-
-Dr. Cajus, francia orvos.
-
-„A térdszalaghoz” címzett fogadó vendéglőse.
-
-Bardolph,  
-Pistol,  
-Nym, Falstaff emberei.
-
-Robin, Falstaff apróda.
-
-Simplicius, Nyurga inasa.
-
-Kófic, Dr. Cajus inasa.
-
-Habné.
-
-Pázsiné.
-
-Pázsi Anna, lánya, Fenton kedvese.
-
-Fürgéné, Dr. Cajus cselédje.
-
-Pázsi, Hab inasai, stb.
+>   #### Szereplők
+    
+>   Falstaff János _lovag_  
+    Fenton  
+    Silány, _kerületi biró_  
+    Nyurga, _Silány unokaöccse_  
+    Hab,  
+    Pázsi, _windsori polgárok_  
+    Pázsi Vilmos, _fiú, Pázsi fia_  
+    Evans Hugo, _walesi pap_  
+    Dr. Cajus, _francia orvos_  
+    _„A térdszalaghoz” címzett fogadó vendéglőse_  
+    Bardolph,  
+    Pistol,  
+    Nym, _Falstaff emberei_  
+    Robin, _Falstaff apróda_  
+    Simplicius, _Nyurga inasa_  
+    Kófic, _Dr. Cajus inasa_  
+    Habné  
+    Pázsiné  
+    Pázsi Anna, _lánya, Fenton kedvese_  
+    Fürgéné, _Dr. Cajus cselédje_
+    
+>   _Pázsi, Hab inasai, stb._

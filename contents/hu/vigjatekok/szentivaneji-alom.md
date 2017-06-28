@@ -20,51 +20,34 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Theseus, Athéne ura.
-
-Egéus, Hermia atyja.
-
-Lysander,  
-Demetrius, szerelmesek Hermiába.
-
-Philostrat, ünnepély rendező Theseusnál.
-
-Vaczkor, ács.
-
-Gyalu, asztalos.
-
-Zuboly, takács.
-
-Dudás, fuvó-foldozó.
-
-Orrondi, üstfoldozó.
-
-Ösztövér, szabó.
-
-Hippolyta, amazon királynő.
-
-Hermia, szerelmes Lysanderbe.
-
-Heléna, szerelmes Demetriusba.
-
-Oberon, tündérkirály.
-
-Titania, tündérkirályné.
-
-Puck vagy Robin-Pajtás.
-
-Babvirág,  
-Pókháló,  
-Moly,  
-Mustármag, tündérek
-
-Pyramus,  
-Thisbe,  
-Fal,  
-Holdvirág,  
-Oroszlán, a közjáték személyei.
-
-Más tündérek, királyuk és királynéjok kiséretében.  
-Theseus és Hippolyta kisérői.
+>   #### Szereplők
+    
+>   Theseus, _Athéne ura_  
+    Egéus, _Hermia atyja_  
+    Lysander,  
+    Demetrius, _szerelmesek Hermiába_  
+    Philostrat, _ünnepély rendező Theseusnál_  
+    Vackor, _ács_  
+    Gyalu, _asztalos_  
+    Zuboly, _takács_  
+    Dudás, _fuvó-foldozó_  
+    Orrondi, _üstfoldozó_  
+    Ösztövér, _szabó_  
+    Hippolyta, _amazon királynő_  
+    Hermia, _szerelmes Lysanderbe_  
+    Heléna, _szerelmes Demetriusba_  
+    Oberon, _tündérkirály_  
+    Titania, _tündérkirályné_  
+    Puck _vagy Robin-Pajtás_ 
+    Babvirág,  
+    Pókháló,  
+    Moly,  
+    Mustármag, _tündérek_  
+    Pyramus,  
+    Thisbe,  
+    Fal,  
+    Holdvirág,  
+    Oroszlán, _a közjáték személyei_
+    
+>   _Más tündérek, királyuk és királynéjok kiséretében.  
+    Theseus és Hippolyta kisérői._

@@ -60,44 +60,28 @@ A broken Shylock accepts. News arrives that Antonio’s remaining ships have
 returned safely. With the exception of Shylock, all celebrate a happy ending to
 the affair.
 
-#### Characters
-
-The DUKE OF VENICE.
-
-The PRINCE OF MOROCCO, suitors to Portia.
-
-The PRINCE OF ARRAGON
-
-ANTONIO, a merchant of Venice.
-
-BASSANIO, his friend, suitor likewise to Portia.
-
-SALANIO,  
-SALARINO,  
-GRATIANO, friends to Antonio and Bassanio.
-
-SALERIO
-
-LORENZO, in love with Jessica.
-
-SHYLOCK, a rich Jew.
-
-TUBAL, a Jew, his friend.
-
-LAUNCELOT GOBBO, the clown, servant to SHYLOCK.
-
-OLD GOBBO, father to Launcelot.
-
-LEONARDO, servant to BASSANIO.
-
-BALTHASAR,  
-STEPHANO, servants to PORTIA.
-
-PORTIA, a rich heiress.
-
-NERISSA, her waiting-maid.
-
-JESSICA, daughter to SHYLOCK.
-
-Magnificoes of Venice, officers of the Court of Justice,
-gaoler, servants to Portia, and other attendants.
+>   #### Characters
+    
+>   The Duke of Venice  
+    The Prince of Morocco, _suitors to Portia_  
+    The PRINCE OF Arragon  
+    Antonio, _a merchant of Venice_  
+    Bassanio, _his friend, suitor likewise to Portia_  
+    Salanio,  
+    Salarino,  
+    Gratiano, _friends to Antonio and Bassanio_  
+    Salerio  
+    Lorenzo, _in love with Jessica_  
+    Shylock, _a rich Jew_  
+    Tubal, _a Jew, his friend_  
+    Launcelot Gobbo, _the clown, servant to Shylock_  
+    Old Gobbo, _father to Launcelot_  
+    Leonardo, _servant to Bassanio_  
+    Balthasar,  
+    Stephano, _servants to Portia_  
+    Portia, _a rich heiress_  
+    Nerissa, _her waiting-maid_  
+    Jessica, _daughter to Shylock_
+    
+>   _Magnificoes of Venice, officers of the Court of Justice,
+    gaoler, servants to Portia, and other attendants._
