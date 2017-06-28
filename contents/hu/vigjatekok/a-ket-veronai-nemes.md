@@ -4,7 +4,7 @@ title:          A két veronai nemes
 keywords:       kettő, Verona, nemes, vígjáték
 description:    William Shakespeare: A két veronai nemes.
 --- Menu system
-order:          160
+order:          10
 text:           A két veronai nemes
 hidden:         false
 umbel:          false

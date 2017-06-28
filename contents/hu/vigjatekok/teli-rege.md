@@ -4,7 +4,7 @@ title:          Téli rege
 keywords:       tél, rege, vígjáték
 description:    William Shakespeare: Téli rege.
 --- Menu system
-order:          170
+order:          140
 text:           Téli rege
 hidden:         false
 umbel:          false
@@ -39,7 +39,6 @@ Leírás...
     _Ifjú juhász, fia_  
     _Szolgája_  
     Autolycus, _csaló_  
-    _Idő, mint kar_  
     Hermione, _Szicília királynéja_  
     Perdita, _Leontes és Hermione leánya_  
     Paulina, _Antigonus neje_  
@@ -47,4 +46,5 @@ Leírás...
     Mopsa,  
     Dorcas, _pásztorleányok_
     
->   _Urak, hölgyek, kiséret, satyrok, pásztorok, pásztornők, őrök stb._
+>   _Urak, hölgyek, kiséret, satyrok, pásztorok, pásztornők, őrök stb._  
+    _Idő, mint kar_

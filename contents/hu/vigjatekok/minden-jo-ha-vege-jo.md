@@ -4,7 +4,7 @@ title:          Minden jó, ha vége jó
 keywords:       minden, jó, vég, vígjáték
 description:    William Shakespeare: Minden jó, ha vége jó.
 --- Menu system
-order:          10
+order:          90
 text:           Minden jó, ha vége jó
 hidden:         false
 umbel:          false

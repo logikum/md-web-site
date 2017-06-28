@@ -4,7 +4,7 @@ title:          Sok hűhó semmiért
 keywords:       sok, hűhó, semmi, vígjáték
 description:    William Shakespeare: Sok hűhó semmiért.
 --- Menu system
-order:          100
+order:          110
 text:           Sok hűhó semmiért
 hidden:         false
 umbel:          false

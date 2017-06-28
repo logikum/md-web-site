@@ -4,7 +4,7 @@ title:          A makrancos hölgy
 keywords:       makrancos, hölgy, vígjáték
 description:    William Shakespeare: A makrancos hölgy.
 --- Menu system
-order:          120
+order:          30
 text:           A makrancos hölgy
 hidden:         false
 umbel:          false

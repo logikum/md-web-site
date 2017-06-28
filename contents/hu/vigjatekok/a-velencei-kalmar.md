@@ -4,7 +4,7 @@ title:          A velencei kalmár
 keywords:       Velence, kalmár, vígjáték
 description:    William Shakespeare: A velencei kalmár.
 --- Menu system
-order:          70
+order:          40
 text:           A velencei kalmár
 hidden:         false
 umbel:          false

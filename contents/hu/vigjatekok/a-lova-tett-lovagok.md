@@ -4,7 +4,7 @@ title:          A lóvá tett lovagok
 keywords:       ló, tesz, lovag, vígjáték
 description:    William Shakespeare: A lóvá tett lovagok.
 --- Menu system
-order:          50
+order:          20
 text:           A lóvá tett lovagok
 hidden:         false
 umbel:          false

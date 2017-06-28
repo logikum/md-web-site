@@ -4,7 +4,7 @@ title:          A windsori víg nők
 keywords:       Windsor, víg, nő, vígjáték
 description:    William Shakespeare: A windsori víg nők.
 --- Menu system
-order:          80
+order:          60
 text:           A windsori víg nők
 hidden:         false
 umbel:          false

@@ -4,7 +4,7 @@ title:          Ahogy tetszik
 keywords:       ahogy, tetszik, vígjáték
 description:    William Shakespeare: Ahogy tetszik.
 --- Menu system
-order:          20
+order:          70
 text:           Ahogy tetszik
 hidden:         false
 umbel:          false

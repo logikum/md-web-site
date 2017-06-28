@@ -4,7 +4,7 @@ title:          Cymbeline
 keywords:       Cymbeline, vígjáték
 description:    William Shakespeare: Cymbeline.
 --- Menu system
-order:          40
+order:          80
 text:           Cymbeline
 hidden:         false
 umbel:          false

@@ -4,7 +4,7 @@ title:          Tévedések vígjátéka
 keywords:       tévedés, vígjáték
 description:    William Shakespeare: Tévedések vígjátéka.
 --- Menu system
-order:          30
+order:          150
 text:           Tévedések vígjátéka
 hidden:         false
 umbel:          false

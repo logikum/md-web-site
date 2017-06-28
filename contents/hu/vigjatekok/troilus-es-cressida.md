@@ -4,7 +4,7 @@ title:          Troilus és Cressida
 keywords:       Troilus, Cressida, vígjáték
 description:    William Shakespeare: Troilus és Cressida.
 --- Menu system
-order:          140
+order:          160
 text:           Troilus és Cressida
 hidden:         false
 umbel:          false

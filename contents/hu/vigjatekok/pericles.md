@@ -4,7 +4,7 @@ title:          Pericles
 keywords:       Pericles, vígjáték
 description:    William Shakespeare: Pericles.
 --- Menu system
-order:          110
+order:          100
 text:           Pericles
 hidden:         false
 umbel:          false

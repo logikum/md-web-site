@@ -4,7 +4,7 @@ title:          A vihar
 keywords:       vihar, vígjáték
 description:    William Shakespeare: A vihar.
 --- Menu system
-order:          130
+order:          50
 text:           A vihar
 hidden:         false
 umbel:          false
