@@ -60,26 +60,26 @@ united and, as a reward, Paulina is given Camillo as her new husband.
 
 >   #### Characters
 
->   Leontes, _king of Sicilia_
-    Mamillius, _young prince of Sicilia_
-    Camillo,
-    Antigonus,
-    Cleomenes,
-    Dion, _four lords of Sicilia_
-    Polixenes, _king of Bohemia_
-    Florizel, _prince of Bohemia_
-    Archidamus, _a lord of Bohemia_
-    _Old Shepherd, reputed father of Perdita_
-    _Clown, his son_
-    Autolycus, _a rogue_
-    _A mariner_
-    _A gaoler_
-    Hermione, _queen to Leontes_
-    Perdita, _daughter to Leontes and Hermione_
-    Paulina, _wife to Antigonus_
-    Emilia, _a lady attending on Hermione_
-    Mopsa,
+>   Leontes, _king of Sicilia_  
+    Mamillius, _young prince of Sicilia_  
+    Camillo,  
+    Antigonus,  
+    Cleomenes,  
+    Dion, _four lords of Sicilia_  
+    Polixenes, _king of Bohemia_  
+    Florizel, _prince of Bohemia_  
+    Archidamus, _a lord of Bohemia_  
+    _Old Shepherd, reputed father of Perdita_  
+    _Clown, his son_  
+    Autolycus, _a rogue_  
+    _A mariner_  
+    _A gaoler_  
+    Hermione, _queen to Leontes_  
+    Perdita, _daughter to Leontes and Hermione_  
+    Paulina, _wife to Antigonus_  
+    Emilia, _a lady attending on Hermione_  
+    Mopsa,  
     Dorcas, _shepherdesses_
 
->   _Other lords and gentlemen, ladies, officers, and servants, shepherds, and shepherdesses._
+>   _Other lords and gentlemen, ladies, officers, and servants, shepherds, and shepherdesses._  
     _Time, as chorus._
