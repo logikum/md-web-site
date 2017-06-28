@@ -20,48 +20,29 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Gróf,
-
-Ravaszdi Kristóf,
-
-üstfoldozó,
-
-Csaplárné.
-
-Apród.
-
-Szinészek, vadászok, szolgák, az előjáték személyei.
-
-Baptista, páduai gazdag nemes.
-
-Vincentio, pisai agg nemes.
-
-Petruchio, veronai ifjú.
-
-Lucentio, Vincentio fia.
-
-Gremio,  
-Hortensio, Bianka kérői.
-
-Tranio,  
-Biondello, Lucentio szolgái.
-
-József.
-
-Grumio,  
-Kurta, Petruchio szolgái.
-
-Vándor.
-
-Katalin,  
-Bianka, Baptista leányai.
-
-Özvegy.
-
-Szabó.
-
-Divatárus.
-
-Baptista és Petruchio cselédei.
+>   #### Szereplők
+    
+>   _Gróf,_  
+    Ravaszdi Kristóf, _üstfoldozó_  
+    _Csaplárné_  
+    _Apród_  
+    _Szinészek, vadászok, szolgák, az előjáték személyei._
+    
+>   Baptista, _páduai gazdag nemes_  
+    Vincentio, _pisai agg nemes_  
+    Petruchio, _veronai ifjú_  
+    Lucentio, _Vincentio fia_  
+    Gremio,  
+    Hortensio, _Bianka kérői_  
+    Tranio,  
+    Biondello, _Lucentio szolgái_  
+    József,  
+    Grumio,  
+    Kurta, _Petruchio szolgái_  
+    _Vándor_  
+    Katalin,  
+    Bianka, _Baptista leányai_  
+    _Özvegy_  
+    _Szabó_  
+    _Divatárus_  
+    _Baptista és Petruchio cselédei_

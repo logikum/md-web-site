@@ -51,48 +51,31 @@ relax after their meal Petruchio devises a competition to prove whose wife is
 the most obedient. Bianca and the widow fail to come to their husbands when
 called while Kate lectures the women on the duties of a wife.
 
-#### Characters
+>   #### Characters
+    
+>   _A Lord_  
+    Christopher Sly, _a tinker_  
+    _Hostess, page, players, huntsmen, and servants, persons in the Induction._
 
-A Lord.
-
-CHRISTOPHER SLY, a tinker.
-
-Hostess, page, players, huntsmen, and servants, persons in the Induction.
-
-BAPTISTA, a rich gentleman of Padua.
-
-VINCENTIO, an old gentleman of Pisa.
-
-LUCENTIO, son to Vincentio, in love with Bianca.
-
-PETRUCHIO, a gentleman of Verona, a suitor to Katharina.
-
-GREMIO,  
-HORTENSIO, suitors to Bianca.
-
-TRANIO,  
-BIONDELLO, servants to Lucentio.
-
-GRUMIO,  
-CURTIS,  
-NATHANIEL,  
-NICHOLAS, servants to Petruchio.
-
-JOSEPH
-
-PHILIP
-
-PETER
-
-A pedant.
-
-KATHARINA the shrew,  
-BIANCA, daughters to Baptista.
-
-Widow.
-
-Tailor,
-
-Haberdasher,
-
-and servants attending on Baptista and Petruchio.
+>   Baptista, _a rich gentleman of Padua_  
+    Vincentio, _an old gentleman of Pisa_  
+    Lucentio, _son to Vincentio, in love with Bianca_  
+    Petruchio, _a gentleman of Verona, a suitor to Katharina_  
+    Gremio,  
+    Hortensio, _suitors to Bianca_  
+    Tranio,  
+    Biondello, _servants to Lucentio_  
+    Grumio,  
+    Curtis,  
+    Nathaniel,  
+    Nicholas, _servants to Petruchio_  
+    Joseph  
+    Philip  
+    Peter  
+    _A pedant_  
+    Katharina _the shrew,_  
+    Bianca, _daughters to Baptista_  
+    _Widow_  
+    _Tailor,_  
+    _Haberdasher,_  
+    _and servants attending on Baptista and Petruchio._

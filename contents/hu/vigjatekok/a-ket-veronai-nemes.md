@@ -20,20 +20,21 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-A MILÁNÓI HERCEG, Szilvia apja  
-VALENTIN,  
-PROTEUS, a két nemes  
-ANTONIO, Proteus apja  
-THURIO, Valentin ostoba vetélytársa  
-EGLAMOUR, Szilvia szövetségese  
-FOGADÓS, akinél Júlia megszáll  
-RABLÓK, Valentin társai  
-FÜRGE, Valentin bolondos szolgája  
-DÁRDÁS, Proteus bolondos szolgája  
-PANTHINO, Antonio szolgája  
-JÚLIA, Proteus szerelmese  
-SZILVIA, Valentin szerelmese  
-LUCETTA, Júlia komornája  
-Szolgák, zenészek
+>   #### Szereplők
+    
+>   A milánói herceg, _Szilvia apja_  
+    Valentin,  
+    Proteus, _a két nemes_  
+    Antonio, _Proteus apja_  
+    Thurio, _Valentin ostoba vetélytársa_  
+    Eglamour, _Szilvia szövetségese_  
+    _Fogadós, akinél Júlia megszáll_  
+    _Rablók, Valentin társai_  
+    Fürge, _Valentin bolondos szolgája_  
+    Dárdás, _Proteus bolondos szolgája_  
+    Panthino, _Antonio szolgája_  
+    Júlia, _Proteus szerelmese_  
+    Szilvia, _Valentin szerelmese_  
+    Lucetta, _Júlia komornája_
+    
+>   _Szolgák, zenészek._

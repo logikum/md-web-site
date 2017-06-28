@@ -53,33 +53,21 @@ his cowardice by denying Silvia. The duke approves the marriage of Silvia and
 Valentine; the two couples agree to share a wedding day and the duke pardons the
 outlaws.
 
-#### Characters
-
-DUKE OF MILAN, father to Silvia.
-
-VALENTINE,  
-PROTEUS, the two gentlemen.
-
-ANTONIO, father to Proteus.
-
-THURIO, a foolish rival to Valentine.
-
-EGLAMOUR, agent for Silvia in her escape.
-
-HOST, where Julia lodges.
-
-OUTLAWS (1, 2, 3), with Valentine.
-
-SPEED, a clownish servant to Valentine.
-
-LAUNCE, the like to Proteus.
-
-PANTHINO, servant to Antonio.
-
-JULIA, beloved of Proteus.
-
-SILVIA, beloved of Valentine.
-
-LUCETTA, waiting-woman to Julia.
-
-Servants, musicians.
+>   #### Characters
+    
+>   Duke of Milan, _father to Silvia_  
+    Valentine,  
+    Proteus, _the two gentlemen_  
+    Antonio, _father to Proteus_  
+    Thurio, _a foolish rival to Valentine_  
+    Eglamour, _agent for Silvia in her escape_  
+    _Host, where Julia lodges_  
+    _Outlaws (1, 2, 3), with Valentine_  
+    Speed, _a clownish servant to Valentine_  
+    Launce, _the like to Proteus_  
+    Panthino, _servant to Antonio_  
+    Julia, _beloved of Proteus_  
+    Silvia, _beloved of Valentine_  
+    Lucetta, _waiting-woman to Julia_
+    
+>   _Servants, musicians._

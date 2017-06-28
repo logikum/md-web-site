@@ -52,52 +52,35 @@ slaughtered by Achilles’ troop of thuggish soldiers, the Myrmidons. Troilus
 swears revenge for his brother’s death, and mourns the end of his innocence with
 the loss of his beloved Cressida.
 
-#### Characters
-
-PRIAM, king of Troy.
-
-HECTOR,  
-TROILUS,  
-PARIS,  
-DEIPHOBUS,  
-HELENUS, his sons.
-
-MARGARELON, a bastard son of Priam.
-
-AENEAS,  
-ANTENOR, Trojan commanders.
-
-CALCHAS, a Trojan priest, taking part with the Greeks.
-
-PANDARUS, uncle to Cressida.
-
-AGAMEMNON, the Grecian general.
-
-MENELAUS, his brother.
-
-ACHILLES,  
-AJAX,  
-ULYSSES,  
-NESTOR,  
-DIOMEDES,  
-PATROCLUS, Grecian princes.
-
-THERSITES, a deformed and scurrilous Grecian.
-
-ALEXANDER, servant to Cressida.
-
-Servant to Troilus.
-
-Servant to Paris.
-
-Servant to Diomedes.
-
-HELEN, wife to Menelaus.
-
-ANDROMACHE, wife to Hector.
-
-CASSANDRA, daughter to Priam, a prophetess.
-
-CRESSIDA, daughter to Calchas.
-
-Trojan and Greek soldiers, and attendants.
+>   #### Characters
+    
+>   Priam, _king of Troy_  
+    Hector,  
+    Troilus,  
+    Paris,  
+    Deiphobus,  
+    Helenus, _his sons_  
+    Margarelon, _a bastard son of Priam_  
+    Aeneas,  
+    Antenor, _Trojan commanders_  
+    Calchas, _a Trojan priest, taking part with the Greeks_  
+    Pandarus, _uncle to Cressida_  
+    Agamemnon, _the Grecian general_  
+    Menelaus, _his brother_  
+    Achilles,  
+    Ajax,  
+    Ulysses,  
+    Nestor,  
+    Diomedes,  
+    Patroclus, _Grecian princes_  
+    Thersites, _a deformed and scurrilous Grecian_  
+    Alexander, _servant to Cressida_  
+    _Servant to Troilus_  
+    _Servant to Paris_  
+    _Servant to Diomedes_  
+    Helen, _wife to Menelaus_  
+    Andromache, _wife to Hector_  
+    Cassandra, _daughter to Priam, a prophetess_  
+    Cressida, _daughter to Calchas_
+    
+>   _Trojan and Greek soldiers, and attendants._

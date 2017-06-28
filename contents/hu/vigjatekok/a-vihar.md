@@ -20,41 +20,26 @@ searchable:     true
 
 Leírás...
 
-#### Szereplők
-
-Alonzo, Nápoly királya.
-
-Sebastiano, a király öccse.
-
-Prospero, Milánó jogszerű hercege.
-
-Antonio, öcscse, Milánó bitorló hercege.
-
-Ferdinánd, a nápolyi király fia.
-
-Gonzalo, becsületes öreg tanácsos.
-
-Adrian,  
-Francisco, udvaroncok.
-
-Caliban, vad és idétlen rabszolga.
-
-Kurjancs, bohóc.
-
-Hörpencs, iszákos pincér.
-
-Hajóskapitány.
-
-Kormányos.
-
-Hajósok.
-
-Miranda, Prospero leánya.
-
-Ariel, légi szellem.
-
-Iris,  
-Ceres,  
-Juno, szellemek.
-
-Nymphák, aratók s más szellemek Prospero szolgálatában.
+>   #### Szereplők
+    
+>   Alonzo, _Nápoly királya_  
+    Sebastiano, _a király öccse_  
+    Prospero, _Milánó jogszerű hercege_  
+    Antonio, _öccse, Milánó bitorló hercege_  
+    Ferdinánd, _a nápolyi király fia_  
+    Gonzalo, _becsületes öreg tanácsos_  
+    Adrian,  
+    Francisco, _udvaroncok_  
+    Caliban, _vad és idétlen rabszolga_  
+    Kurjancs, _bohóc_  
+    Hörpencs, _iszákos pincér_  
+    _Hajóskapitány_  
+    _Kormányos_  
+    _Hajósok_  
+    Miranda, _Prospero leánya_  
+    Ariel, _légi szellem_  
+    Iris,  
+    Ceres,  
+    Juno, _szellemek_
+    
+>   _Nymphák, aratók s más szellemek Prospero szolgálatában._
