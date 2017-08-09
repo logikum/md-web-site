@@ -12,15 +12,15 @@
   "author": "Mármarosi József <marmarosi@logikum.hu>",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.17",
-    "compression": "^1.6",
+    "body-parser": "^1.17.2",
+    "compression": "^1.7.0",
     "connect-redis": "^3.3",
-    "express": "^4.15",
-    "express-session": "^1.15",
-    "helmet": "^3.6",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "helmet": "^3.8.1",
     "md-site-engine": "^1.0",
     "serve-favicon": "^2.4",
-    "serve-static": "^1.12"
+    "serve-static": "^1.12.4"
   },
   "repository": {
     "type": "git",
