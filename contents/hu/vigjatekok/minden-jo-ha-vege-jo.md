@@ -18,8 +18,6 @@ searchable:     true
 
 # Minden jó, ha vége jó
 
-Leírás...
-
 >   #### Szereplők
     
 >   Franciaország királya  

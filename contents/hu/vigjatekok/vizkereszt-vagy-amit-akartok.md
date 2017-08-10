@@ -18,8 +18,6 @@ searchable:     true
 
 # Vízkereszt, vagy amit akartok
 
-Leírás...
-
 >   #### Szereplők
     
 >   Orsino, _Illyria hercege_  

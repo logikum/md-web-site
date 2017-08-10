@@ -18,8 +18,6 @@ searchable:     true
 
 # III. Richárd
 
-Leírás...
-
 >   #### Szereplők
     
 >   IV. Edvárd király  

@@ -18,8 +18,6 @@ searchable:     true
 
 # VIII. Henrik
 
-Leírás...
-
 >   #### Szereplők
     
 >   VIII. Henrik király  

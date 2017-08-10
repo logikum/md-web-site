@@ -18,8 +18,6 @@ searchable:     true
 
 # Ahogy tetszik
 
-Leírás...
-
 >   #### Szereplők
     
 >   Az idősb herceg, _száműzött_  

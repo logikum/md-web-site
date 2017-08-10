@@ -18,8 +18,6 @@ searchable:     true
 
 # Julius Caesar
 
-Leírás...
-
 >   #### Szereplők
     
 >   Julius Caesar  

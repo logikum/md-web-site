@@ -18,8 +18,6 @@ searchable:     true
 
 # A makrancos hölgy
 
-Leírás...
-
 >   #### Szereplők
     
 >   _Gróf,_  

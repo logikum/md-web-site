@@ -18,8 +18,6 @@ searchable:     true
 
 # Téli rege
 
-Leírás...
-
 >   #### Szereplők
     
 >   Leontes, _Szicília királya_  

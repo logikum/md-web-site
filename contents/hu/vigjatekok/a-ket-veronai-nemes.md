@@ -18,8 +18,6 @@ searchable:     true
 
 # A két veronai nemes
 
-Leírás...
-
 >   #### Szereplők
     
 >   A milánói herceg, _Szilvia apja_  

@@ -18,8 +18,6 @@ searchable:     true
 
 # A velencei kalmár
 
-Leírás...
-
 >   #### Szereplők
     
 >   Velencei Doge  

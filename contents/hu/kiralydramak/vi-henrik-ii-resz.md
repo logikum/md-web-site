@@ -18,8 +18,6 @@ searchable:     true
 
 # VI. Henrik, II. rész
 
-Leírás...
-
 >   #### Szereplők
     
 >   VI. Henrik király  

@@ -2,7 +2,7 @@
 --- Search engine
 title:          Home Page
 keywords:       home page
-description:    Home page of William Shakespeare site.
+description:    The Importance of William Shakespeare.
 --- Menu system
 order:          
 text:           

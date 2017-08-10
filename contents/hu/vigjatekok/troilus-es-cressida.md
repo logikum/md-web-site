@@ -18,8 +18,6 @@ searchable:     true
 
 # Troilus és Cressida
 
-Leírás...
-
 >   #### Szereplők
     
 >   Priam, _Trója királya_  

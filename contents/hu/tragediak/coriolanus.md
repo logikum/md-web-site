@@ -18,8 +18,6 @@ searchable:     true
 
 # Coriolanus
 
-Leírás...
-
 >   #### Szereplők
     
 >   Cajus Marcius Coriolanus, _római nemes_  

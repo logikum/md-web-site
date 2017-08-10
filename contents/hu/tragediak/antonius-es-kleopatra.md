@@ -18,6 +18,7 @@ searchable:     true
 
 # Antonius és Kleopátra
 
+<!--
 Brutus és Cassius legyőzését követően, Julius Caesar meggyilkolását követően
 Mark Antony a római birodalom három uralkodójának egyike, Octavius Caesar és
 Lepidus mellett, és a birodalom keleti részéért felelős. Beleszeret Cleopatra-ba,
@@ -47,6 +48,7 @@ Kleopátra élete rettenetes. Miután elvesztette Antonyt, és Caesar irgalmass�
 áll, úgy dönt, hogy öngyilkosságot követ el. Valaki viszi neki néhány mérgező
 kígyót, és arra buzdítja őket, hogy harapják. Caesar közvetlenül a halála után
 érkezik, és megparancsolja, hogy a dömpingeket együtt temessék el.
+-->
 
 >   #### Szereplők
     

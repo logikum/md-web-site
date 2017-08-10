@@ -18,8 +18,6 @@ searchable:     true
 
 # Macbeth
 
-Leírás...
-
 >   #### Szereplők
     
 >   Duncan, _skót király_  

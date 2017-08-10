@@ -18,8 +18,6 @@ searchable:     true
 
 # A windsori víg nők
 
-Leírás...
-
 >   #### Szereplők
     
 >   Falstaff János _lovag_  

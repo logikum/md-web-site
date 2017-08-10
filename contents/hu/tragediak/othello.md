@@ -18,8 +18,6 @@ searchable:     true
 
 # Othello
 
-Leírás...
-
 >   #### Szereplők
     
 >   Velencei doge  

@@ -18,8 +18,6 @@ searchable:     true
 
 # V. Henrik
 
-Leírás...
-
 >   #### Szereplők
     
 >   V. Henrik Király  

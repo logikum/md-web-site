@@ -18,8 +18,6 @@ searchable:     true
 
 # Cymbeline
 
-Leírás...
-
 >   #### Szereplők
     
 >   Cymbeline, _Britannia királya_  

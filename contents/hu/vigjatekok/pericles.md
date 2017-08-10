@@ -18,8 +18,6 @@ searchable:     true
 
 # Pericles
 
-Leírás...
-
 >   #### Stereplők
     
 >   Antiochus, _Antiochia királya_  

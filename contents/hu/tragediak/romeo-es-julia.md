@@ -18,8 +18,6 @@ searchable:     true
 
 # Rómeó és Júlia
 
-Description...
-
 >   #### Szereplők
     
 >   Escalus, _fejedelem Veronában_  

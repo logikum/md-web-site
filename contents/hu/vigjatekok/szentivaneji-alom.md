@@ -18,8 +18,6 @@ searchable:     true
 
 # Szentivánéji álom
 
-Leírás...
-
 >   #### Szereplők
     
 >   Theseus, _Athéne ura_  

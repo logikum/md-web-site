@@ -18,8 +18,6 @@ searchable:     true
 
 # IV. Henrik, II. rész
 
-Leírás...
-
 >   #### Személyek
     
 >   IV. Henrik király  

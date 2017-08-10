@@ -18,8 +18,6 @@ searchable:     true
 
 # Szeget szeggel
 
-Leírás...
-
 >   #### Szereplők
     
 >   Vincentio, _Bécs hercege_  

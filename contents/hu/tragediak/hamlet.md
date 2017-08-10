@@ -18,8 +18,6 @@ searchable:     true
 
 # Hamlet
 
-Leírás...
-
 >   #### Szereplők
     
 >   Claudius, _Dánia királya_  

@@ -18,8 +18,6 @@ searchable:     true
 
 # Titus Andronicus
 
-Leírás...
-
 >   #### Szereplők
     
 >   Saturninus, _az előző római császár fia, később kikiáltott császár_  

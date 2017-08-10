@@ -18,8 +18,6 @@ searchable:     true
 
 # VI. Henrik, III. rész
 
-Leírás...
-
 >   #### Személyek
     
 >   VI. Henrik király  

@@ -18,8 +18,6 @@ searchable:     true
 
 # IV. Henrik, I. rész
 
-Description...
-
 >   #### Szereplők
     
 >   IV. Henrik király  

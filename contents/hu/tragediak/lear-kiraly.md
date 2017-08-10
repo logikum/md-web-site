@@ -18,8 +18,6 @@ searchable:     true
 
 # Lear király
 
-Leírás...
-
 >   #### Szereplők
     
 >   Lear, _Britannia királya_  

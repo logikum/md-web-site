@@ -18,8 +18,6 @@ searchable:     true
 
 # Tévedések vígjátéka
 
-Leírás...
-
 >   #### Szereplők
     
 >   Solinus, _Ephesus hercege_  

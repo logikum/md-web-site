@@ -18,8 +18,6 @@ searchable:     true
 
 # Sok hűhó semmiért
 
-Leírás...
-
 >   #### Szereplők
     
 >   Péter, _Aragon hercege_  

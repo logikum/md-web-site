@@ -18,8 +18,6 @@ searchable:     true
 
 # Athéni Timon
 
-Leírás...
-
 >   #### Szereplők
     
 >   Timon, _athéni nemes_  

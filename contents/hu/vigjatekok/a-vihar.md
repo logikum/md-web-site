@@ -18,8 +18,6 @@ searchable:     true
 
 # A vihar
 
-Leírás...
-
 >   #### Szereplők
     
 >   Alonzo, _Nápoly királya_  

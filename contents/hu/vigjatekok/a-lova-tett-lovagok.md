@@ -18,8 +18,6 @@ searchable:     true
 
 # A lóvá tett lovagok
 
-Leírás...
-
 >   #### Szereplők
     
 >   Ferdinand, _Navarra királya_  
