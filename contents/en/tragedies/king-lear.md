@@ -69,3 +69,29 @@ and wounds him mortally. Seeing no way out, Goneril kills herself. The dying
 Edmund confesses his crimes, but it is too late to save Cordelia from the
 hangman. Lear’s heart breaks as he carries the body of his beloved daughter in
 his arms, and Albany and Edgar are left to re-organise the kingdom.
+
+>   #### Characters
+    
+>   Lear, _king of Britain_  
+    King of France  
+    Duke of Burgundy  
+    Duke of Cornwall  
+    Duke of Albany  
+    Earl of Kent  
+    Earl of Gloucester  
+    Edgar, _son to Gloucester_  
+    Edmund, _bastard son to Gloucester_  
+    Curan, _a courtier_  
+    _Old man, tenant to Gloucester_  
+    _Doctor_  
+    _Fool_  
+    Oswald, _steward to Goneril_  
+    _A captain employed by Edmund_  
+    _Gentleman attendant on Cordelia_  
+    _A herald_  
+    _Servants to Cornwall_  
+    Goneril,  
+    Regan,  
+    Cordelia, _daughters to Lear_
+    
+>   _Knights of Lear’s train, captains, messengers, soldiers, and attendants._

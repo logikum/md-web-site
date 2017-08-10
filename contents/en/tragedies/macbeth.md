@@ -58,3 +58,34 @@ to a listening doctor. She kills herself as the final battle commences.
 Macduff challenges Macbeth who, on learning his adversary is the child of a
 Ceasarian birth, realises he is doomed. Macduff triumphs and brings the head of
 the traitor to Malcolm who declares peace and is crowned king.
+
+>   #### Character
+    
+>   Duncan, _king of Scotland_  
+    Malcolm,  
+    Donalbain, _his sons_  
+    Macbeth,  
+    Banquo, _generals of the king’s army_  
+    Macduff,  
+    Lennox,  
+    Ross,  
+    Menteith,  
+    Angus,  
+    Caithness, _noblemen of Scotland_  
+    Fleance, _son to Banquo_  
+    Siward, _Earl of Northumberland, general of the English forces_  
+    Young Siward, _his son_  
+    Seyton, _an officer attending on Macbeth_  
+    _Boy, son to Macduff_  
+    _An English doctor_  
+    _A Scotch doctor_  
+    _A soldier_  
+    _A porter_  
+    _An old man_  
+    Lady Macbeth  
+    Lady Macduff, _gentlewoman attending on Lady Macbeth_  
+    Hecate  
+    _Three witches_  
+    
+>   _Apparitions.  
+    Lords, gentlemen, officers, soldiers, murderers, attendants, and messengers._

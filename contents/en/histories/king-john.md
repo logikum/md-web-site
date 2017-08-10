@@ -39,30 +39,30 @@ return to John. The French King comes to terms with John through Pandulph but
 John is not there to see that as he is poisoned by a monk while he is staying at
 Swinstead Abbey. He is succeeded by his son, King Henry III.
 
-#### Dramatis personae
+>   #### Characters
 
-KING JOHN  
-PRINCE HENRY, son to the king.  
-ARTHUR, Duke of Bretagne, nephew to the king.  
-The Earl of PEMBROKE  
-The Earl of ESSEX  
-The Earl of SALISBURY  
-The Lord BIGOT  
-HUBERT DE BURGH  
-ROBERT FAULCONBRIDGE, Son to Sir Robert Faulconbridge.  
-PHILIP the BASTARD, his half-brother.  
-JAMES GURNEY, servant to Lady Faulconbridge.  
-PETER Of Pomfret, a prophet.  
-PHILIP, King of France.  
-LEWIS, the Dauphin.  
-LYMOGES, Duke of AUSTRIA.  
-CARDINAL PANDULPH, the Pope’s legate.  
-MELUN, a French Lord.  
-CHATILLON, ambassador from France to King John.  
-QUEEN ELINOR, mother to King John.  
-CONSTANCE, mother to Arthur.  
-BLANCH of Spain, niece to King John.  
-LADY FAULCONBRIDGE
-
-Lords, citizens of Angiers, sheriff, heralds, officers, 
-soldiers, messengers, and other attendants. 
+>   King John  
+    Prince Henry, _son to the king_  
+    Arthur, _duke of Bretagne, nephew to the king_  
+    The Earl of Pembroke  
+    The Earl of Essex  
+    The Earl of Salisbury  
+    The Lord Bigot  
+    Hubert de Burgh  
+    Robert Faulconbridge, _son to Sir Robert Faulconbridge_  
+    Philip the Bastard, _his half-brother_  
+    James Gurney, _servant to Lady Faulconbridge_  
+    Peter of Pomfret, _a prophet_  
+    Philip, _king of France_  
+    Lewis, _the dauphin_  
+    Lymoges, _duke of Austria._  
+    Cardinal Pandulph, _the Pope’s legate_  
+    Melun, _a French lord_  
+    Chatillon, _ambassador from France to King John_  
+    Queen Elinor, _mother to King John_  
+    Constance, _mother to Arthur_  
+    Blanch of Spain, _niece to King John_  
+    Lady Faulconbridge
+    
+>   _Lords, citizens of Angiers, sheriff, heralds, officers, 
+    soldiers, messengers, and other attendants._ 

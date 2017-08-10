@@ -59,3 +59,36 @@ drugged sleep. She learns what has happened from Friar Lawrence but she refuses
 to leave the tomb and stabs herself as the Friar returns with the Prince, the
 Capulets and Romeo’s father. The deaths of their children lead the families to
 make peace, promising to erect a monument in their memory.
+
+>   #### Characters
+    
+>   Escalus, _prince of Verona_  
+    Paris, _a young nobleman, kinsman to the prince_  
+    Montague,  
+    Capulet, _heads of two houses at variance with each other_  
+    _An old man, cousin to Capulet_  
+    Romeo, _son to Montague_  
+    Mercutio, _kinsman to the prince, and friend to Romeo_  
+    Benvolio, _nephew to Montague, and friend to Romeo_  
+    Tybalt, _nephew to Lady Capulet_  
+    Friar Laurence,  
+    Friar John, _Franciscans_  
+    Balthasar, _servant to Romeo_  
+    Sampson,  
+    Gregory, _servants to Capulet_  
+    Peter, _servant to Juliet’s nurse_  
+    Abraham, _servant to Montague_  
+    _An apothecary_  
+    _Three musicians_  
+    _Page to Paris_  
+    _Another page_  
+    _An officer_  
+    Lady Montague, _wife to Montague_  
+    Lady Capulet, _wife to Capulet_  
+    Juliet, _daughter to Capulet_  
+    _Nurse to Juliet_
+    
+>   _Citizens of Verona; several men and women, relations to both houses;  
+    maskers, guards, watchmen, and attendants._
+    
+>   _Chorus._

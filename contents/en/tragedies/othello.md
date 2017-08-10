@@ -56,3 +56,22 @@ and others enter, and Emilia defends Desdemona’s innocence, recognizing that
 Iago is behind the tragedy.Othello sees the truth and tries to kill Iago. Iago
 kills Emilia and flees; Othellocondemns himself and commits suicide. Iago is
 seized and taken away.
+
+>   #### Characters
+    
+>   Duke of Venice  
+    Brabantio, _a senator_  
+    _Other senators_  
+    Gratiano, _brother to Brabantio_  
+    Lodovico, _kinsman to Brabantio_  
+    Othello, _a noble Moor in the service of the Venetian state_  
+    Cassio, _his lieutenant_  
+    Iago, _his ancient_  
+    Roderigo, _a Venetian gentleman_  
+    Montano, _Othello’s predecessor in the government of Cyprus_  
+    _Clown, servant to Othello_  
+    Desdemona, _daughter to Brabantio and wife to Othello_  
+    Emilia, _wife to Iago_  
+    Bianca, _mistress to Cassio_
+    
+>   _Sailor, messenger, herald, officers, gentlemen, musicians, and attendants._

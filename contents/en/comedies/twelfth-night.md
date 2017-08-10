@@ -55,3 +55,22 @@ success of their device against the steward.
 The play ends as Orsino welcomes Olivia and Sebastian and, realising his own
 attraction to Cesario, he promises that once she is dressed as a woman again
 they, too, will be married.
+
+>   #### Characters
+    
+>   Orsino, _Duke of Illyria_  
+    Sebastian, _brother to Viola_  
+    Antonio, _a sea captain, friend to Sebastian_  
+    _A sea captain, friend to Viola_  
+    Valentine,  
+    Curio, _gentlemen attending on the Duke_  
+    Sir Toby Belch, _uncle to Olivia_  
+    Sir Andrew Aguecheek
+    Malvolio, _steward to Olivia_  
+    Fabian,  
+    Feste, _a clown, servants to Olivia_  
+    Olivia  
+    Viola  
+    Maria, _Olivia’s woman_
+    
+>   _Lords, priests, sailors, officers, musicians, and other attendants._

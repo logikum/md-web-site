@@ -35,3 +35,46 @@ intends to control the king through Margaret. Ill feeling between him and the
 Duke of Gloucester continues to grow.
 
 <!--This play ends without a resolution, and is-->
+
+>   #### Characters
+    
+>   King Henry, the Sixth  
+    Duke of Gloucester, _uncle to the king, and Protector_  
+    Duke of Bedford, _uncle to the king, and Regent of France_  
+    Thomas Beaufort, _Duke of Exeter, great-uncle to the king_  
+    Henry Beaufort, _great-uncle to the king, bishop of Winchester, and afterwards cardinal_  
+    John Beaufort, _Earl, afterwards Duke, of Somerset_  
+    Richard Plantagenet, _son of Richard late Earl of Cambridge, afterwards Duke of York_  
+    Earl of Warwick  
+    Earl of Salisbury  
+    Earl of Suffolk  
+    Lord Talbot, _afterwards Earl of Shrewsbury_  
+    John Talbot, _Lord Talbot’s son_  
+    Edmund Mortimer, _Earl of March_  
+    Sir John Fastolfe  
+    Sir William Lucy
+    Sir William Glansdale  
+    Sir Thomas Gargrave  
+    _Mayor of London_ Woodvile, _lieutenant of the Tower_  
+    Vernon, _of the White-Rose or York faction_  
+    Basset, _of the Red-Rose or Lancaster faction_  
+    A lawyer  
+    Mortimer’s keepers  
+    Charles, _Dauphin, and afterwards King of France_  
+    Reignier, _Duke of Anjou, and titular King of Naples_  
+    Duke of Burgundy  
+    Duke of Alencon  
+    Bastard of Orleans  
+    Governor of Paris  
+    Master-Gunner of Orleans, and his son  
+    General of the French forces in Bourdeaux  
+    A French sergeant  
+    A porter  
+    An old shepherd, _father to Joan la Pucelle_  
+    Margaret, _daughter to Reignier, afterwards married to King Henry_  
+    Countess of Auvergne  
+    Joan la Pucelle, _commonly called Joan of Arc_  
+    
+>   _Lords, warders of the Tower, heralds, officers, soldiers, messengers, and attendants._
+    
+>   _Fiends appearing to La Pucelle._

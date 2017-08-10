@@ -58,3 +58,42 @@ Cassius’s body, commits suicide as the only honourable action left to him.
 Antony, triumphant on the battlefield, praises Brutus as ‘the noblest Roman of
 them all’, and orders a formal funeral before he and Octavius return to rule in
 Rome.
+
+>   #### Characters
+    
+>   Julius Caesar  
+    Octavius Caesar,  
+    Marcus Antonius,  
+    M. Aemilius Lepidus, _triumvirs after death of Julius Caesar_  
+    Cicero,  
+    Publius,  
+    Popilius Lena, _senators_  
+    Marcus brutus,  
+    Cassius,  
+    Casca,  
+    Trebonius,  
+    Ligarius,  
+    Decius Brutus,  
+    Metellus Cimber, _conspirators against Julius Caesar_  
+    Flavius,  
+    Marullus, _tribunes_  
+    Artemidorus of Cnidos, _a teacher of rhetoric_  
+    _A soothsayer_  
+    Cinna, _a poet_  
+    _Another poet_  
+    Lucilius,  
+    Titinius,  
+    Messala,  
+    Young Cato,  
+    Volumnius, _friends to Brutus and Cassius_  
+    Varro,  
+    Clitus,  
+    Claudius,  
+    Strato,  
+    Lucius,  
+    Dardanius, _servants to Brutus_  
+    Pindarus, _servant to Cassius_  
+    CALPURNIA, _wife to Caesar_  
+    Portia, _wife to Brutus_
+    
+>   _Senators, citizens, guards, attendants, &c._

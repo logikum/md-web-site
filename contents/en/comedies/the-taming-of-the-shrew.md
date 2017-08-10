@@ -50,3 +50,32 @@ Nevertheless, Baptista holds a wedding feast for both his daughters. As the men
 relax after their meal Petruchio devises a competition to prove whose wife is
 the most obedient. Bianca and the widow fail to come to their husbands when
 called while Kate lectures the women on the duties of a wife.
+
+>   #### Characters
+    
+>   _A Lord_  
+    Christopher Sly, _a tinker_  
+    _Hostess, page, players, huntsmen, and servants, persons in the Induction._
+
+>   Baptista, _a rich gentleman of Padua_  
+    Vincentio, _an old gentleman of Pisa_  
+    Lucentio, _son to Vincentio, in love with Bianca_  
+    Petruchio, _a gentleman of Verona, a suitor to Katharina_  
+    Gremio,  
+    Hortensio, _suitors to Bianca_  
+    Tranio,  
+    Biondello, _servants to Lucentio_  
+    Grumio,  
+    Curtis,  
+    Nathaniel,  
+    Nicholas, _servants to Petruchio_  
+    Joseph  
+    Philip  
+    Peter  
+    _A pedant_  
+    Katharina _the shrew,_  
+    Bianca, _daughters to Baptista_  
+    _Widow_  
+    _Tailor,_  
+    _Haberdasher,_  
+    _and servants attending on Baptista and Petruchio._

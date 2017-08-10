@@ -49,3 +49,46 @@ the throne by murdering King Henry VI who is a captive in the Tower of London.
 Henry prophesies Richard’s career of villainy and his future notoriety. However,
 King Edward’s wife has just given birth to a son, the future King, Edward V of
 England, and the play ends here.
+
+>    #### Characters
+    
+>   King Henry, the Sixth  
+    Edward, _Prince of Wales, his son_  
+    King Lewis XI, _King of France_  
+    Duke of Somerset  
+    Duke of Exeter  
+    Earl of Oxford  
+    Earl of Northumberland  
+    Earl of Westmoreland  
+    Lord Clifford  
+    Richard Plantagenet, _Duke of York_  
+    Edward, _Earl of March, afterwards King Edward IV,_  
+    Edmund, _Earl of Rutland,_  
+    George, _afterwards Duke of Clarence,_  
+    Richard, _afterwards Duke of Gloucester, his sons_  
+    Duke of Norfolk  
+    Marquess of Montague  
+    Earl of Warwick  
+    Earl of Pembroke  
+    Lord Hastings  
+    Lord Stafford  
+    Sir John Mortimer,  
+    Sir Hugh Mortimer, _uncles to the Duke of York_  
+    Henry, _Earl of Richmond, a youth_  
+    Lord Rivers, _brother to Lady Grey_  
+    Sir William Stanley  
+    Sir John Montgomery  
+    Sir John Somerville  
+    _Tutor to Rutland_  
+    _Mayor of York_  
+    _Lieutenant of the Tower_  
+    _A nobleman_  
+    _Two keepers_  
+    _A huntsman_  
+    _A son that has killed his father_  
+    _A father that has killed his son_  
+    Queen Margaret  
+    Lady Grey, _afterwards queen to Edward IV._  
+    Bona, _sister to the French queen_ 
+    
+>   _Soldiers, attendants, messengers, watchmen, &c._

@@ -49,3 +49,37 @@ The senators then hand Alcibiades’ enemies over to him, as well as Timon’s
 former companions. Alcibiades then agrees to withdraw and promises peace in
 Athens. This is a victory for Timon but just at that point a soldier enters and
 informs them that Timon has died, all alone, in his cave.
+
+>   #### Characters
+    
+>   Timon, of Athens_  
+    Lucius,  
+    Lucullus,  
+    Sempronius, _flattering lords_  
+    Ventidius, _one of Timon’s false friends_  
+    Alcibiades, _an Athenian captain_  
+    Apemantus, _a churlish philosopher_  
+    Flavius, _steward to Timon_  
+    _Poet,  
+    Painter,  
+    Jeweller, and  
+    Merchant._  
+    _An old Athenian_  
+    Flaminius,  
+    Lucilius,  
+    Servilius, _servants to Timon_  
+    Caphis  
+    Philotus,  
+    Titus,  
+    Lucius,  
+    Hortensius, _servants to Timon’s creditors_  
+    _And others_  
+    _A page_  
+    _A fool_  
+    _Three strangers_  
+    Phrynia  
+    Timandra, _mistresses to Alcibiades_  
+    Cupid _and_  
+    _Amazons in the mask_
+    
+>   _Other Lords, senators, officers, soldiers, banditti, and attendants._

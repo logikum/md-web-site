@@ -48,3 +48,26 @@ for being an oath-breaker, she will consider his marriage proposal. The other
 women in the embassy tell their respective suitors that if they also do that
 penance they will return in a year and decide whether their lovers have been
 faithful before agreeing to marry them.
+
+>   #### Characters
+    
+>   Ferdinand, _King of Navarre_  
+    Biron,  
+    Longaville,  
+    Dumain, _lords attending on the King_  
+    Boyet,  
+    Mercade, _lords attending on the Princess of France_  
+    Don Adriano de Armado, _a fantastical Spaniard_  
+    Sir Nathaniel, _a curate_  
+    Holofernes, _a schoolmaster_  
+    Dull, _a constable_  
+    Costard, _a clown_  
+    Moth, _page to Armado_  
+    _A forester_  
+    The Princess of France  
+    Rosaline,  
+    MariA,  
+    Katharine, _ladies attending on the Princess_  
+    Jaquenetta, _a country wench_
+    
+>   _Lords, attendants, &c._

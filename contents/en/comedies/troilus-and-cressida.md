@@ -51,3 +51,36 @@ Achilles succeeds in trapping the great champion and Hector, unarmed, is
 slaughtered by Achilles’ troop of thuggish soldiers, the Myrmidons. Troilus
 swears revenge for his brother’s death, and mourns the end of his innocence with
 the loss of his beloved Cressida.
+
+>   #### Characters
+    
+>   Priam, _king of Troy_  
+    Hector,  
+    Troilus,  
+    Paris,  
+    Deiphobus,  
+    Helenus, _his sons_  
+    Margarelon, _a bastard son of Priam_  
+    Aeneas,  
+    Antenor, _Trojan commanders_  
+    Calchas, _a Trojan priest, taking part with the Greeks_  
+    Pandarus, _uncle to Cressida_  
+    Agamemnon, _the Grecian general_  
+    Menelaus, _his brother_  
+    Achilles,  
+    Ajax,  
+    Ulysses,  
+    Nestor,  
+    Diomedes,  
+    Patroclus, _Grecian princes_  
+    Thersites, _a deformed and scurrilous Grecian_  
+    Alexander, _servant to Cressida_  
+    _Servant to Troilus_  
+    _Servant to Paris_  
+    _Servant to Diomedes_  
+    Helen, _wife to Menelaus_  
+    Andromache, _wife to Hector_  
+    Cassandra, _daughter to Priam, a prophetess_  
+    Cressida, _daughter to Calchas_
+    
+>   _Trojan and Greek soldiers, and attendants._

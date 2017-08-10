@@ -61,3 +61,27 @@ dukedom. Miranda and Ferdinand are betrothed. Sailors arrive and announce that
 the ship hasn’t been wrecked after all, and is safely anchored off the island.
 Ariel is set free. Caliban and the drunken servants are also forgiven. There is
 a final celebration of their reunion.
+
+>   #### Charcters
+    
+>   Alonso, _King of Naples_  
+    Sebastian, _his brother_  
+    Prospero, _the right Duke of Milan_  
+    Antonio, _his brother, the usurping Duke of Milan_  
+    Ferdinand, _son to the King of Naples_  
+    Gonzalo, _an honest old counsellor_  
+    Adrian,  
+    Francisco, _Lords_  
+    Caliban, _a savage and deformed slave_  
+    Trinculo, _a jester_  
+    Stephano, _a drunken butler_  
+    _Master of a ship_  
+    _Boatswain_  
+    _Mariners_  
+    Miranda, _daughter to Prospero_  
+    Ariel, _an airy spirit_  
+    Iris,  
+    Ceres,  
+    Juno, _spirits_
+    
+>   _Nymphs, reapers, presented by spirits. Other spirits attending on Prospero._

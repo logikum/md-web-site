@@ -55,3 +55,30 @@ reunion. Lysismachus proposes to Marina and she accepts him. Pericles then has a
 dream in which he is instructed to go to Ephesus. He takes Marina with him. When
 they arrive they meets Thaisa, who is now the head priestess of Diana, and the
 family is happily reunited.
+
+>   #### Characters
+    
+>   Antiochus, _king of Antioch_  
+    Pericles, _prince of Tyre_  
+    Helicanus,  
+    Escanes, _two lords of Tyre_  
+    Simonides, _king of Pentapolis_  
+    Cleon, _governor of Tarsus_  
+    Lysimachus, _governor of Mytilene_  
+    Cerimon, _a lord of Ephesus_  
+    Thaliard, _a lord of Antioch_  
+    Philemon, _servant to Cerimon_  
+    Leonine, _servant to Dionyza_  
+    _Marshal_  
+    _A pandar_    
+    Boult, _his servant_  
+    _The daughter of Antiochus_  
+    Dionyza, _wife to Cleon_  
+    Thaisa, _daughter to Simonides_  
+    Marina, _daughter to Pericles and Thaisa_  
+    Lychorida, _nurse to Marina_  
+    _A bawd_  
+    Diana,  
+    Gower, _as Chorus_
+    
+>   _Lords, knights, gentlemen, sailors, pirates, fishermen, and messengers._

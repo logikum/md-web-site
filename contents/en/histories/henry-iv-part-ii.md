@@ -50,3 +50,51 @@ attend the coronation, expecting to be given high office, but the king denies
 knowing him and banishes him, commanding him to come no nearer than ten miles of
 his court. The play ends with Falstaff left hurt and hoping that the king will
 change his mind, while the King Henry plans a war against France.
+
+>   #### Characters
+    
+>   Rumour, _the Presenter_  
+    King Henry, the Fourth  
+    Prince Henry of Wales, _afterwards King Henry V.,_  
+    Thomas, _Duke of Clarence,_  
+    Prince Humphrey of Gloucester, _sons of King Henry_  
+    Earl of Warwick  
+    Earl of Westmoreland  
+    Earl of Surrey  
+    Gower  
+    Harcourt  
+    Blunt  
+    Lord Chief-Justice of the King’s Bench  
+    A aervant of the Chief-Justice  
+    Earl of Northumberland  
+    Scroop, _archbishop of York  
+    Lord Mowbray  
+    Lord Hastings  
+    Lord Bardolph  
+    Sir John Colevile  
+    Travers,  
+    Morton, _retainers of Northumberland_  
+    Sir John Falstaff  
+    His page  
+    Bardolph  
+    Pistol  
+    Poins  
+    Peto  
+    Shallow,  
+    Silence, _country justices_  
+    Davy, _servant to Shallow_  
+    Mouldy,  
+    Shadow,  
+    Wart,  
+    Feeble,  
+    Bullcalf, _recruits_  
+    Fang,  
+    Snare, _sheriff’s officers_  
+    Lady Northumberland  
+    Lady Percy  
+    Mistress Quickly, _hostess of a tavern in Eastcheap_  
+    Doll Tearsheet  
+    
+>   _Lords and attendants; porter, drawers, beadles, grooms, &c._
+    
+>   _A dancer, speaker of the epilogue._

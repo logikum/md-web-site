@@ -50,6 +50,30 @@ a, a:visited {
 mark {
     background-color: #B2FFFF;
 }
+/* Characters */
+blockquote {
+    background-color: #fff3fe;
+    border: solid 10px #ffc0cb;
+    font-size: 1em;
+    margin: 20px;
+    padding: 0 0 1em 0;
+}
+blockquote h4 {
+    background-color: #ffc0cb;
+    color: #283b5e;
+    margin: 0 0 1em 0;
+    padding: 5px 20px 15px 20px;
+}
+blockquote p {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0 0 1em 0;
+    padding: 0 20px 0 20px;
+}
+blockquote p em {
+    font-weight: normal;
+}
 /* Search page */
 .search-phrase {
     margin-bottom: 20px;

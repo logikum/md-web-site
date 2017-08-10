@@ -52,3 +52,26 @@ been killed by his slander. The ‘niece’ turns out to be Hero, and as the lov
 are reunited Benedick and Beatrice announce that they will share the wedding day.
 Don John has been captured while trying to escape and is left for future trial
 while the play ends with a merry dance.
+
+>   #### Characters
+    
+>   Don Pedro, _prince of Arragon_  
+    Don John, _his bastard brother_  
+    Claudio, _a young lord of Florence_  
+    Benedick, _a young lord of Padua_  
+    Leonato, _governor of Messina_  
+    Antonio, _his brother_  
+    Balthasar, _attendant on Don Pedro_  
+    Conrade,  
+    Borachio, _followers of Don John_  
+    Friar Francis  
+    Dogberry, _a constable_  
+    Verges, _a headborough_  
+    _A sexton_  
+    _A boy_  
+    Hero, _daughter to Leonato_  
+    Beatrice, _niece to Leonato_  
+    Margaret,  
+    Ursula, _gentlewomen attending on Hero_
+    
+>   _Messengers, watch, attendants, &c._

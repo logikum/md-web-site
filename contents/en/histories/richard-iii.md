@@ -41,3 +41,49 @@ makes war on Richard. They meet at Bosworth. On the eve of the battle Richard is
 haunted by the ghosts of his victims. He is killed in the battle and Henry Tudor
 succeeds him, becoming Henry VII of England. The play ends with him planning to
 marry Elizabeth of York and end the Wars of the Roses.
+
+>   #### Characters
+    
+>   King Edward, the Fourth  
+    Edward, _Prince of Wales, afterwards King Edward V.,_  
+    Richard, _Duke of York, sons to the king_  
+    George, _Duke of Clarence,_  
+    Richard, _Duke of Gloucester, afterwards King Richard III., brothers to the king_  
+    A young son of Clarence  
+    Henry, _Earl of Richmond, afterwards King Henry VII._  
+    Cardinal Bourchier, _archbishop of Canterbury_  
+    Thomas Rotherham, _archbishop of York_  
+    John Morton, _bishop of Ely_  
+    Duke of Buckingham  
+    Duke of Norfolk  
+    Earl of Surrey, _his son_  
+    Earl Rivers, _brother to Elizabeth_  
+    Marquis of Dorset  
+    Lord Grey, _sons to Elizabeth_  
+    Earl of Oxford  
+    Lord Hastings  
+    Lord Stanley, _clled also Earl of Derby_  
+    Lord Lovel  
+    Sir Thomas Vaughan  
+    Sir Richard Ratcliff  
+    Sir William Catesby  
+    Sir James Tyrrel  
+    Sir James Blount  
+    Sir Walter Herbert  
+    Sir Robert Brakenbury, _lieutenant of the Tower_  
+    Christopher Urswick  
+    _A priest_  
+    _Another priest_  
+    Tressel,  
+    Berkeley, _gentlemen attending on the Lady Anne_  
+    _Lord Mayor of London_  
+    _Sheriff of Wiltshire_  
+    Elizabeth, _queen to King Edward IV._  
+    Margaret, _widow of King Henry VI._  
+    Duchess of York, _mother to King Edward IV._  
+    Lady Anne, _widow of Edward Prince of Wales, son to King Henry VI.; afterwards married to Richard_  
+    _A young daughter of Clarence (Margaret Plantagenet)_  
+    _Ghosts of those murdered by Richard III._
+    
+>   _Lords and other attendants; a pursuivant scrivener, citizens, murderers,
+    messengers, soldiers, &c._

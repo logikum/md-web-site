@@ -62,3 +62,29 @@ The two women tell their story and Angelo is exposed in public. He is forced to
 marry Marianna. Claudio and Juliet are reunited.
 
 The play ends with the Duke proposing to Isabella.
+
+>   #### Characters
+    
+>   Vincentio, _the Duke_  
+    Angelo, _deputy_  
+    Escalus, _an ancient Lord_  
+    Claudio, _a young gentleman_  
+    Lucio, _a fantastic_  
+    _Two other gentlemen_  
+    _Provost_  
+    Peter,  
+    Thomas, _two friars_  
+    _A justice_  
+    Varrius  
+    Elbow, _a simple constable_  
+    Froth, _a foolish gentleman_  
+    Pompey, _servant to Mistress Overdone_  
+    Abhorson, _an executioner_  
+    Barnardine, _a dissolute prisoner_  
+    Isabella, _sister to Claudio_  
+    Mariana, _betrothed to Angelo_  
+    Juliet, _beloved of Claudio_  
+    Francisca, _a nun_  
+    Mistress Overdone, _a bawd_
+    
+>   _Lords, officers, citizens, boy, and attendant._

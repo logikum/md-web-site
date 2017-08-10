@@ -36,3 +36,50 @@ French are defeated, with heavy losses, whereas the English losses are light.
 Henry returns to London in triumph before making peace with the French king.
 Henry woos the French Princess Katherine and their marriage links England and
 France.
+
+>   #### Characters
+    
+>   King Henry, the Fifth  
+    Duke of Gloucester,  
+    Duke of Bedford, _brothers to the king_  
+    Duke of Exeter, _uncle to the king_  
+    Duke of York, _cousin to the king_  
+    Earl of Salisbury  
+    Earl of Westmoreland  
+    Earl of Warwick  
+    Bishop of Canterbury  
+    Bishop of Ely  
+    Earl of Cambridge  
+    Lord Scroop  
+    Sir Thomas Grey  
+    Sir Thomas Erpingham  
+    Gower,  
+    Fluellen,  
+    Macmorris,  
+    Jamy, _officers in King Henry’s army_  
+    Bates,  
+    Court,  
+    Williams, _soldiers in the same_  
+    Pistol  
+    Nym  
+    Bardolph  
+    _Boy_  
+    _A herald_  
+    Charles, the Sixth, _king of France_  
+    Lewis, _the Dauphin_  
+    Duke of Burgundy  
+    Duke of Orleans  
+    Duke of Bourbon    
+    The Constable of France  
+    Rambures, 
+    Grandpre, _French lords_  
+    _Governor of Harfleur_  
+    Montjoy, _a French herald_  
+    _Ambassadors to the king of England_  
+    Isabel, _queen of France_  
+    Katharine, _daughter to Charles and Isabel_  
+    Alice, _a lady attending on her_
+    
+>   _Hostess of a tavern in Eastcheap formerly Mistress Quickly, and now married to Pistol._
+    
+>   _Lords, Ladies, officers, soldiers, citizens, messengers, and attendants. Chorus._

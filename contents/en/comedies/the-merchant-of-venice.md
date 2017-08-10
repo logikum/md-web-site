@@ -59,3 +59,29 @@ to his disinherited daughter, Jessica. Shylock must also convert to Christianity
 A broken Shylock accepts. News arrives that Antonio’s remaining ships have
 returned safely. With the exception of Shylock, all celebrate a happy ending to
 the affair.
+
+>   #### Characters
+    
+>   The Duke of Venice  
+    The Prince of Morocco, _suitors to Portia_  
+    The PRINCE OF Arragon  
+    Antonio, _a merchant of Venice_  
+    Bassanio, _his friend, suitor likewise to Portia_  
+    Salanio,  
+    Salarino,  
+    Gratiano, _friends to Antonio and Bassanio_  
+    Salerio  
+    Lorenzo, _in love with Jessica_  
+    Shylock, _a rich Jew_  
+    Tubal, _a Jew, his friend_  
+    Launcelot Gobbo, _the clown, servant to Shylock_  
+    Old Gobbo, _father to Launcelot_  
+    Leonardo, _servant to Bassanio_  
+    Balthasar,  
+    Stephano, _servants to Portia_  
+    Portia, _a rich heiress_  
+    Nerissa, _her waiting-maid_  
+    Jessica, _daughter to Shylock_
+    
+>   _Magnificoes of Venice, officers of the Court of Justice,
+    gaoler, servants to Portia, and other attendants._

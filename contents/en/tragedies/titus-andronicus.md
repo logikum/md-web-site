@@ -90,3 +90,34 @@ and Tamora. He kills Lavinia to put her out of her misery, then kills Tamora.
 Saturninus kills Titus in retaliation, and Lucius kills Saturninus. Lucius takes
 command of Rome as the new emperor. Lucius orders Aaron to be buried up to his
 chest and starved to death.
+
+>   #### Characters
+    
+>   Titus Andronicus, _renowned Roman general_  
+    Lucius, _Titus' eldest son_  
+    Quintus,  
+    Martius,  
+    Mutius, _Titus's sons_  
+    Young Lucius, _Lucius's son and Titus's grandson_  
+    Lavinia, _Titus's daughter_  
+    Marcus Andronicus, _Titus's brother and tribune to the people of Rome_  
+    Publius, _Marcus's son_  
+    Saturninus, _son of the late Emperor of Rome; afterwards declared Emperor_  
+    Bassianus, _Saturninus's brother; in love with Lavinia_  
+    Sempronius,  
+    Caius _and_  
+    Valentine, _Titus's kinsman_  
+    Æmilius, _Roman noble_  
+    Tamora, _queen of the Goths; afterwards Empress of Rome_  
+    Demetrius,  
+    Chiron,  
+    Alarbus, _Tamora's sons (non-speaking role)_  
+    Aaron, _a Moor; involved in a sexual relationship with Tamora_  
+    _Nurse_  
+    _Clown_  
+    _Messenger_  
+    _Roman captain_  
+    _First Goth_  
+    _Second Goth_
+    
+>   _Senators, tribunes, soldiers, plebeians, Goths etc._
