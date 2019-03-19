@@ -19,7 +19,7 @@ searchable:     true
 # Névjegy
 
 <div class="text-center">
-![About this site](/images/theatre-masks.png)
+  <img src="/images/theatre-masks.png" title="Névjegy">
 </div>
 
 <p>&nbsp;</p>
