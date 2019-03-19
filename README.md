@@ -3,4 +3,4 @@
 A demonstration site for the
 [md-site-engine](https://github.com/logikum/md-site-engine) module.
 
-See online at [md-doc.logikum.hu](https://md-doc.logikum.hu)
+See online at [md-web.logikum.hu](https://md-web.logikum.hu)
