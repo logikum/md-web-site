@@ -1,6 +1,6 @@
 {
   "name": "md-web-site",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Demo web site built from markdown texts.",
   "keywords": [
     "markdown",
@@ -30,5 +30,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "homepage": "https://md-doc.logikum.hu"
+  "homepage": "https://md-web.logikum.hu"
 }
