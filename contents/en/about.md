@@ -19,7 +19,7 @@ searchable:     true
 # About
 
 <div class="text-center">
-![About this site](/images/theatre-masks.png)
+  <img src="/images/theatre-masks.png" title="About this site">
 </div>
 
 <p>&nbsp;</p>

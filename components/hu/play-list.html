@@ -1,0 +1,29 @@
+<div class="xpanel-group" id="accordion">
+  <div class="panel panel-play-list">
+    <h4>
+      <a data-toggle="collapse" data-parent="#accordion" href="#tragedies">
+      Tragédiák</a>
+    </h4>
+    <div id="tragedies" class="panel-collapse collapse {{ #in-tragedies }}">
+      {{ =pl-tragedies }}
+    </div>
+  </div>
+  <div class="panel panel-play-list">
+    <h4>
+      <a data-toggle="collapse" data-parent="#accordion" href="#histories">
+      Királydrámák</a>
+    </h4>
+    <div id="histories" class="panel-collapse collapse {{ #in-histories }}">
+      {{ =pl-histories }}
+    </div>
+  </div>
+  <div class="panel panel-play-list">
+    <h4>
+      <a data-toggle="collapse" data-parent="#accordion" href="#comedies">
+      Vígjátékok</a>
+    </h4>
+    <div id="comedies" class="panel-collapse collapse {{ #in-comedies }}">
+      {{ =pl-comedies }}
+    </div>
+  </div>
+</div>
