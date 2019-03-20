@@ -19,13 +19,13 @@ searchable:     true
 # A makrancos hölgy
 
 >   #### Szereplők
-    
+>   
 >   _Gróf,_  
     Ravaszdi Kristóf, _üstfoldozó_  
     _Csaplárné_  
     _Apród_  
     _Szinészek, vadászok, szolgák, az előjáték személyei._
-    
+>   
 >   Baptista, _páduai gazdag nemes_  
     Vincentio, _pisai agg nemes_  
     Petruchio, _veronai ifjú_  

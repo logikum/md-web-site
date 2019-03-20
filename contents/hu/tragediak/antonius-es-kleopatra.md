@@ -51,7 +51,7 @@ kígyót, és arra buzdítja őket, hogy harapják. Caesar közvetlenül a halá
 -->
 
 >   #### Szereplők
-    
+>   
 >   Marcus Antonius,  
     Octavius Caesar,  
     M. Aemil Lepidus, _triumvirek_  
@@ -86,5 +86,5 @@ kígyót, és arra buzdítja őket, hogy harapják. Caesar közvetlenül a halá
     Octavia, _Caesar nővére, Antonius neje_  
     Charmian,  
     Iras, _Cleopatra szolgáló asszonyai_
-    
+>   
 >   _Tisztek, katonák, követek s más szolgák._

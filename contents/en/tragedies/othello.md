@@ -58,7 +58,7 @@ kills Emilia and flees; Othellocondemns himself and commits suicide. Iago is
 seized and taken away.
 
 >   #### Characters
-    
+>   
 >   Duke of Venice  
     Brabantio, _a senator_  
     _Other senators_  
@@ -73,5 +73,5 @@ seized and taken away.
     Desdemona, _daughter to Brabantio and wife to Othello_  
     Emilia, _wife to Iago_  
     Bianca, _mistress to Cassio_
-    
+>   
 >   _Sailor, messenger, herald, officers, gentlemen, musicians, and attendants._

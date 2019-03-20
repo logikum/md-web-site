@@ -47,7 +47,7 @@ agrees to make peace.
 Aufidius, filled with a sense of betrayal, kills Coriolanus.
 
 >   #### Characters
-    
+>   
 >   Caius Marcius, _afterwards_ Caius Marcius Coriolanus  
     Titus Lartius,  
     Cominius, _generals against the Volscians_  
@@ -65,6 +65,6 @@ Aufidius, filled with a sense of betrayal, kills Coriolanus.
     Virgilia, _wife to Coriolanus_  
     Valeria, _friend to Virgilia_  
     _Gentlewoman, attending on Virgilia_
-    
+>   
 >   _Roman and Volscian senators, patricians, aediles, lictors, soldiers,
     citizens, messengers, servants to Aufidius, and other attendants._

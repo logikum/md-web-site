@@ -43,7 +43,7 @@ succeeds him, becoming Henry VII of England. The play ends with him planning to
 marry Elizabeth of York and end the Wars of the Roses.
 
 >   #### Characters
-    
+>   
 >   King Edward, the Fourth  
     Edward, _Prince of Wales, afterwards King Edward V.,_  
     Richard, _Duke of York, sons to the king_  
@@ -84,6 +84,6 @@ marry Elizabeth of York and end the Wars of the Roses.
     Lady Anne, _widow of Edward Prince of Wales, son to King Henry VI.; afterwards married to Richard_  
     _A young daughter of Clarence (Margaret Plantagenet)_  
     _Ghosts of those murdered by Richard III._
-    
+>   
 >   _Lords and other attendants; a pursuivant scrivener, citizens, murderers,
     messengers, soldiers, &c._

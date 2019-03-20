@@ -38,7 +38,7 @@ Henry woos the French Princess Katherine and their marriage links England and
 France.
 
 >   #### Characters
-    
+>   
 >   King Henry, the Fifth  
     Duke of Gloucester,  
     Duke of Bedford, _brothers to the king_  
@@ -79,7 +79,7 @@ France.
     Isabel, _queen of France_  
     Katharine, _daughter to Charles and Isabel_  
     Alice, _a lady attending on her_
-    
+>   
 >   _Hostess of a tavern in Eastcheap formerly Mistress Quickly, and now married to Pistol._
-    
+>   
 >   _Lords, Ladies, officers, soldiers, citizens, messengers, and attendants. Chorus._

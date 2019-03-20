@@ -19,7 +19,7 @@ searchable:     true
 # VI. Henrik, III. rész
 
 >   #### Személyek
-    
+>   
 >   VI. Henrik király  
     Edvárd, _Wales hercege, fia_  
     XI. Lajos, _francia király_  
@@ -57,5 +57,5 @@ searchable:     true
     Margit, _királyné_  
     Grey lady, _később IV. Edvárd király neje_  
     Bona, _a francia királyné húga_
-    
+>   
 >   _Katonák, és Henrik és Edvárd királyok egyéb kisérői; hírnökök; őrök, stb._

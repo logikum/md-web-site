@@ -35,7 +35,7 @@ the characters reveal themselves, all the misunderstandings are resolved and the
 lovers are reunited.
 
 >   #### Characters
-    
+>   
 >   Cymbeline, _King of Britain_  
     Cloten, _son to the Queen by a former husband_  
     Posthumus Leonatus, _a gentleman, husband to Imogen_  
@@ -57,8 +57,8 @@ lovers are reunited.
     Queen, _wife to Cymbeline_  
     Imogen, _daughter to Cymbeline by a former queen_  
     Helen, _a lady attending on Imogen_
-    
+>   
 >   _Lords, ladies, Roman senators, tribunes, a soothsayer, a Dutchman, a Spaniard,
     musicians, officers, captains, soldiers, messengers, and other attendants._
-    
+>   
 >   _Apparitions._

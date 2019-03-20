@@ -66,7 +66,7 @@ his death throes, kills Claudius, and Horatio is left to explain the truth to
 the new king, Fortinbras, who returns, victorious, from the Polish wars.
 
 >   #### Characters
-    
+>   
 >   Claudius, _king of Denmark_  
     Hamlet, _son to the late, and nephew to the present king_  
     Polonius, _lord chamberlain_  
@@ -92,7 +92,7 @@ the new king, Fortinbras, who returns, victorious, from the Polish wars.
     _English ambassadors_  
     Gertrude, _queen of Denmark, and mother to Hamlet_  
     Ophelia, _daughter to Polonius_
-    
+>   
 >   _Lords, ladies, officers, soldiers, sailors, messengers, and other attendants._
-    
+>   
 >   _Ghost of Hamlet’s Father._

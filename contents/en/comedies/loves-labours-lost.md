@@ -50,7 +50,7 @@ penance they will return in a year and decide whether their lovers have been
 faithful before agreeing to marry them.
 
 >   #### Characters
-    
+>   
 >   Ferdinand, _King of Navarre_  
     Biron,  
     Longaville,  
@@ -69,5 +69,5 @@ faithful before agreeing to marry them.
     MariA,  
     Katharine, _ladies attending on the Princess_  
     Jaquenetta, _a country wench_
-    
+>   
 >   _Lords, attendants, &c._

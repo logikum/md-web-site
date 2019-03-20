@@ -19,7 +19,7 @@ searchable:     true
 # Téli rege
 
 >   #### Szereplők
-    
+>   
 >   Leontes, _Szicília királya_  
     Mamilius, _kis fia_  
     Camillo,  
@@ -43,6 +43,6 @@ searchable:     true
     Emilia, _a királyné kiséretében_  
     Mopsa,  
     Dorcas, _pásztorleányok_
-    
+>   
 >   _Urak, hölgyek, kiséret, satyrok, pásztorok, pásztornők, őrök stb._  
     _Idő, mint kar_

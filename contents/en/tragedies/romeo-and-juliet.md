@@ -61,7 +61,7 @@ Capulets and Romeo’s father. The deaths of their children lead the families to
 make peace, promising to erect a monument in their memory.
 
 >   #### Characters
-    
+>   
 >   Escalus, _prince of Verona_  
     Paris, _a young nobleman, kinsman to the prince_  
     Montague,  
@@ -87,8 +87,8 @@ make peace, promising to erect a monument in their memory.
     Lady Capulet, _wife to Capulet_  
     Juliet, _daughter to Capulet_  
     _Nurse to Juliet_
-    
+>   
 >   _Citizens of Verona; several men and women, relations to both houses;  
     maskers, guards, watchmen, and attendants._
-    
+>   
 >   _Chorus._

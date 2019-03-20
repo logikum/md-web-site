@@ -19,7 +19,7 @@ searchable:     true
 # Lear király
 
 >   #### Szereplők
-    
+>   
 >   Lear, _Britannia királya_  
     A francia király  
     A burgundi fejedelem  
@@ -41,6 +41,6 @@ searchable:     true
     Goneril,  
     Regan,  
     Cordelia, _Lear leányai_  
-    
+>   
 >   _Lovagok a király kíséretében.  
     Tisztek, követek, katonák és kísérők._

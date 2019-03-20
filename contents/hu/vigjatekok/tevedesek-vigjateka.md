@@ -19,7 +19,7 @@ searchable:     true
 # Tévedések vígjátéka
 
 >   #### Szereplők
-    
+>   
 >   Solinus, _Ephesus hercege_  
     Aegeon, _syracusi kalmár_  
     Ephesusi Antipholus,  
@@ -35,5 +35,5 @@ searchable:     true
     Luciána, _húga_  
     Luca, _Adriána szobalánya_  
     _Egy leány_
-    
+>   
 >   _Poroszló, tisztek, kísérők._

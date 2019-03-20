@@ -19,7 +19,7 @@ searchable:     true
 # VI. Henrik, II. rész
 
 >   #### Szereplők
-    
+>   
 >   VI. Henrik király  
     Humphrey, _Gloster herceg, nagybátyja_  
     Beaufort bibornok, _winchesteri püspök_  
@@ -60,6 +60,6 @@ searchable:     true
     Margit, _Henrik király neje_  
     Eleonora, _Gloster hercegnő_  
     Jourdain Margit, _boszorkány, Simpcox neje_  
-    
+>   
 >   _Urak, hölgyek, kiséret; hirnök; kérelmezők, aldermanek, poroszló,
     sheriff, hivatalnokok; polgárok, inasok, őrök, katonák, hírvivők, stb._

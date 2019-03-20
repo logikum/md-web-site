@@ -57,7 +57,7 @@ they arrive they meets Thaisa, who is now the head priestess of Diana, and the
 family is happily reunited.
 
 >   #### Characters
-    
+>   
 >   Antiochus, _king of Antioch_  
     Pericles, _prince of Tyre_  
     Helicanus,  
@@ -80,5 +80,5 @@ family is happily reunited.
     _A bawd_  
     Diana,  
     Gower, _as Chorus_
-    
+>   
 >   _Lords, knights, gentlemen, sailors, pirates, fishermen, and messengers._

@@ -46,7 +46,7 @@ Elizabeth, by Anne Bullen. Cranmer christens her and makes a speech foretelling
 a noble rule for Elizabeth and a glorious period of history during her reign.
 
 >   #### Characters
-    
+>   
 >   King Henry, the Eighth  
     Cardinal Wolsey  
     Cardinal Campeius  
@@ -83,9 +83,9 @@ a noble rule for Elizabeth and a glorious period of history during her reign.
     Anne Bullen, _her maid of Honour, afterwards queen_  
     _An old lady, friend to Anne Bullen_  
     Patience, _woman to Queen Katharine_  
-    
+>   
 >   _Several lords and ladies in the dumb shows;  
     women attending upon the queen; scribes,  
     officers, guards, and other attendants._
-    
+>   
 >   _Spirits._

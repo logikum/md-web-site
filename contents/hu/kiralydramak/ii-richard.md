@@ -19,7 +19,7 @@ searchable:     true
 # II. Richárd király
 
 >   #### Szereplők
-    
+>   
 >   II. Richard király  
     Langley Edmund, _yorki herceg, a király nagybátyja_  
     Gaunt János, _lancasteri herceg_  
@@ -48,6 +48,6 @@ searchable:     true
     Özv. Gloster hercegné  
     York hercegné  
     _Hölgyek, a királyné kiséretében_
-    
+>   
 >   _Lordok, hírnökök, tisztek, katonák, kertészek, börtönőr,
     lovászlegény s más kíséret_. 

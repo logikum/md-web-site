@@ -19,7 +19,7 @@ searchable:     true
 # Titus Andronicus
 
 >   #### Szereplők
-    
+>   
 >   Saturninus, _az előző római császár fia, később kikiáltott császár_  
     Bassianus, _Saturninus testvére, szerelmes Laviniába_  
     Titus Andronicus, _római nemes, hadvezér a gótok ellen_  
@@ -45,5 +45,5 @@ searchable:     true
     Lavinia, _Titus Andronicus leánya_  
     _Egy dajka_  
     _Egy mór gyermek_
-    
+>   
 >   _Szenátorok, tribunusok, poroszlók, katonák és kíséret._

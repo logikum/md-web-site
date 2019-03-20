@@ -51,7 +51,7 @@ Athens. This is a victory for Timon but just at that point a soldier enters and
 informs them that Timon has died, all alone, in his cave.
 
 >   #### Characters
-    
+>   
 >   Timon, of Athens_  
     Lucius,  
     Lucullus,  
@@ -81,5 +81,5 @@ informs them that Timon has died, all alone, in his cave.
     Timandra, _mistresses to Alcibiades_  
     Cupid _and_  
     _Amazons in the mask_
-    
+>   
 >   _Other Lords, senators, officers, soldiers, banditti, and attendants._

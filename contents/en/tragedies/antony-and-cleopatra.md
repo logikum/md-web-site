@@ -49,7 +49,7 @@ snakes and incites them to bite her. Caesar arrives just after her death and
 orders that the twolovers be buried together.
 
 >   #### Characters
-    
+>   
 >   Mark Antony,  
     M. Aemilius Lepidus,  
     Octavius Caesar, _triumvirs_  
@@ -84,5 +84,5 @@ orders that the twolovers be buried together.
     Octavia, _sister to Caesar and wife to Antony_  
     Charmian,  
     Iras, _attendants on Cleopatra_
-    
+>   
 >   _Officers, soldiers, messengers, and other attendants._

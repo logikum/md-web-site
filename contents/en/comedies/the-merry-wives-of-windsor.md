@@ -64,7 +64,7 @@ boys. The play ends with the Pages giving their blessing to Anne’s marriage an
 everyone laughing at the evening’s antics and the humiliation of Falstaff.
 
 >   #### Characters
-    
+>   
 >   Sir John Falstaff  
     Fenton, _a gentleman_  
     Shallow, _a country justice_  
@@ -85,5 +85,5 @@ everyone laughing at the evening’s antics and the humiliation of Falstaff.
     Mistress Page  
     Anne Page, _her daughter_  
     Mistress Quickly, _servant to Doctor Caius_
-    
+>   
 >   _Servants to Page, Ford, &c._

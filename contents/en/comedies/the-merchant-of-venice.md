@@ -61,7 +61,7 @@ returned safely. With the exception of Shylock, all celebrate a happy ending to
 the affair.
 
 >   #### Characters
-    
+>   
 >   The Duke of Venice  
     The Prince of Morocco, _suitors to Portia_  
     The PRINCE OF Arragon  
@@ -82,6 +82,6 @@ the affair.
     Portia, _a rich heiress_  
     Nerissa, _her waiting-maid_  
     Jessica, _daughter to Shylock_
-    
+>   
 >   _Magnificoes of Venice, officers of the Court of Justice,
     gaoler, servants to Portia, and other attendants._

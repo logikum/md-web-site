@@ -51,7 +51,7 @@ King Edward’s wife has just given birth to a son, the future King, Edward V of
 England, and the play ends here.
 
 >    #### Characters
-    
+>   
 >   King Henry, the Sixth  
     Edward, _Prince of Wales, his son_  
     King Lewis XI, _King of France_  
@@ -90,5 +90,5 @@ England, and the play ends here.
     Queen Margaret  
     Lady Grey, _afterwards queen to Edward IV._  
     Bona, _sister to the French queen_ 
-    
+>   
 >   _Soldiers, attendants, messengers, watchmen, &c._

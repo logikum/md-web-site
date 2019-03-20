@@ -64,7 +64,7 @@ marry Marianna. Claudio and Juliet are reunited.
 The play ends with the Duke proposing to Isabella.
 
 >   #### Characters
-    
+>   
 >   Vincentio, _the Duke_  
     Angelo, _deputy_  
     Escalus, _an ancient Lord_  
@@ -86,5 +86,5 @@ The play ends with the Duke proposing to Isabella.
     Juliet, _beloved of Claudio_  
     Francisca, _a nun_  
     Mistress Overdone, _a bawd_
-    
+>   
 >   _Lords, officers, citizens, boy, and attendant._

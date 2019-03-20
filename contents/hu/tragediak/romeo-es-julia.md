@@ -19,7 +19,7 @@ searchable:     true
 # Rómeó és Júlia
 
 >   #### Szereplők
-    
+>   
 >   Escalus, _fejedelem Veronában_  
     Paris, _fiatal nemes, a fejedelem rokona_  
     Montague,  
@@ -44,7 +44,7 @@ searchable:     true
     Capuletné  
     Julia, _leánya_  
     _Julia dajkája_
-    
+>   
 >   _Őrök, kiséret, polgárok, álarczosok stb._
-    
+>   
 >   _Kar. (prológ)_

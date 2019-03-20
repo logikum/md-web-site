@@ -19,7 +19,7 @@ searchable:     true
 # IV. Henrik, I. rész
 
 >   #### Szereplők
-    
+>   
 >   IV. Henrik király  
     Henrik, _walesi herceg_  
     Lancaster János, _herceg_  
@@ -42,5 +42,5 @@ searchable:     true
     Lady Mortimer, _Glendower leánya_  
     Lady Percy, _Hővér neje_  
     Fürge, _kocsmárosné az eastcheapi kocsmában_
-    
+>   
 >   _Lordok, tisztek, bíró, pincér, szolgák, fuvarosok, utasok és kiséret._

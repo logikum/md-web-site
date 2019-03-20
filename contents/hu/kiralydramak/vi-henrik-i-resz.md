@@ -19,7 +19,7 @@ searchable:     true
 # VI. Henrik, I. rész
 
 >   #### Szereplők
-    
+>   
 >   VI. Henrik király  
     Gloster herceg, _a király nagybátyja, protector_  
     Bedford herceg, _a király nagybátyja, Franciaország helytartója_  
@@ -56,6 +56,6 @@ searchable:     true
     Margit, _Reignier leánya_  
     Auvergne grófnő  
     Jeanne d’Arc, _Pucelle néven_
-    
+>   
 >   _Rosz szellemek, kik a Pucellenek megjelennek, lordok, a Tower őrei,
     heroldok, tisztek, katonák, hirnökök, kiséret francia és angol részen._

@@ -49,7 +49,7 @@ of husbands from among his courtiers, with a rich dowry. The play ends with
 everyone being more or less satisfied.
 
 >   #### Characters
-    
+>   
 >   King of France  
     Duke of Florence  
     Bertram, _Count of Rousillon_  
@@ -64,5 +64,5 @@ everyone being more or less satisfied.
     Diana, _daughter to the widow_  
     Violenta,  
     Mariana, _neighbours and friends to the widow_
-    
+>   
 >   _Lords, officers, soldiers, &c., French and Florentine._

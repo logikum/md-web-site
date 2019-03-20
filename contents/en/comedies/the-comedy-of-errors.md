@@ -66,7 +66,7 @@ at Adriana’s house, back to his brother and the two joyfully leave the stage
 hand in hand.
 
 >   #### Characters
-    
+>   
 >   Solinus, _Duke of Ephesus_  
     Aegeon, _a merchant of Syracuse_  
     Antipholus of Ephesus,  
@@ -83,5 +83,5 @@ hand in hand.
     Luciana, _her sister_  
     Luce, _servant to Adriana_  
     _A courtezan_
-    
+>   
 >   _Gaoler, officers, and other attendants._

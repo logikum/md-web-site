@@ -19,7 +19,7 @@ searchable:     true
 # Vízkereszt, vagy amit akartok
 
 >   #### Szereplők
-    
+>   
 >   Orsino, _Illyria hercege_  
     Sebastián, _Viola testvére_  
     Antonio, _hajóskapitány, Sebastián barátja  
@@ -34,5 +34,5 @@ searchable:     true
     Olivia, _dús grófnő_  
     Viola, _a herceg szerelmese_  
     Mária, _Olivia komornája_
-    
+>   
 >   _Urak, papok, matrózok, törvényszolgák, zenészek és egyéb kíséret._

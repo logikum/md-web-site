@@ -19,7 +19,7 @@ searchable:     true
 # A windsori víg nők
 
 >   #### Szereplők
-    
+>   
 >   Falstaff János _lovag_  
     Fenton  
     Silány, _kerületi biró_  
@@ -40,5 +40,5 @@ searchable:     true
     Pázsiné  
     Pázsi Anna, _lánya, Fenton kedvese_  
     Fürgéné, _Dr. Cajus cselédje_
-    
+>   
 >   _Pázsi, Hab inasai, stb._

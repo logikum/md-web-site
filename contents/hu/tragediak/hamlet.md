@@ -19,7 +19,7 @@ searchable:     true
 # Hamlet
 
 >   #### Szereplők
-    
+>   
 >   Claudius, _Dánia királya_  
     Hamlet, _az előbbi király fia, a mostaninak unokaöccse_  
     Horatio, _Hamlet barátja_  
@@ -42,5 +42,5 @@ searchable:     true
     _Két sírásó_  
     Gertrud, _dán királyné, Hamlet anyja_  
     Ophelia, _Polonius leánya_  
-    
+>   
 >   _Urak, úrnők, tisztek, katonák, szinészek, hajósok, híradók és kiséret._

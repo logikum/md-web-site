@@ -19,7 +19,7 @@ searchable:     true
 # III. Richárd
 
 >   #### Szereplők
-    
+>   
 >   IV. Edvárd király  
     Edvárd, _walesi herceg,_  
     Richard, _yorki herceg, a király fiai_  
@@ -57,6 +57,6 @@ searchable:     true
     York hercegné, _IV. Edvárd, Clarence és Gloster anyja_  
     Lady Anna, _Edvárd walesi herceg özvegye_  
     _Clarence leánykája_
-    
+>   
 >   _Lordok és más kísérők; két nemes; hírnökszolga, írnok,
     polgárok, gyilkosok, követek, szellemek, katonák, stb._

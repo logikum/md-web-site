@@ -19,7 +19,7 @@ searchable:     true
 # VIII. Henrik
 
 >   #### Szereplők
-    
+>   
 >   VIII. Henrik király  
     Wolsey bibornok, _yorki érsek_  
     Campejus bibornok, _pápai követ_  
@@ -57,7 +57,7 @@ searchable:     true
     Bullen Anna, _udvarhölgye_  
     _Egy agg hölgy, Bullen Anna barátnéja_  
     Patience, _a királyné szolgáló hölgye_
-    
+>   
 >   _Különböző lordok és hölgyek, mint néma személyek.    
     A királyné kisérete. szellemek, álomlátásban.  
     Írnokok, tisztek, őrök s más kiséret._

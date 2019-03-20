@@ -51,7 +51,7 @@ father has been killed by the Duke of York, vows revenge on the Yorkists, and
 allies himself with King Henry’s other supporters.
 
 >   #### Characters
-    
+>   
 >   King Henry, the Sixth  
     Humphrey, _Duke of Gloucester, his uncle_  
     Cardinal Beaufort, _bishop of Winchester, great-uncle to the king_  
@@ -94,8 +94,8 @@ allies himself with King Henry’s other supporters.
     Queen Margaret, _queen to King Henry_  
     Eleanor, _Duchess of Gloucester_  
     Margaret Jourdain, _a witch, wife to Simpcox_ 
-    
+>   
 >   _Lords, Ladies, and attendants. Petitioners, aldermen, a herald, a beadle, sheriff,
     and officers, citizens, ’prentices, falconers, guards, soldiers, messengers, &c._
-    
+>   
 >   _A spirit._

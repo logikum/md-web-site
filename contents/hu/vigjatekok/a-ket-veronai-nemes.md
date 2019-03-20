@@ -19,7 +19,7 @@ searchable:     true
 # A két veronai nemes
 
 >   #### Szereplők
-    
+>   
 >   A milánói herceg, _Szilvia apja_  
     Valentin,  
     Proteus, _a két nemes_  
@@ -34,5 +34,5 @@ searchable:     true
     Júlia, _Proteus szerelmese_  
     Szilvia, _Valentin szerelmese_  
     Lucetta, _Júlia komornája_
-    
+>   
 >   _Szolgák, zenészek._

@@ -92,7 +92,7 @@ command of Rome as the new emperor. Lucius orders Aaron to be buried up to his
 chest and starved to death.
 
 >   #### Characters
-    
+>   
 >   Titus Andronicus, _renowned Roman general_  
     Lucius, _Titus' eldest son_  
     Quintus,  
@@ -119,5 +119,5 @@ chest and starved to death.
     _Roman captain_  
     _First Goth_  
     _Second Goth_
-    
+>   
 >   _Senators, tribunes, soldiers, plebeians, Goths etc._

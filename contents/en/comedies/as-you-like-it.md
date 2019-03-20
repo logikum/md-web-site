@@ -59,7 +59,7 @@ as Duke to become a hermit; Jaques goes to join him. There is a joyful dance to
 celebrate the four marriages and the happy ending.
 
 >   #### Characters
-    
+>   
 >   Duke Senior, _living in banishment_  
     Duke Frederick, _his brother, an usurper of his dominions_  
     Amiens,  
@@ -81,5 +81,5 @@ celebrate the four marriages and the happy ending.
     Celia, _daughter to Frederick_  
     Phoebe, _a shepherdess_  
     Audrey, _a country wench_
-    
+>   
 >   _Lords, pages, and attendants, &c._

@@ -53,7 +53,7 @@ takes his troops to continue the war against Mortimer and the Welsh, and the
 remnants of the Northumberland forces.
 
 >   #### Characters
-    
+>   
 >   King Henry, the Fourth  
     Henry, _Prince of Wales, sons of the King_  
     John of Lancaster  
@@ -77,6 +77,6 @@ remnants of the Northumberland forces.
     Lady Percy, _wife to Hotspur, and sister to Mortimer_  
     Lady Mortimer, _daughter to Glendower, and wife to Mortimer_  
     Mistress Quickly, _hostess of a tavern in Eastcheap_
-    
+>   
 >   _Lords, officers, sheriff, vintner, chamberlain, drawers,
     two carriers, travellers, attendants, and an ostler._

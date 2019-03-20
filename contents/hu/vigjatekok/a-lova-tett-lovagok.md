@@ -19,7 +19,7 @@ searchable:     true
 # A lóvá tett lovagok
 
 >   #### Szereplők
-    
+>   
 >   Ferdinand, _Navarra királya_  
     Biron,  
     Longaville,  
@@ -38,5 +38,5 @@ searchable:     true
     Mária,  
     Katinka, _a hercegnő kiséretéhez tartozó hölgyek_  
     Jutka, _pórleány_
-    
+>   
 >   _Tisztek s mások a király s a hercegnő kiséretében._

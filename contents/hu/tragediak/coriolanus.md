@@ -19,7 +19,7 @@ searchable:     true
 # Coriolanus
 
 >   #### Szereplők
-    
+>   
 >   Cajus Marcius Coriolanus, _római nemes_  
     Titus Lartius,  
     Cominius, _vezérek a volszkok ellen_  
@@ -37,6 +37,6 @@ searchable:     true
     Virgilia, _Coriolanus neje_  
     Valeria, _Virgilia barátnéja_  
     _Szobaleány Virgiliánál_
-    
+>   
 >   _Római és volszk senatorok, patriciusok, aedilek, lictorok,
     katonák, polgárok, követek, Aufidius szolgái és egyéb kiséret._

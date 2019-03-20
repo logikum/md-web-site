@@ -53,7 +53,7 @@ swears revenge for his brother’s death, and mourns the end of his innocence wi
 the loss of his beloved Cressida.
 
 >   #### Characters
-    
+>   
 >   Priam, _king of Troy_  
     Hector,  
     Troilus,  
@@ -82,5 +82,5 @@ the loss of his beloved Cressida.
     Andromache, _wife to Hector_  
     Cassandra, _daughter to Priam, a prophetess_  
     Cressida, _daughter to Calchas_
-    
+>   
 >   _Trojan and Greek soldiers, and attendants._

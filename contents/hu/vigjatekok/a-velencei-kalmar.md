@@ -19,7 +19,7 @@ searchable:     true
 # A velencei kalmár
 
 >   #### Szereplők
-    
+>   
 >   Velencei Doge  
     Marokkói herceg,    
     Aragoni herceg, _Portia kérői_  
@@ -40,5 +40,5 @@ searchable:     true
     Portia, _gazdag úrnő_  
     Nerissa, _kisérőnéje_  
     Jessica, _Shylock leánya_
-    
+>   
 >   _Velencei tanácstagok, törvényszéki tisztek, tömlöc-őr, szolgák s kíséret._

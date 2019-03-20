@@ -59,7 +59,7 @@ will be found. Florizel and Perdita are united. Leontes and Hermione are also
 united and, as a reward, Paulina is given Camillo as her new husband.
 
 >   #### Characters
-
+>   
 >   Leontes, _king of Sicilia_  
     Mamillius, _young prince of Sicilia_  
     Camillo,  
@@ -80,6 +80,6 @@ united and, as a reward, Paulina is given Camillo as her new husband.
     Emilia, _a lady attending on Hermione_  
     Mopsa,  
     Dorcas, _shepherdesses_
-
+>   
 >   _Other lords and gentlemen, ladies, officers, and servants, shepherds, and shepherdesses._  
     _Time, as chorus._

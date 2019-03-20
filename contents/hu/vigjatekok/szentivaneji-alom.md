@@ -19,7 +19,7 @@ searchable:     true
 # Szentivánéji álom
 
 >   #### Szereplők
-    
+>   
 >   Theseus, _Athéne ura_  
     Egéus, _Hermia atyja_  
     Lysander,  
@@ -46,6 +46,6 @@ searchable:     true
     Fal,  
     Holdvirág,  
     Oroszlán, _a közjáték személyei_
-    
+>   
 >   _Más tündérek, királyuk és királynéjok kiséretében.  
     Theseus és Hippolyta kisérői._

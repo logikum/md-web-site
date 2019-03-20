@@ -19,7 +19,7 @@ searchable:     true
 # IV. Henrik, II. rész
 
 >   #### Személyek
-    
+>   
 >   IV. Henrik király  
     Henrik, _walesi herceg,_  
     Tamás, _clarencei herceg,_  
@@ -59,7 +59,7 @@ searchable:     true
     Lady Percy  
     Fürge asszony, _kocsmárosné_  
     Vászon Dorottya
-    
+>   
 >   _Urak és kiséret, tisztek, katonák, hírnök, pincérek, poroszlók, inasok stb._
-    
+>   
 >   _A Hír, előadó. Kapus. Táncos, az utóhang előadója._

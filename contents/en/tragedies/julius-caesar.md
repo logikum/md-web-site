@@ -60,7 +60,7 @@ them all’, and orders a formal funeral before he and Octavius return to rule i
 Rome.
 
 >   #### Characters
-    
+>   
 >   Julius Caesar  
     Octavius Caesar,  
     Marcus Antonius,  
@@ -95,5 +95,5 @@ Rome.
     Pindarus, _servant to Cassius_  
     CALPURNIA, _wife to Caesar_  
     Portia, _wife to Brutus_
-    
+>   
 >   _Senators, citizens, guards, attendants, &c._

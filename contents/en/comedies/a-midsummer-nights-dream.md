@@ -60,7 +60,7 @@ Pyramus and Thisbe before the wedding guests. As the three couples retire Puck
 and the fairies return to bless the palace and its people.
 
 >   #### Characters
-    
+>   
 >   Theseus, _Duke of Athens_  
     Egeus, _father to Hermia_  
     Lysander,  
@@ -82,6 +82,6 @@ and the fairies return to bless the palace and its people.
     Cobweb,  
     Moth,  
     Mustardseed, _fairies_
-    
+>   
 >   _Other fairies attending their king and queen.  
     Attendants on Theseus and Hippolyta._
