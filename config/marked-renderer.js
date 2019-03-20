@@ -33,8 +33,8 @@ function markedRenderer( marked ) {
     }
 
     return  '<a href="' + href + '"' +
-      (target ? '" target="' + target + '"' : '') +
-      (title ? '" title="' + title + '"' : '') +
+      (target ? ' target="' + target + '"' : '') +
+      (title ? ' title="' + title + '"' : '') +
       '>' + text + '</a>';
   };
 
