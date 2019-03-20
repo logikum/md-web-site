@@ -26,8 +26,9 @@ function markedRenderer( marked ) {
   renderer.link = function (href, title, text) {
     var target = null;
 
-    var pos = (title || '').indexOf( '|' );
-    if (pos >= 0) {
+    title = title || '';
+    var pos = title.indexOf( '|' );
+    if (pos > -1) {
       target = title.substring( pos + 1).trim() || '_blank';
       title = title.substring( 0, pos).trim();
     }
