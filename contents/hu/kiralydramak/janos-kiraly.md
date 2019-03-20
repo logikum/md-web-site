@@ -19,7 +19,7 @@ searchable:     true
 # János király
 
 >   #### Szereplők
-    
+>   
 >   János király  
     Henrik herceg, _a fia_  
     Arthur, _bretagne-i herceg_  
@@ -42,6 +42,6 @@ searchable:     true
     Constantia, _Arthur anyja_  
     Blanka, _Alphonso kasztíliai király leánya_  
     Faulconbridgené
-    
+>   
 >   _Urak, hölgyek, Angiers város polgárai, sheriff, heroldok, 
     híradók, tisztek, katonák, porkolábok és kisérők_.

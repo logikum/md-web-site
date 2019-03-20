@@ -19,7 +19,7 @@ searchable:     true
 # Sok hűhó semmiért
 
 >   #### Szereplők
-    
+>   
 >   Péter, _Aragon hercege_  
     János, _öccse, fattyú-vér_  
     Claudio, _flórenci nemes ifjú_  
@@ -38,5 +38,5 @@ searchable:     true
     Beátrisz, _Leonato unoka-húga_  
     Margit,  
     Ursula, _Héro társalgónői_
-    
+>   
 >   _Futárok, őrök, kísérők._

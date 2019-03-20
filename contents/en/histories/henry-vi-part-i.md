@@ -37,7 +37,7 @@ Duke of Gloucester continues to grow.
 <!--This play ends without a resolution, and is-->
 
 >   #### Characters
-    
+>   
 >   King Henry, the Sixth  
     Duke of Gloucester, _uncle to the king, and Protector_  
     Duke of Bedford, _uncle to the king, and Regent of France_  
@@ -74,7 +74,7 @@ Duke of Gloucester continues to grow.
     Margaret, _daughter to Reignier, afterwards married to King Henry_  
     Countess of Auvergne  
     Joan la Pucelle, _commonly called Joan of Arc_  
-    
+>   
 >   _Lords, warders of the Tower, heralds, officers, soldiers, messengers, and attendants._
-    
+>   
 >   _Fiends appearing to La Pucelle._

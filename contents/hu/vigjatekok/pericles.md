@@ -19,7 +19,7 @@ searchable:     true
 # Pericles
 
 >   #### Stereplők
-    
+>   
 >   Antiochus, _Antiochia királya_  
     Perikles, _Tyrus fejedelme_  
     Helicanus,  
@@ -40,5 +40,5 @@ searchable:     true
     Lychorida, _Marina dajkája_  
     Diana,  
     Gower, _mint kar_
-    
+>   
 >   _Urak, hölgyek, lovagok, nemesek, matrózok, kalózok, halászok, hírnökök, stb._

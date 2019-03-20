@@ -60,7 +60,7 @@ Ceasarian birth, realises he is doomed. Macduff triumphs and brings the head of
 the traitor to Malcolm who declares peace and is crowned king.
 
 >   #### Character
-    
+>   
 >   Duncan, _king of Scotland_  
     Malcolm,  
     Donalbain, _his sons_  
@@ -86,6 +86,6 @@ the traitor to Malcolm who declares peace and is crowned king.
     Lady Macduff, _gentlewoman attending on Lady Macbeth_  
     Hecate  
     _Three witches_  
-    
+>   
 >   _Apparitions.  
     Lords, gentlemen, officers, soldiers, murderers, attendants, and messengers._

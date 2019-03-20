@@ -52,7 +52,7 @@ his court. The play ends with Falstaff left hurt and hoping that the king will
 change his mind, while the King Henry plans a war against France.
 
 >   #### Characters
-    
+>   
 >   Rumour, _the Presenter_  
     King Henry, the Fourth  
     Prince Henry of Wales, _afterwards King Henry V.,_  
@@ -94,7 +94,7 @@ change his mind, while the King Henry plans a war against France.
     Lady Percy  
     Mistress Quickly, _hostess of a tavern in Eastcheap_  
     Doll Tearsheet  
-    
+>   
 >   _Lords and attendants; porter, drawers, beadles, grooms, &c._
-    
+>   
 >   _A dancer, speaker of the epilogue._

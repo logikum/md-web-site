@@ -63,7 +63,7 @@ Ariel is set free. Caliban and the drunken servants are also forgiven. There is
 a final celebration of their reunion.
 
 >   #### Charcters
-    
+>   
 >   Alonso, _King of Naples_  
     Sebastian, _his brother_  
     Prospero, _the right Duke of Milan_  
@@ -83,5 +83,5 @@ a final celebration of their reunion.
     Iris,  
     Ceres,  
     Juno, _spirits_
-    
+>   
 >   _Nymphs, reapers, presented by spirits. Other spirits attending on Prospero._

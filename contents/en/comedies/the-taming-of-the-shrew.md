@@ -52,11 +52,11 @@ the most obedient. Bianca and the widow fail to come to their husbands when
 called while Kate lectures the women on the duties of a wife.
 
 >   #### Characters
-    
+>   
 >   _A Lord_  
     Christopher Sly, _a tinker_  
     _Hostess, page, players, huntsmen, and servants, persons in the Induction._
-
+>   
 >   Baptista, _a rich gentleman of Padua_  
     Vincentio, _an old gentleman of Pisa_  
     Lucentio, _son to Vincentio, in love with Bianca_  

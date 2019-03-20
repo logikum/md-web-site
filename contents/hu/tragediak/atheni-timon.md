@@ -19,7 +19,7 @@ searchable:     true
 # Athéni Timon
 
 >   #### Szereplők
-    
+>   
 >   Timon, _athéni nemes_  
     Lucius,  
     Lucullus,  
@@ -49,5 +49,5 @@ searchable:     true
     _Bolond_  
     Phrynia,  
     Timandra, _Alcibiades szeretői_
-    
+>   
 >   _Urak, tanácsosok, tisztek, katonák, tolvajok és kisérők._

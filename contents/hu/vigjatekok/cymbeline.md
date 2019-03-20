@@ -19,7 +19,7 @@ searchable:     true
 # Cymbeline
 
 >   #### Szereplők
-    
+>   
 >   Cymbeline, _Britannia királya_  
     Cloten, _a királyné fia első férjétől_  
     Leonatus Posthumus, _Imogen férje_  
@@ -39,7 +39,7 @@ searchable:     true
     A királyné, _Cymbeline felesége_  
     Imogen, _Cymbeline leánya az előbbi királynétól_  
     Helen, _Imogen nőcselédje_
-    
+>   
 >   _Urak, hölgyek, római szenátorok, tribunok, jelenések,
     egy jós, egy hollandi nemes, egy spanyol nemes, zenészek,
     tisztek, kapitányok, katonák, követek, és más kiséret._

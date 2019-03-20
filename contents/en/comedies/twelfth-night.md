@@ -57,7 +57,7 @@ attraction to Cesario, he promises that once she is dressed as a woman again
 they, too, will be married.
 
 >   #### Characters
-    
+>   
 >   Orsino, _Duke of Illyria_  
     Sebastian, _brother to Viola_  
     Antonio, _a sea captain, friend to Sebastian_  
@@ -72,5 +72,5 @@ they, too, will be married.
     Olivia  
     Viola  
     Maria, _Olivia’s woman_
-    
+>   
 >   _Lords, priests, sailors, officers, musicians, and other attendants._

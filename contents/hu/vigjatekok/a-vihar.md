@@ -19,7 +19,7 @@ searchable:     true
 # A vihar
 
 >   #### Szereplők
-    
+>   
 >   Alonzo, _Nápoly királya_  
     Sebastiano, _a király öccse_  
     Prospero, _Milánó jogszerű hercege_  
@@ -39,5 +39,5 @@ searchable:     true
     Iris,  
     Ceres,  
     Juno, _szellemek_
-    
+>   
 >   _Nymphák, aratók s más szellemek Prospero szolgálatában._

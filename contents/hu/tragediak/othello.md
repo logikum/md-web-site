@@ -19,7 +19,7 @@ searchable:     true
 # Othello
 
 >   #### Szereplők
-    
+>   
 >   Velencei doge  
     Brabantio, _tanácsos_  
     _Más két tanácsos_  
@@ -35,5 +35,5 @@ searchable:     true
     Desdemona, _Brabantio leánya, Othello neje_  
     Emilia, _Jago neje_  
     Bianca, _Cassio kedvese_
-    
+>   
 >   _Tisztek, nemesek, hirnökök, zenészek, hajósok, kiséret._

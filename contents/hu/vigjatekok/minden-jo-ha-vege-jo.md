@@ -19,7 +19,7 @@ searchable:     true
 # Minden jó, ha vége jó
 
 >   #### Szereplők
-    
+>   
 >   Franciaország királya  
     Flórenc uralkodó hercege  
     Bertram, _Rousillon grófja_  
@@ -35,5 +35,5 @@ searchable:     true
     Diana, _ennek leánya_  
     Violenta,  
     Mariana, _ez utóbbiak szomszéd- s barátnői_
-    
+>   
 >   _Főurak, a király kiséretéből; tisztek, katonák, franciák és flórenciek._

@@ -19,7 +19,7 @@ searchable:     true
 # Julius Caesar
 
 >   #### Szereplők
-    
+>   
 >   Julius Caesar  
     Octavius Caesar,  
     Marcus Antonius,  
@@ -55,5 +55,5 @@ searchable:     true
     Pindarus, _Cassius szolgája_  
     Calpurnia, _Caesar neje_  
     Portia, _Brutus neje_
-    
+>   
 >   _Senatorok, polgárok, őrök, cselédek, katonák._

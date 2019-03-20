@@ -19,7 +19,7 @@ searchable:     true
 # Szeget szeggel
 
 >   #### Szereplők
-    
+>   
 >   Vincentio, _Bécs hercege_  
     Angelo, _helytartója_  
     Escalus, _öreg tanácsúr_  
@@ -41,5 +41,5 @@ searchable:     true
     Julia, _Claudio kedvese_  
     Francisca, _apáca_  
     Nyüviné, _kerítő asszony_
-    
+>   
 >   _Főurak, urak, őrök, tisztek, inasok s egyéb kisérők._

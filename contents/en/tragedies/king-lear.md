@@ -71,7 +71,7 @@ hangman. Lear’s heart breaks as he carries the body of his beloved daughter in
 his arms, and Albany and Edgar are left to re-organise the kingdom.
 
 >   #### Characters
-    
+>   
 >   Lear, _king of Britain_  
     King of France  
     Duke of Burgundy  
@@ -93,5 +93,5 @@ his arms, and Albany and Edgar are left to re-organise the kingdom.
     Goneril,  
     Regan,  
     Cordelia, _daughters to Lear_
-    
+>   
 >   _Knights of Lear’s train, captains, messengers, soldiers, and attendants._

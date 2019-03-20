@@ -54,7 +54,7 @@ Valentine; the two couples agree to share a wedding day and the duke pardons the
 outlaws.
 
 >   #### Characters
-    
+>   
 >   Duke of Milan, _father to Silvia_  
     Valentine,  
     Proteus, _the two gentlemen_  
@@ -69,5 +69,5 @@ outlaws.
     Julia, _beloved of Proteus_  
     Silvia, _beloved of Valentine_  
     Lucetta, _waiting-woman to Julia_
-    
+>   
 >   _Servants, musicians._

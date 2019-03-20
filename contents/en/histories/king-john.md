@@ -40,7 +40,7 @@ John is not there to see that as he is poisoned by a monk while he is staying at
 Swinstead Abbey. He is succeeded by his son, King Henry III.
 
 >   #### Characters
-
+>   
 >   King John  
     Prince Henry, _son to the king_  
     Arthur, _duke of Bretagne, nephew to the king_  
@@ -63,6 +63,6 @@ Swinstead Abbey. He is succeeded by his son, King Henry III.
     Constance, _mother to Arthur_  
     Blanch of Spain, _niece to King John_  
     Lady Faulconbridge
-    
+>   
 >   _Lords, citizens of Angiers, sheriff, heralds, officers, 
     soldiers, messengers, and other attendants._ 

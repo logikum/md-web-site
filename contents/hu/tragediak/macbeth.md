@@ -19,7 +19,7 @@ searchable:     true
 # Macbeth
 
 >   #### Szereplők
-    
+>   
 >   Duncan, _skót király_  
     Malcolm,  
     Donalbain, _fiai_  
@@ -47,6 +47,6 @@ searchable:     true
     _Lady Macbeth komornája_  
     Hecate _és_  
     _három boszorkány_
-    
+>   
 >   _Lordok, urak, tisztek, katonák, szolgák, hírnökök és egyéb kiséret.  
     Banquo szelleme és egyéb látmányok._

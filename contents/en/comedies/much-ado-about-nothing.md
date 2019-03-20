@@ -54,7 +54,7 @@ Don John has been captured while trying to escape and is left for future trial
 while the play ends with a merry dance.
 
 >   #### Characters
-    
+>   
 >   Don Pedro, _prince of Arragon_  
     Don John, _his bastard brother_  
     Claudio, _a young lord of Florence_  
@@ -73,5 +73,5 @@ while the play ends with a merry dance.
     Beatrice, _niece to Leonato_  
     Margaret,  
     Ursula, _gentlewomen attending on Hero_
-    
+>   
 >   _Messengers, watch, attendants, &c._

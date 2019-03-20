@@ -19,7 +19,7 @@ searchable:     true
 # Ahogy tetszik
 
 >   #### Szereplők
-    
+>   
 >   Az idősb herceg, _száműzött_  
     Fridrik, _testvére, bitorló bátyja tartományaiban_  
     Amiens,  
@@ -42,5 +42,5 @@ searchable:     true
     Celia, _Fridrik leánya_  
     Phoebe, _pásztorleány_  
     Juci, _pórleány_
-    
+>   
 >   _Urak, apródok, vadászok és kiséret._

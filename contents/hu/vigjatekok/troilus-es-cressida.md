@@ -19,7 +19,7 @@ searchable:     true
 # Troilus és Cressida
 
 >   #### Szereplők
-    
+>   
 >   Priam, _Trója királya_  
     Hektor,  
     Troilus,  
@@ -48,5 +48,5 @@ searchable:     true
     Andromache, _Hektor neje_  
     Kassandra, _Priam leánya; jósnő_  
     Kressida, _Kalchas leánya_  
-    
+>   
 >   _Trójai és görög katonák; kiséret._

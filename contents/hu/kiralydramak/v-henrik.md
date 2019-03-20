@@ -19,7 +19,7 @@ searchable:     true
 # V. Henrik
 
 >   #### Szereplők
-    
+>   
 >   V. Henrik Király  
     Gloster herceg,  
     Bedford herceg, _a király testvérei_  
@@ -62,5 +62,5 @@ searchable:     true
     Katalin, _Károly és Izabella leánya_  
     Alice, _a hercegnő udvarhölgye_  
     Fürgéné, _kocsmárosné_
-    
+>   
 >   _Urak, hölgyek, tisztek, francia és angol katonák, hírnökök és kiséret._

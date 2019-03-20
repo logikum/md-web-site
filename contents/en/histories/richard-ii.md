@@ -54,7 +54,7 @@ the body toLondon. The play ends with King Henry swearing to make reparation for
 his cousin’s death by going one day on a pilgrimage to Jerusalem.
 
 >   #### Characters
-    
+>   
 >   King Richard, _the Second_  
     John of Gaunt, _Duke of Lancaster, uncles to the King_  
     Edmund of Langley, _Duke of York_  
@@ -81,6 +81,6 @@ his cousin’s death by going one day on a pilgrimage to Jerusalem.
     Duchess of York  
     Duchess of Gloucester  
     _Lady attending on the Queen_
-    
+>   
 >   _Lords, heralds, officers, soldiers, two gardeners, keeper,
     messenger, groom, and other attendants._
