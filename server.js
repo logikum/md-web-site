@@ -1,28 +1,33 @@
 'use strict';
 
-var express = require( 'express' );
-var path = require( 'path' );
-var favicon = require( 'serve-favicon' );
-var helmet = require( 'helmet' );
-var compression = require( 'compression' );
-var serveStatic = require( 'serve-static') ;
-var session = require( 'express-session' );
-var RedisStore = require( 'connect-redis' )( session );
-var bodyParser = require('body-parser');
-var engine = require( '@logikum/md-site-engine' );
+const express = require( 'express' );
+const path = require( 'path' );
+const favicon = require( 'serve-favicon' );
+const helmet = require( 'helmet' );
+const compression = require( 'compression' );
+const serveStatic = require( 'serve-static');
+const bodyParser = require('body-parser');
+const engine = require( '@logikum/md-site-engine' );
 
 // Determine run mode.
-var mode = process.env.NODE_ENV || 'development';
+const mode = process.env.NODE_ENV || 'development';
 
 // Get configuration.
-var configPath = 'config/' + mode + '.json';
-var config = engine.getConfiguration( configPath );
+const configPath = 'config/' + mode + '.json';
+const config = engine.getConfiguration( configPath );
+
+// Set up Redis connection.
+const session = require('express-session');
+let RedisStore = require('connect-redis')(session);
+const { createClient } = require('redis');
+let redisClient = createClient({ legacyMode: true })
+redisClient.connect().catch(console.error)
 
 // Set up content manager.
 engine.getContents( config );
 
 // Create application.
-var app = module.exports = express();
+const app = module.exports = express();
 
 // Serve favicon.
 app.use( favicon( path.join( __dirname, 'public/favicon.ico' ) ) );
@@ -32,7 +37,7 @@ app.use( helmet() );
 
 // Set up session handling.
 app.use( session( {
-  store: new RedisStore( config.redis ),
+  store: new RedisStore({ client: redisClient }),
   secret: config.session.secret,
   resave: config.session.resave,
   saveUninitialized: config.session.saveUninitialized
@@ -51,8 +56,8 @@ app.use( bodyParser.urlencoded( { extended: true } ) );
 engine.setRoutes( app, { }, mode );
 
 // Start web server.
-var host = process.env.HOST || '127.0.0.1';
-var port = process.env.PORT || 3000;
-var server = app.listen( port, host, function () {
+const host = process.env.HOST || '127.0.0.1';
+const port = process.env.PORT || 3000;
+const server = app.listen( port, host, function () {
   console.log( 'Markdown demonstration site listening at http://%s:%s', host, port );
 } );
