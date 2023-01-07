@@ -9,7 +9,7 @@ var serveStatic = require( 'serve-static') ;
 var session = require( 'express-session' );
 var RedisStore = require( 'connect-redis' )( session );
 var bodyParser = require('body-parser');
-var engine = require( 'md-site-engine' );
+var engine = require( '@logikum/md-site-engine' );
 
 // Determine run mode.
 var mode = process.env.NODE_ENV || 'development';
